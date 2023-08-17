@@ -1,0 +1,962 @@
+Część;Dział;Rozdział;Treść;Plan;id;parent;label;super_label;Treść_część;Treść_dział
+01;;;KANCELARIA PREZYDENTA RP;245856;01;total;245.9 MLN;KANCELARIA PREZYDENTA RP 245.9 MLN;KANCELARIA PREZYDENTA RP;KANCELARIA PREZYDENTA RP
+01;751;;Urzędy naczelnych organów władzy państwowej, kontroli i ochrony prawa oraz sądownictwa;206406;01-751;01;206.4 MLN;Urzędy naczelnych organów władzy państwowej, kontroli i ochrony prawa oraz sądownictwa 206.4 MLN;KANCELARIA PREZYDENTA RP;Urzędy naczelnych organów władzy państwowej, kontroli i ochrony prawa oraz sądownictwa
+01;751;75101;Urzędy naczelnych organów władzy państwowej, kontroli i ochrony prawa;171794;01-751-75101;01-751;171.8 MLN;Urzędy naczelnych organów władzy państwowej, kontroli i ochrony prawa 171.8 MLN;KANCELARIA PREZYDENTA RP;Urzędy naczelnych organów władzy państwowej, kontroli i ochrony prawa oraz sądownictwa
+01;751;75103;Biuro Bezpieczeństwa Narodowego;19282;01-751-75103;01-751;19.3 MLN;Biuro Bezpieczeństwa Narodowego 19.3 MLN;KANCELARIA PREZYDENTA RP;Urzędy naczelnych organów władzy państwowej, kontroli i ochrony prawa oraz sądownictwa
+01;751;75106;Odznaczenia państwowe;6494;01-751-75106;01-751;6.5 MLN;Odznaczenia państwowe 6.5 MLN;KANCELARIA PREZYDENTA RP;Urzędy naczelnych organów władzy państwowej, kontroli i ochrony prawa oraz sądownictwa
+01;751;75111;Biuro Polityki Międzynarodowej;5960;01-751-75111;01-751;6.0 MLN;Biuro Polityki Międzynarodowej 6.0 MLN;KANCELARIA PREZYDENTA RP;Urzędy naczelnych organów władzy państwowej, kontroli i ochrony prawa oraz sądownictwa
+01;751;75195;Pozostała działalność;2876;01-751-75195;01-751;2.9 MLN;Pozostała działalność 2.9 MLN;KANCELARIA PREZYDENTA RP;Urzędy naczelnych organów władzy państwowej, kontroli i ochrony prawa oraz sądownictwa
+01;921;;Kultura i ochrona dziedzictwa narodowego;39450;01-921;01;39.5 MLN;Kultura i ochrona dziedzictwa narodowego 39.5 MLN;KANCELARIA PREZYDENTA RP;Kultura i ochrona dziedzictwa narodowego
+01;921;92120;Ochrona zabytków i opieka nad zabytkami;2450;01-921-92120;01-921;2.5 MLN;Ochrona zabytków i opieka nad zabytkami 2.5 MLN;KANCELARIA PREZYDENTA RP;Kultura i ochrona dziedzictwa narodowego
+01;921;92123;Narodowy Fundusz Rewaloryzacji Zabytków Krakowa;37000;01-921-92123;01-921;37.0 MLN;Narodowy Fundusz Rewaloryzacji Zabytków Krakowa 37.0 MLN;KANCELARIA PREZYDENTA RP;Kultura i ochrona dziedzictwa narodowego
+02;;;KANCELARIA SEJMU;683226;02;total;683.2 MLN;KANCELARIA SEJMU 683.2 MLN;KANCELARIA SEJMU;KANCELARIA SEJMU
+02;751;;Urzędy naczelnych organów władzy państwowej, kontroli i ochrony prawa oraz sądownictwa;683226;02-751;02;683.2 MLN;Urzędy naczelnych organów władzy państwowej, kontroli i ochrony prawa oraz sądownictwa 683.2 MLN;KANCELARIA SEJMU;Urzędy naczelnych organów władzy państwowej, kontroli i ochrony prawa oraz sądownictwa
+02;751;75101;Urzędy naczelnych organów władzy państwowej, kontroli i ochrony prawa;683226;02-751-75101;02-751;683.2 MLN;Urzędy naczelnych organów władzy państwowej, kontroli i ochrony prawa 683.2 MLN;KANCELARIA SEJMU;Urzędy naczelnych organów władzy państwowej, kontroli i ochrony prawa oraz sądownictwa
+03;;;KANCELARIA SENATU;152044;03;total;152.0 MLN;KANCELARIA SENATU 152.0 MLN;KANCELARIA SENATU;KANCELARIA SENATU
+03;751;;Urzędy naczelnych organów władzy państwowej, kontroli i ochrony prawa oraz sądownictwa;152044;03-751;03;152.0 MLN;Urzędy naczelnych organów władzy państwowej, kontroli i ochrony prawa oraz sądownictwa 152.0 MLN;KANCELARIA SENATU;Urzędy naczelnych organów władzy państwowej, kontroli i ochrony prawa oraz sądownictwa
+03;751;75101;Urzędy naczelnych organów władzy państwowej, kontroli i ochrony prawa;152044;03-751-75101;03-751;152.0 MLN;Urzędy naczelnych organów władzy państwowej, kontroli i ochrony prawa 152.0 MLN;KANCELARIA SENATU;Urzędy naczelnych organów władzy państwowej, kontroli i ochrony prawa oraz sądownictwa
+04;;;SĄD NAJWYŻSZY;217740;04;total;217.7 MLN;SĄD NAJWYŻSZY 217.7 MLN;SĄD NAJWYŻSZY;SĄD NAJWYŻSZY
+04;751;;Urzędy naczelnych organów władzy państwowej, kontroli i ochrony prawa oraz sądownictwa;175925;04-751;04;175.9 MLN;Urzędy naczelnych organów władzy państwowej, kontroli i ochrony prawa oraz sądownictwa 175.9 MLN;SĄD NAJWYŻSZY;Urzędy naczelnych organów władzy państwowej, kontroli i ochrony prawa oraz sądownictwa
+04;751;75102;Naczelne organy sądownictwa;175925;04-751-75102;04-751;175.9 MLN;Naczelne organy sądownictwa 175.9 MLN;SĄD NAJWYŻSZY;Urzędy naczelnych organów władzy państwowej, kontroli i ochrony prawa oraz sądownictwa
+04;753;;Obowiązkowe ubezpieczenia społeczne;41815;04-753;04;41.8 MLN;Obowiązkowe ubezpieczenia społeczne 41.8 MLN;SĄD NAJWYŻSZY;Obowiązkowe ubezpieczenia społeczne
+04;753;75312;Uposażenia sędziów w stanie spoczynku oraz uposażenia rodzinne;41815;04-753-75312;04-753;41.8 MLN;Uposażenia sędziów w stanie spoczynku oraz uposażenia rodzinne 41.8 MLN;SĄD NAJWYŻSZY;Obowiązkowe ubezpieczenia społeczne
+05;;;NACZELNY SĄD ADMINISTRACYJNY;703563;05;total;703.6 MLN;NACZELNY SĄD ADMINISTRACYJNY 703.6 MLN;NACZELNY SĄD ADMINISTRACYJNY;NACZELNY SĄD ADMINISTRACYJNY
+05;751;;Urzędy naczelnych organów władzy państwowej, kontroli i ochrony prawa oraz sądownictwa;605114;05-751;05;605.1 MLN;Urzędy naczelnych organów władzy państwowej, kontroli i ochrony prawa oraz sądownictwa 605.1 MLN;NACZELNY SĄD ADMINISTRACYJNY;Urzędy naczelnych organów władzy państwowej, kontroli i ochrony prawa oraz sądownictwa
+05;751;75102;Naczelne organy sądownictwa;605114;05-751-75102;05-751;605.1 MLN;Naczelne organy sądownictwa 605.1 MLN;NACZELNY SĄD ADMINISTRACYJNY;Urzędy naczelnych organów władzy państwowej, kontroli i ochrony prawa oraz sądownictwa
+05;753;;Obowiązkowe ubezpieczenia społeczne;98449;05-753;05;98.4 MLN;Obowiązkowe ubezpieczenia społeczne 98.4 MLN;NACZELNY SĄD ADMINISTRACYJNY;Obowiązkowe ubezpieczenia społeczne
+05;753;75312;Uposażenia sędziów w stanie spoczynku oraz uposażenia rodzinne;98449;05-753-75312;05-753;98.4 MLN;Uposażenia sędziów w stanie spoczynku oraz uposażenia rodzinne 98.4 MLN;NACZELNY SĄD ADMINISTRACYJNY;Obowiązkowe ubezpieczenia społeczne
+06;;;TRYBUNAŁ KONSTYTUCYJNY;48659;06;total;48.7 MLN;TRYBUNAŁ KONSTYTUCYJNY 48.7 MLN;TRYBUNAŁ KONSTYTUCYJNY;TRYBUNAŁ KONSTYTUCYJNY
+06;751;;Urzędy naczelnych organów władzy państwowej, kontroli i ochrony prawa oraz sądownictwa;37439;06-751;06;37.4 MLN;Urzędy naczelnych organów władzy państwowej, kontroli i ochrony prawa oraz sądownictwa 37.4 MLN;TRYBUNAŁ KONSTYTUCYJNY;Urzędy naczelnych organów władzy państwowej, kontroli i ochrony prawa oraz sądownictwa
+06;751;75102;Naczelne organy sądownictwa;37439;06-751-75102;06-751;37.4 MLN;Naczelne organy sądownictwa 37.4 MLN;TRYBUNAŁ KONSTYTUCYJNY;Urzędy naczelnych organów władzy państwowej, kontroli i ochrony prawa oraz sądownictwa
+06;753;;Obowiązkowe ubezpieczenia społeczne;11220;06-753;06;11.2 MLN;Obowiązkowe ubezpieczenia społeczne 11.2 MLN;TRYBUNAŁ KONSTYTUCYJNY;Obowiązkowe ubezpieczenia społeczne
+06;753;75312;Uposażenia sędziów w stanie spoczynku oraz uposażenia rodzinne;11220;06-753-75312;06-753;11.2 MLN;Uposażenia sędziów w stanie spoczynku oraz uposażenia rodzinne 11.2 MLN;TRYBUNAŁ KONSTYTUCYJNY;Obowiązkowe ubezpieczenia społeczne
+07;;;NAJWYŻSZA IZBA KONTROLI;364346;07;total;364.3 MLN;NAJWYŻSZA IZBA KONTROLI 364.3 MLN;NAJWYŻSZA IZBA KONTROLI;NAJWYŻSZA IZBA KONTROLI
+07;751;;Urzędy naczelnych organów władzy państwowej, kontroli i ochrony prawa oraz sądownictwa;364346;07-751;07;364.3 MLN;Urzędy naczelnych organów władzy państwowej, kontroli i ochrony prawa oraz sądownictwa 364.3 MLN;NAJWYŻSZA IZBA KONTROLI;Urzędy naczelnych organów władzy państwowej, kontroli i ochrony prawa oraz sądownictwa
+07;751;75101;Urzędy naczelnych organów władzy państwowej, kontroli i ochrony prawa;364346;07-751-75101;07-751;364.3 MLN;Urzędy naczelnych organów władzy państwowej, kontroli i ochrony prawa 364.3 MLN;NAJWYŻSZA IZBA KONTROLI;Urzędy naczelnych organów władzy państwowej, kontroli i ochrony prawa oraz sądownictwa
+08;;;RZECZNIK PRAW OBYWATELSKICH;68624;08;total;68.6 MLN;RZECZNIK PRAW OBYWATELSKICH 68.6 MLN;RZECZNIK PRAW OBYWATELSKICH;RZECZNIK PRAW OBYWATELSKICH
+08;751;;Urzędy naczelnych organów władzy państwowej, kontroli i ochrony prawa oraz sądownictwa;68624;08-751;08;68.6 MLN;Urzędy naczelnych organów władzy państwowej, kontroli i ochrony prawa oraz sądownictwa 68.6 MLN;RZECZNIK PRAW OBYWATELSKICH;Urzędy naczelnych organów władzy państwowej, kontroli i ochrony prawa oraz sądownictwa
+08;751;75101;Urzędy naczelnych organów władzy państwowej, kontroli i ochrony prawa;68624;08-751-75101;08-751;68.6 MLN;Urzędy naczelnych organów władzy państwowej, kontroli i ochrony prawa 68.6 MLN;RZECZNIK PRAW OBYWATELSKICH;Urzędy naczelnych organów władzy państwowej, kontroli i ochrony prawa oraz sądownictwa
+09;;;KRAJOWA RADA RADIOFONII I TELEWIZJI;83094;09;total;83.1 MLN;KRAJOWA RADA RADIOFONII I TELEWIZJI 83.1 MLN;KRAJOWA RADA RADIOFONII I TELEWIZJI;KRAJOWA RADA RADIOFONII I TELEWIZJI
+09;751;;Urzędy naczelnych organów władzy państwowej, kontroli i ochrony prawa oraz sądownictwa;83094;09-751;09;83.1 MLN;Urzędy naczelnych organów władzy państwowej, kontroli i ochrony prawa oraz sądownictwa 83.1 MLN;KRAJOWA RADA RADIOFONII I TELEWIZJI;Urzędy naczelnych organów władzy państwowej, kontroli i ochrony prawa oraz sądownictwa
+09;751;75101;Urzędy naczelnych organów władzy państwowej, kontroli i ochrony prawa;83094;09-751-75101;09-751;83.1 MLN;Urzędy naczelnych organów władzy państwowej, kontroli i ochrony prawa 83.1 MLN;KRAJOWA RADA RADIOFONII I TELEWIZJI;Urzędy naczelnych organów władzy państwowej, kontroli i ochrony prawa oraz sądownictwa
+10;;;URZĄD OCHRONY DANYCH OSOBOWYCH;44956;10;total;45.0 MLN;URZĄD OCHRONY DANYCH OSOBOWYCH 45.0 MLN;URZĄD OCHRONY DANYCH OSOBOWYCH;URZĄD OCHRONY DANYCH OSOBOWYCH
+10;751;;Urzędy naczelnych organów władzy państwowej, kontroli i ochrony prawa oraz sądownictwa;44956;10-751;10;45.0 MLN;Urzędy naczelnych organów władzy państwowej, kontroli i ochrony prawa oraz sądownictwa 45.0 MLN;URZĄD OCHRONY DANYCH OSOBOWYCH;Urzędy naczelnych organów władzy państwowej, kontroli i ochrony prawa oraz sądownictwa
+10;751;75101;Urzędy naczelnych organów władzy państwowej, kontroli i ochrony prawa;44956;10-751-75101;10-751;45.0 MLN;Urzędy naczelnych organów władzy państwowej, kontroli i ochrony prawa 45.0 MLN;URZĄD OCHRONY DANYCH OSOBOWYCH;Urzędy naczelnych organów władzy państwowej, kontroli i ochrony prawa oraz sądownictwa
+11;;;KRAJOWE BIURO WYBORCZE;91902;11;total;91.9 MLN;KRAJOWE BIURO WYBORCZE 91.9 MLN;KRAJOWE BIURO WYBORCZE;KRAJOWE BIURO WYBORCZE
+11;751;;Urzędy naczelnych organów władzy państwowej, kontroli i ochrony prawa oraz sądownictwa;91902;11-751;11;91.9 MLN;Urzędy naczelnych organów władzy państwowej, kontroli i ochrony prawa oraz sądownictwa 91.9 MLN;KRAJOWE BIURO WYBORCZE;Urzędy naczelnych organów władzy państwowej, kontroli i ochrony prawa oraz sądownictwa
+11;751;75101;Urzędy naczelnych organów władzy państwowej, kontroli i ochrony prawa;91902;11-751-75101;11-751;91.9 MLN;Urzędy naczelnych organów władzy państwowej, kontroli i ochrony prawa 91.9 MLN;KRAJOWE BIURO WYBORCZE;Urzędy naczelnych organów władzy państwowej, kontroli i ochrony prawa oraz sądownictwa
+12;;;PAŃSTWOWA INSPEKCJA PRACY;453433;12;total;453.4 MLN;PAŃSTWOWA INSPEKCJA PRACY 453.4 MLN;PAŃSTWOWA INSPEKCJA PRACY;PAŃSTWOWA INSPEKCJA PRACY
+12;751;;Urzędy naczelnych organów władzy państwowej, kontroli i ochrony prawa oraz sądownictwa;453433;12-751;12;453.4 MLN;Urzędy naczelnych organów władzy państwowej, kontroli i ochrony prawa oraz sądownictwa 453.4 MLN;PAŃSTWOWA INSPEKCJA PRACY;Urzędy naczelnych organów władzy państwowej, kontroli i ochrony prawa oraz sądownictwa
+12;751;75101;Urzędy naczelnych organów władzy państwowej, kontroli i ochrony prawa;453433;12-751-75101;12-751;453.4 MLN;Urzędy naczelnych organów władzy państwowej, kontroli i ochrony prawa 453.4 MLN;PAŃSTWOWA INSPEKCJA PRACY;Urzędy naczelnych organów władzy państwowej, kontroli i ochrony prawa oraz sądownictwa
+13;;;INSTYTUT PAMIĘCI NARODOWEJ – KOMISJA ŚCIGANIA ZBRODNI PRZECIWKO NARODOWI POLSKIEMU;535613;13;total;535.6 MLN;INSTYTUT PAMIĘCI NARODOWEJ – KOMISJA ŚCIGANIA ZBRODNI PRZECIWKO NARODOWI POLSKIEMU 535.6 MLN;INSTYTUT PAMIĘCI NARODOWEJ – KOMISJA ŚCIGANIA ZBRODNI PRZECIWKO NARODOWI POLSKIEMU;INSTYTUT PAMIĘCI NARODOWEJ – KOMISJA ŚCIGANIA ZBRODNI PRZECIWKO NARODOWI POLSKIEMU
+13;751;;Urzędy naczelnych organów władzy państwowej, kontroli i ochrony prawa oraz sądownictwa;479559;13-751;13;479.6 MLN;Urzędy naczelnych organów władzy państwowej, kontroli i ochrony prawa oraz sądownictwa 479.6 MLN;INSTYTUT PAMIĘCI NARODOWEJ – KOMISJA ŚCIGANIA ZBRODNI PRZECIWKO NARODOWI POLSKIEMU;Urzędy naczelnych organów władzy państwowej, kontroli i ochrony prawa oraz sądownictwa
+13;751;75101;Urzędy naczelnych organów władzy państwowej, kontroli i ochrony prawa;248149;13-751-75101;13-751;248.1 MLN;Urzędy naczelnych organów władzy państwowej, kontroli i ochrony prawa 248.1 MLN;INSTYTUT PAMIĘCI NARODOWEJ – KOMISJA ŚCIGANIA ZBRODNI PRZECIWKO NARODOWI POLSKIEMU;Urzędy naczelnych organów władzy państwowej, kontroli i ochrony prawa oraz sądownictwa
+13;751;75112;Jednostki podległe Instytutowi Pamięci Narodowej - Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu;231410;13-751-75112;13-751;231.4 MLN;Jednostki podległe Instytutowi Pamięci Narodowej - Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu 231.4 MLN;INSTYTUT PAMIĘCI NARODOWEJ – KOMISJA ŚCIGANIA ZBRODNI PRZECIWKO NARODOWI POLSKIEMU;Urzędy naczelnych organów władzy państwowej, kontroli i ochrony prawa oraz sądownictwa
+13;753;;Obowiązkowe ubezpieczenia społeczne;9885;13-753;13;9.9 MLN;Obowiązkowe ubezpieczenia społeczne 9.9 MLN;INSTYTUT PAMIĘCI NARODOWEJ – KOMISJA ŚCIGANIA ZBRODNI PRZECIWKO NARODOWI POLSKIEMU;Obowiązkowe ubezpieczenia społeczne
+13;753;75302;Uposażenia prokuratorów w stanie spoczynku oraz uposażenia rodzinne;9885;13-753-75302;13-753;9.9 MLN;Uposażenia prokuratorów w stanie spoczynku oraz uposażenia rodzinne 9.9 MLN;INSTYTUT PAMIĘCI NARODOWEJ – KOMISJA ŚCIGANIA ZBRODNI PRZECIWKO NARODOWI POLSKIEMU;Obowiązkowe ubezpieczenia społeczne
+13;921;;Kultura i ochrona dziedzictwa narodowego;46169;13-921;13;46.2 MLN;Kultura i ochrona dziedzictwa narodowego 46.2 MLN;INSTYTUT PAMIĘCI NARODOWEJ – KOMISJA ŚCIGANIA ZBRODNI PRZECIWKO NARODOWI POLSKIEMU;Kultura i ochrona dziedzictwa narodowego
+13;921;92118;Muzea;19810;13-921-92118;13-921;19.8 MLN;Muzea 19.8 MLN;INSTYTUT PAMIĘCI NARODOWEJ – KOMISJA ŚCIGANIA ZBRODNI PRZECIWKO NARODOWI POLSKIEMU;Kultura i ochrona dziedzictwa narodowego
+13;921;92127;Działalność dotycząca miejsc pamięci narodowej oraz ochrony pamięci walk i męczeństwa;14212;13-921-92127;13-921;14.2 MLN;Działalność dotycząca miejsc pamięci narodowej oraz ochrony pamięci walk i męczeństwa 14.2 MLN;INSTYTUT PAMIĘCI NARODOWEJ – KOMISJA ŚCIGANIA ZBRODNI PRZECIWKO NARODOWI POLSKIEMU;Kultura i ochrona dziedzictwa narodowego
+13;921;92128;Działalność dotycząca miejsc pamięci narodowej oraz ochrony pamięci walk i męczeństwa realizowana przez jednostki podległe Instytutowi Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu;12147;13-921-92128;13-921;12.1 MLN;Działalność dotycząca miejsc pamięci narodowej oraz ochrony pamięci walk i męczeństwa realizowana przez jednostki podległe Instytutowi Pamięci Narodowej – Komisji Ścigania Zbrodni przeciwko Narodowi Polskiemu 12.1 MLN;INSTYTUT PAMIĘCI NARODOWEJ – KOMISJA ŚCIGANIA ZBRODNI PRZECIWKO NARODOWI POLSKIEMU;Kultura i ochrona dziedzictwa narodowego
+14;;;RZECZNIK PRAW DZIECKA;21978;14;total;22.0 MLN;RZECZNIK PRAW DZIECKA 22.0 MLN;RZECZNIK PRAW DZIECKA;RZECZNIK PRAW DZIECKA
+14;751;;Urzędy naczelnych organów władzy państwowej, kontroli i ochrony prawa oraz sądownictwa;21978;14-751;14;22.0 MLN;Urzędy naczelnych organów władzy państwowej, kontroli i ochrony prawa oraz sądownictwa 22.0 MLN;RZECZNIK PRAW DZIECKA;Urzędy naczelnych organów władzy państwowej, kontroli i ochrony prawa oraz sądownictwa
+14;751;75101;Urzędy naczelnych organów władzy państwowej, kontroli i ochrony prawa;21978;14-751-75101;14-751;22.0 MLN;Urzędy naczelnych organów władzy państwowej, kontroli i ochrony prawa 22.0 MLN;RZECZNIK PRAW DZIECKA;Urzędy naczelnych organów władzy państwowej, kontroli i ochrony prawa oraz sądownictwa
+15;;;SĄDY POWSZECHNE;12138007;15;total;12.1 MLD;SĄDY POWSZECHNE 12.1 MLD;SĄDY POWSZECHNE;SĄDY POWSZECHNE
+15;753;;Obowiązkowe ubezpieczenia społeczne;647158;15-753;15;647.2 MLN;Obowiązkowe ubezpieczenia społeczne 647.2 MLN;SĄDY POWSZECHNE;Obowiązkowe ubezpieczenia społeczne
+15;753;75312;Uposażenia sędziów w stanie spoczynku oraz uposażenia rodzinne;647158;15-753-75312;15-753;647.2 MLN;Uposażenia sędziów w stanie spoczynku oraz uposażenia rodzinne 647.2 MLN;SĄDY POWSZECHNE;Obowiązkowe ubezpieczenia społeczne
+15;755;;Wymiar sprawiedliwości;11490255;15-755;15;11.5 MLD;Wymiar sprawiedliwości 11.5 MLD;SĄDY POWSZECHNE;Wymiar sprawiedliwości
+15;755;75502;Jednostki sądownictwa powszechnego;11327209;15-755-75502;15-755;11.3 MLD;Jednostki sądownictwa powszechnego 11.3 MLD;SĄDY POWSZECHNE;Wymiar sprawiedliwości
+15;755;75595;Pozostała działalność;163046;15-755-75595;15-755;163.0 MLN;Pozostała działalność 163.0 MLN;SĄDY POWSZECHNE;Wymiar sprawiedliwości
+15;851;;Ochrona zdrowia;594;15-851;15;0.6 MLN;Ochrona zdrowia 0.6 MLN;SĄDY POWSZECHNE;Ochrona zdrowia
+15;851;85195;Pozostała działalność;594;15-851-85195;15-851;0.6 MLN;Pozostała działalność 0.6 MLN;SĄDY POWSZECHNE;Ochrona zdrowia
+15/01;;;MINISTERSTWO SPRAWIEDLIWOŚCI;806943;15/01;total;806.9 MLN;MINISTERSTWO SPRAWIEDLIWOŚCI 806.9 MLN;MINISTERSTWO SPRAWIEDLIWOŚCI;MINISTERSTWO SPRAWIEDLIWOŚCI
+15/01;753;;Obowiązkowe ubezpieczenia społeczne;46826;15/01-753;15/01;46.8 MLN;Obowiązkowe ubezpieczenia społeczne 46.8 MLN;MINISTERSTWO SPRAWIEDLIWOŚCI;Obowiązkowe ubezpieczenia społeczne
+15/01;753;75312;Uposażenia sędziów w stanie spoczynku oraz uposażenia rodzinne;46826;15/01-753-75312;15/01-753;46.8 MLN;Uposażenia sędziów w stanie spoczynku oraz uposażenia rodzinne 46.8 MLN;MINISTERSTWO SPRAWIEDLIWOŚCI;Obowiązkowe ubezpieczenia społeczne
+15/01;755;;Wymiar sprawiedliwości;760117;15/01-755;15/01;760.1 MLN;Wymiar sprawiedliwości 760.1 MLN;MINISTERSTWO SPRAWIEDLIWOŚCI;Wymiar sprawiedliwości
+15/01;755;75502;Jednostki sądownictwa powszechnego;760117;15/01-755-75502;15/01-755;760.1 MLN;Jednostki sądownictwa powszechnego 760.1 MLN;MINISTERSTWO SPRAWIEDLIWOŚCI;Wymiar sprawiedliwości
+15/02;;;SĄD APELACYJNY W WARSZAWIE;1322009;15/02;total;1.3 MLD;SĄD APELACYJNY W WARSZAWIE 1.3 MLD;SĄD APELACYJNY W WARSZAWIE;SĄD APELACYJNY W WARSZAWIE
+15/02;753;;Obowiązkowe ubezpieczenia społeczne;62648;15/02-753;15/02;62.6 MLN;Obowiązkowe ubezpieczenia społeczne 62.6 MLN;SĄD APELACYJNY W WARSZAWIE;Obowiązkowe ubezpieczenia społeczne
+15/02;753;75312;Uposażenia sędziów w stanie spoczynku oraz uposażenia rodzinne;62648;15/02-753-75312;15/02-753;62.6 MLN;Uposażenia sędziów w stanie spoczynku oraz uposażenia rodzinne 62.6 MLN;SĄD APELACYJNY W WARSZAWIE;Obowiązkowe ubezpieczenia społeczne
+15/02;755;;Wymiar sprawiedliwości;1259343;15/02-755;15/02;1.3 MLD;Wymiar sprawiedliwości 1.3 MLD;SĄD APELACYJNY W WARSZAWIE;Wymiar sprawiedliwości
+15/02;755;75502;Jednostki sądownictwa powszechnego;1249018;15/02-755-75502;15/02-755;1.2 MLD;Jednostki sądownictwa powszechnego 1.2 MLD;SĄD APELACYJNY W WARSZAWIE;Wymiar sprawiedliwości
+15/02;755;75595;Pozostała działalność;10325;15/02-755-75595;15/02-755;10.3 MLN;Pozostała działalność 10.3 MLN;SĄD APELACYJNY W WARSZAWIE;Wymiar sprawiedliwości
+15/02;851;;Ochrona zdrowia;18;15/02-851;15/02;0.0 MLN;Ochrona zdrowia 0.0 MLN;SĄD APELACYJNY W WARSZAWIE;Ochrona zdrowia
+15/02;851;85195;Pozostała działalność;18;15/02-851-85195;15/02-851;0.0 MLN;Pozostała działalność 0.0 MLN;SĄD APELACYJNY W WARSZAWIE;Ochrona zdrowia
+15/03;;;SĄD APELACYJNY W KATOWICACH;1411510;15/03;total;1.4 MLD;SĄD APELACYJNY W KATOWICACH 1.4 MLD;SĄD APELACYJNY W KATOWICACH;SĄD APELACYJNY W KATOWICACH
+15/03;753;;Obowiązkowe ubezpieczenia społeczne;80433;15/03-753;15/03;80.4 MLN;Obowiązkowe ubezpieczenia społeczne 80.4 MLN;SĄD APELACYJNY W KATOWICACH;Obowiązkowe ubezpieczenia społeczne
+15/03;753;75312;Uposażenia sędziów w stanie spoczynku oraz uposażenia rodzinne;80433;15/03-753-75312;15/03-753;80.4 MLN;Uposażenia sędziów w stanie spoczynku oraz uposażenia rodzinne 80.4 MLN;SĄD APELACYJNY W KATOWICACH;Obowiązkowe ubezpieczenia społeczne
+15/03;755;;Wymiar sprawiedliwości;1331014;15/03-755;15/03;1.3 MLD;Wymiar sprawiedliwości 1.3 MLD;SĄD APELACYJNY W KATOWICACH;Wymiar sprawiedliwości
+15/03;755;75502;Jednostki sądownictwa powszechnego;1311657;15/03-755-75502;15/03-755;1.3 MLD;Jednostki sądownictwa powszechnego 1.3 MLD;SĄD APELACYJNY W KATOWICACH;Wymiar sprawiedliwości
+15/03;755;75595;Pozostała działalność;19357;15/03-755-75595;15/03-755;19.4 MLN;Pozostała działalność 19.4 MLN;SĄD APELACYJNY W KATOWICACH;Wymiar sprawiedliwości
+15/03;851;;Ochrona zdrowia;63;15/03-851;15/03;0.1 MLN;Ochrona zdrowia 0.1 MLN;SĄD APELACYJNY W KATOWICACH;Ochrona zdrowia
+15/03;851;85195;Pozostała działalność;63;15/03-851-85195;15/03-851;0.1 MLN;Pozostała działalność 0.1 MLN;SĄD APELACYJNY W KATOWICACH;Ochrona zdrowia
+15/04;;;SĄD APELACYJNY W GDAŃSKU;1421415;15/04;total;1.4 MLD;SĄD APELACYJNY W GDAŃSKU 1.4 MLD;SĄD APELACYJNY W GDAŃSKU;SĄD APELACYJNY W GDAŃSKU
+15/04;753;;Obowiązkowe ubezpieczenia społeczne;73802;15/04-753;15/04;73.8 MLN;Obowiązkowe ubezpieczenia społeczne 73.8 MLN;SĄD APELACYJNY W GDAŃSKU;Obowiązkowe ubezpieczenia społeczne
+15/04;753;75312;Uposażenia sędziów w stanie spoczynku oraz uposażenia rodzinne;73802;15/04-753-75312;15/04-753;73.8 MLN;Uposażenia sędziów w stanie spoczynku oraz uposażenia rodzinne 73.8 MLN;SĄD APELACYJNY W GDAŃSKU;Obowiązkowe ubezpieczenia społeczne
+15/04;755;;Wymiar sprawiedliwości;1347550;15/04-755;15/04;1.3 MLD;Wymiar sprawiedliwości 1.3 MLD;SĄD APELACYJNY W GDAŃSKU;Wymiar sprawiedliwości
+15/04;755;75502;Jednostki sądownictwa powszechnego;1317513;15/04-755-75502;15/04-755;1.3 MLD;Jednostki sądownictwa powszechnego 1.3 MLD;SĄD APELACYJNY W GDAŃSKU;Wymiar sprawiedliwości
+15/04;755;75595;Pozostała działalność;30037;15/04-755-75595;15/04-755;30.0 MLN;Pozostała działalność 30.0 MLN;SĄD APELACYJNY W GDAŃSKU;Wymiar sprawiedliwości
+15/04;851;;Ochrona zdrowia;63;15/04-851;15/04;0.1 MLN;Ochrona zdrowia 0.1 MLN;SĄD APELACYJNY W GDAŃSKU;Ochrona zdrowia
+15/04;851;85195;Pozostała działalność;63;15/04-851-85195;15/04-851;0.1 MLN;Pozostała działalność 0.1 MLN;SĄD APELACYJNY W GDAŃSKU;Ochrona zdrowia
+15/05;;;SĄD APELACYJNY W POZNANIU;897485;15/05;total;897.5 MLN;SĄD APELACYJNY W POZNANIU 897.5 MLN;SĄD APELACYJNY W POZNANIU;SĄD APELACYJNY W POZNANIU
+15/05;753;;Obowiązkowe ubezpieczenia społeczne;45959;15/05-753;15/05;46.0 MLN;Obowiązkowe ubezpieczenia społeczne 46.0 MLN;SĄD APELACYJNY W POZNANIU;Obowiązkowe ubezpieczenia społeczne
+15/05;753;75312;Uposażenia sędziów w stanie spoczynku oraz uposażenia rodzinne;45959;15/05-753-75312;15/05-753;46.0 MLN;Uposażenia sędziów w stanie spoczynku oraz uposażenia rodzinne 46.0 MLN;SĄD APELACYJNY W POZNANIU;Obowiązkowe ubezpieczenia społeczne
+15/05;755;;Wymiar sprawiedliwości;851481;15/05-755;15/05;851.5 MLN;Wymiar sprawiedliwości 851.5 MLN;SĄD APELACYJNY W POZNANIU;Wymiar sprawiedliwości
+15/05;755;75502;Jednostki sądownictwa powszechnego;843025;15/05-755-75502;15/05-755;843.0 MLN;Jednostki sądownictwa powszechnego 843.0 MLN;SĄD APELACYJNY W POZNANIU;Wymiar sprawiedliwości
+15/05;755;75595;Pozostała działalność;8456;15/05-755-75595;15/05-755;8.5 MLN;Pozostała działalność 8.5 MLN;SĄD APELACYJNY W POZNANIU;Wymiar sprawiedliwości
+15/05;851;;Ochrona zdrowia;45;15/05-851;15/05;0.0 MLN;Ochrona zdrowia 0.0 MLN;SĄD APELACYJNY W POZNANIU;Ochrona zdrowia
+15/05;851;85195;Pozostała działalność;45;15/05-851-85195;15/05-851;0.0 MLN;Pozostała działalność 0.0 MLN;SĄD APELACYJNY W POZNANIU;Ochrona zdrowia
+15/06;;;SĄD APELACYJNY W KRAKOWIE;1129216;15/06;total;1.1 MLD;SĄD APELACYJNY W KRAKOWIE 1.1 MLD;SĄD APELACYJNY W KRAKOWIE;SĄD APELACYJNY W KRAKOWIE
+15/06;753;;Obowiązkowe ubezpieczenia społeczne;61232;15/06-753;15/06;61.2 MLN;Obowiązkowe ubezpieczenia społeczne 61.2 MLN;SĄD APELACYJNY W KRAKOWIE;Obowiązkowe ubezpieczenia społeczne
+15/06;753;75312;Uposażenia sędziów w stanie spoczynku oraz uposażenia rodzinne;61232;15/06-753-75312;15/06-753;61.2 MLN;Uposażenia sędziów w stanie spoczynku oraz uposażenia rodzinne 61.2 MLN;SĄD APELACYJNY W KRAKOWIE;Obowiązkowe ubezpieczenia społeczne
+15/06;755;;Wymiar sprawiedliwości;1067908;15/06-755;15/06;1.1 MLD;Wymiar sprawiedliwości 1.1 MLD;SĄD APELACYJNY W KRAKOWIE;Wymiar sprawiedliwości
+15/06;755;75502;Jednostki sądownictwa powszechnego;1046100;15/06-755-75502;15/06-755;1.0 MLD;Jednostki sądownictwa powszechnego 1.0 MLD;SĄD APELACYJNY W KRAKOWIE;Wymiar sprawiedliwości
+15/06;755;75595;Pozostała działalność;21808;15/06-755-75595;15/06-755;21.8 MLN;Pozostała działalność 21.8 MLN;SĄD APELACYJNY W KRAKOWIE;Wymiar sprawiedliwości
+15/06;851;;Ochrona zdrowia;76;15/06-851;15/06;0.1 MLN;Ochrona zdrowia 0.1 MLN;SĄD APELACYJNY W KRAKOWIE;Ochrona zdrowia
+15/06;851;85195;Pozostała działalność;76;15/06-851-85195;15/06-851;0.1 MLN;Pozostała działalność 0.1 MLN;SĄD APELACYJNY W KRAKOWIE;Ochrona zdrowia
+15/07;;;SĄD APELACYJNY WE WROCŁAWIU;1256932;15/07;total;1.3 MLD;SĄD APELACYJNY WE WROCŁAWIU 1.3 MLD;SĄD APELACYJNY WE WROCŁAWIU;SĄD APELACYJNY WE WROCŁAWIU
+15/07;753;;Obowiązkowe ubezpieczenia społeczne;72210;15/07-753;15/07;72.2 MLN;Obowiązkowe ubezpieczenia społeczne 72.2 MLN;SĄD APELACYJNY WE WROCŁAWIU;Obowiązkowe ubezpieczenia społeczne
+15/07;753;75312;Uposażenia sędziów w stanie spoczynku oraz uposażenia rodzinne;72210;15/07-753-75312;15/07-753;72.2 MLN;Uposażenia sędziów w stanie spoczynku oraz uposażenia rodzinne 72.2 MLN;SĄD APELACYJNY WE WROCŁAWIU;Obowiązkowe ubezpieczenia społeczne
+15/07;755;;Wymiar sprawiedliwości;1184637;15/07-755;15/07;1.2 MLD;Wymiar sprawiedliwości 1.2 MLD;SĄD APELACYJNY WE WROCŁAWIU;Wymiar sprawiedliwości
+15/07;755;75502;Jednostki sądownictwa powszechnego;1154637;15/07-755-75502;15/07-755;1.2 MLD;Jednostki sądownictwa powszechnego 1.2 MLD;SĄD APELACYJNY WE WROCŁAWIU;Wymiar sprawiedliwości
+15/07;755;75595;Pozostała działalność;30000;15/07-755-75595;15/07-755;30.0 MLN;Pozostała działalność 30.0 MLN;SĄD APELACYJNY WE WROCŁAWIU;Wymiar sprawiedliwości
+15/07;851;;Ochrona zdrowia;85;15/07-851;15/07;0.1 MLN;Ochrona zdrowia 0.1 MLN;SĄD APELACYJNY WE WROCŁAWIU;Ochrona zdrowia
+15/07;851;85195;Pozostała działalność;85;15/07-851-85195;15/07-851;0.1 MLN;Pozostała działalność 0.1 MLN;SĄD APELACYJNY WE WROCŁAWIU;Ochrona zdrowia
+15/08;;;SĄD APELACYJNY W ŁODZI;1126340;15/08;total;1.1 MLD;SĄD APELACYJNY W ŁODZI 1.1 MLD;SĄD APELACYJNY W ŁODZI;SĄD APELACYJNY W ŁODZI
+15/08;753;;Obowiązkowe ubezpieczenia społeczne;60709;15/08-753;15/08;60.7 MLN;Obowiązkowe ubezpieczenia społeczne 60.7 MLN;SĄD APELACYJNY W ŁODZI;Obowiązkowe ubezpieczenia społeczne
+15/08;753;75312;Uposażenia sędziów w stanie spoczynku oraz uposażenia rodzinne;60709;15/08-753-75312;15/08-753;60.7 MLN;Uposażenia sędziów w stanie spoczynku oraz uposażenia rodzinne 60.7 MLN;SĄD APELACYJNY W ŁODZI;Obowiązkowe ubezpieczenia społeczne
+15/08;755;;Wymiar sprawiedliwości;1065577;15/08-755;15/08;1.1 MLD;Wymiar sprawiedliwości 1.1 MLD;SĄD APELACYJNY W ŁODZI;Wymiar sprawiedliwości
+15/08;755;75502;Jednostki sądownictwa powszechnego;1060184;15/08-755-75502;15/08-755;1.1 MLD;Jednostki sądownictwa powszechnego 1.1 MLD;SĄD APELACYJNY W ŁODZI;Wymiar sprawiedliwości
+15/08;755;75595;Pozostała działalność;5393;15/08-755-75595;15/08-755;5.4 MLN;Pozostała działalność 5.4 MLN;SĄD APELACYJNY W ŁODZI;Wymiar sprawiedliwości
+15/08;851;;Ochrona zdrowia;54;15/08-851;15/08;0.1 MLN;Ochrona zdrowia 0.1 MLN;SĄD APELACYJNY W ŁODZI;Ochrona zdrowia
+15/08;851;85195;Pozostała działalność;54;15/08-851-85195;15/08-851;0.1 MLN;Pozostała działalność 0.1 MLN;SĄD APELACYJNY W ŁODZI;Ochrona zdrowia
+15/09;;;SĄD APELACYJNY W RZESZOWIE;533686;15/09;total;533.7 MLN;SĄD APELACYJNY W RZESZOWIE 533.7 MLN;SĄD APELACYJNY W RZESZOWIE;SĄD APELACYJNY W RZESZOWIE
+15/09;753;;Obowiązkowe ubezpieczenia społeczne;28000;15/09-753;15/09;28.0 MLN;Obowiązkowe ubezpieczenia społeczne 28.0 MLN;SĄD APELACYJNY W RZESZOWIE;Obowiązkowe ubezpieczenia społeczne
+15/09;753;75312;Uposażenia sędziów w stanie spoczynku oraz uposażenia rodzinne;28000;15/09-753-75312;15/09-753;28.0 MLN;Uposażenia sędziów w stanie spoczynku oraz uposażenia rodzinne 28.0 MLN;SĄD APELACYJNY W RZESZOWIE;Obowiązkowe ubezpieczenia społeczne
+15/09;755;;Wymiar sprawiedliwości;505645;15/09-755;15/09;505.6 MLN;Wymiar sprawiedliwości 505.6 MLN;SĄD APELACYJNY W RZESZOWIE;Wymiar sprawiedliwości
+15/09;755;75502;Jednostki sądownictwa powszechnego;496722;15/09-755-75502;15/09-755;496.7 MLN;Jednostki sądownictwa powszechnego 496.7 MLN;SĄD APELACYJNY W RZESZOWIE;Wymiar sprawiedliwości
+15/09;755;75595;Pozostała działalność;8923;15/09-755-75595;15/09-755;8.9 MLN;Pozostała działalność 8.9 MLN;SĄD APELACYJNY W RZESZOWIE;Wymiar sprawiedliwości
+15/09;851;;Ochrona zdrowia;41;15/09-851;15/09;0.0 MLN;Ochrona zdrowia 0.0 MLN;SĄD APELACYJNY W RZESZOWIE;Ochrona zdrowia
+15/09;851;85195;Pozostała działalność;41;15/09-851-85195;15/09-851;0.0 MLN;Pozostała działalność 0.0 MLN;SĄD APELACYJNY W RZESZOWIE;Ochrona zdrowia
+15/10;;;SĄD APELACYJNY W BIAŁYMSTOKU;690064;15/10;total;690.1 MLN;SĄD APELACYJNY W BIAŁYMSTOKU 690.1 MLN;SĄD APELACYJNY W BIAŁYMSTOKU;SĄD APELACYJNY W BIAŁYMSTOKU
+15/10;753;;Obowiązkowe ubezpieczenia społeczne;34562;15/10-753;15/10;34.6 MLN;Obowiązkowe ubezpieczenia społeczne 34.6 MLN;SĄD APELACYJNY W BIAŁYMSTOKU;Obowiązkowe ubezpieczenia społeczne
+15/10;753;75312;Uposażenia sędziów w stanie spoczynku oraz uposażenia rodzinne;34562;15/10-753-75312;15/10-753;34.6 MLN;Uposażenia sędziów w stanie spoczynku oraz uposażenia rodzinne 34.6 MLN;SĄD APELACYJNY W BIAŁYMSTOKU;Obowiązkowe ubezpieczenia społeczne
+15/10;755;;Wymiar sprawiedliwości;655461;15/10-755;15/10;655.5 MLN;Wymiar sprawiedliwości 655.5 MLN;SĄD APELACYJNY W BIAŁYMSTOKU;Wymiar sprawiedliwości
+15/10;755;75502;Jednostki sądownictwa powszechnego;642877;15/10-755-75502;15/10-755;642.9 MLN;Jednostki sądownictwa powszechnego 642.9 MLN;SĄD APELACYJNY W BIAŁYMSTOKU;Wymiar sprawiedliwości
+15/10;755;75595;Pozostała działalność;12584;15/10-755-75595;15/10-755;12.6 MLN;Pozostała działalność 12.6 MLN;SĄD APELACYJNY W BIAŁYMSTOKU;Wymiar sprawiedliwości
+15/10;851;;Ochrona zdrowia;41;15/10-851;15/10;0.0 MLN;Ochrona zdrowia 0.0 MLN;SĄD APELACYJNY W BIAŁYMSTOKU;Ochrona zdrowia
+15/10;851;85195;Pozostała działalność;41;15/10-851-85195;15/10-851;0.0 MLN;Pozostała działalność 0.0 MLN;SĄD APELACYJNY W BIAŁYMSTOKU;Ochrona zdrowia
+15/11;;;SĄD APELACYJNY W LUBLINIE;906634;15/11;total;906.6 MLN;SĄD APELACYJNY W LUBLINIE 906.6 MLN;SĄD APELACYJNY W LUBLINIE;SĄD APELACYJNY W LUBLINIE
+15/11;753;;Obowiązkowe ubezpieczenia społeczne;46293;15/11-753;15/11;46.3 MLN;Obowiązkowe ubezpieczenia społeczne 46.3 MLN;SĄD APELACYJNY W LUBLINIE;Obowiązkowe ubezpieczenia społeczne
+15/11;753;75312;Uposażenia sędziów w stanie spoczynku oraz uposażenia rodzinne;46293;15/11-753-75312;15/11-753;46.3 MLN;Uposażenia sędziów w stanie spoczynku oraz uposażenia rodzinne 46.3 MLN;SĄD APELACYJNY W LUBLINIE;Obowiązkowe ubezpieczenia społeczne
+15/11;755;;Wymiar sprawiedliwości;860251;15/11-755;15/11;860.3 MLN;Wymiar sprawiedliwości 860.3 MLN;SĄD APELACYJNY W LUBLINIE;Wymiar sprawiedliwości
+15/11;755;75502;Jednostki sądownictwa powszechnego;851088;15/11-755-75502;15/11-755;851.1 MLN;Jednostki sądownictwa powszechnego 851.1 MLN;SĄD APELACYJNY W LUBLINIE;Wymiar sprawiedliwości
+15/11;755;75595;Pozostała działalność;9163;15/11-755-75595;15/11-755;9.2 MLN;Pozostała działalność 9.2 MLN;SĄD APELACYJNY W LUBLINIE;Wymiar sprawiedliwości
+15/11;851;;Ochrona zdrowia;90;15/11-851;15/11;0.1 MLN;Ochrona zdrowia 0.1 MLN;SĄD APELACYJNY W LUBLINIE;Ochrona zdrowia
+15/11;851;85195;Pozostała działalność;90;15/11-851-85195;15/11-851;0.1 MLN;Pozostała działalność 0.1 MLN;SĄD APELACYJNY W LUBLINIE;Ochrona zdrowia
+15/12;;;SĄD APELACYJNY W SZCZECINIE;635773;15/12;total;635.8 MLN;SĄD APELACYJNY W SZCZECINIE 635.8 MLN;SĄD APELACYJNY W SZCZECINIE;SĄD APELACYJNY W SZCZECINIE
+15/12;753;;Obowiązkowe ubezpieczenia społeczne;34484;15/12-753;15/12;34.5 MLN;Obowiązkowe ubezpieczenia społeczne 34.5 MLN;SĄD APELACYJNY W SZCZECINIE;Obowiązkowe ubezpieczenia społeczne
+15/12;753;75312;Uposażenia sędziów w stanie spoczynku oraz uposażenia rodzinne;34484;15/12-753-75312;15/12-753;34.5 MLN;Uposażenia sędziów w stanie spoczynku oraz uposażenia rodzinne 34.5 MLN;SĄD APELACYJNY W SZCZECINIE;Obowiązkowe ubezpieczenia społeczne
+15/12;755;;Wymiar sprawiedliwości;601271;15/12-755;15/12;601.3 MLN;Wymiar sprawiedliwości 601.3 MLN;SĄD APELACYJNY W SZCZECINIE;Wymiar sprawiedliwości
+15/12;755;75502;Jednostki sądownictwa powszechnego;594271;15/12-755-75502;15/12-755;594.3 MLN;Jednostki sądownictwa powszechnego 594.3 MLN;SĄD APELACYJNY W SZCZECINIE;Wymiar sprawiedliwości
+15/12;755;75595;Pozostała działalność;7000;15/12-755-75595;15/12-755;7.0 MLN;Pozostała działalność 7.0 MLN;SĄD APELACYJNY W SZCZECINIE;Wymiar sprawiedliwości
+15/12;851;;Ochrona zdrowia;18;15/12-851;15/12;0.0 MLN;Ochrona zdrowia 0.0 MLN;SĄD APELACYJNY W SZCZECINIE;Ochrona zdrowia
+15/12;851;85195;Pozostała działalność;18;15/12-851-85195;15/12-851;0.0 MLN;Pozostała działalność 0.0 MLN;SĄD APELACYJNY W SZCZECINIE;Ochrona zdrowia
+52;;;KRAJOWA RADA SĄDOWNICTWA;22096;52;total;22.1 MLN;KRAJOWA RADA SĄDOWNICTWA 22.1 MLN;KRAJOWA RADA SĄDOWNICTWA;KRAJOWA RADA SĄDOWNICTWA
+52;751;;Urzędy naczelnych organów władzy państwowej, kontroli i ochrony prawa oraz sądownictwa;22096;52-751;52;22.1 MLN;Urzędy naczelnych organów władzy państwowej, kontroli i ochrony prawa oraz sądownictwa 22.1 MLN;KRAJOWA RADA SĄDOWNICTWA;Urzędy naczelnych organów władzy państwowej, kontroli i ochrony prawa oraz sądownictwa
+52;751;75104;Krajowa Rada Sądownictwa;22096;52-751-75104;52-751;22.1 MLN;Krajowa Rada Sądownictwa 22.1 MLN;KRAJOWA RADA SĄDOWNICTWA;Urzędy naczelnych organów władzy państwowej, kontroli i ochrony prawa oraz sądownictwa
+16;;;KANCELARIA PREZESA RADY MINISTRÓW;1541772;16;total;1.5 MLD;KANCELARIA PREZESA RADY MINISTRÓW 1.5 MLD;KANCELARIA PREZESA RADY MINISTRÓW;KANCELARIA PREZESA RADY MINISTRÓW
+16;500;;Handel;817845;16-500;16;817.8 MLN;Handel 817.8 MLN;KANCELARIA PREZESA RADY MINISTRÓW;Handel
+16;500;50003;Działalność Rządowej Agencji Rezerw Strategicznych;817845;16-500-50003;16-500;817.8 MLN;Działalność Rządowej Agencji Rezerw Strategicznych 817.8 MLN;KANCELARIA PREZESA RADY MINISTRÓW;Handel
+16;710;;Działalność usługowa;8700;16-710;16;8.7 MLN;Działalność usługowa 8.7 MLN;KANCELARIA PREZESA RADY MINISTRÓW;Działalność usługowa
+16;710;71031;Centrum Badania Opinii Społecznej;8700;16-710-71031;16-710;8.7 MLN;Centrum Badania Opinii Społecznej 8.7 MLN;KANCELARIA PREZESA RADY MINISTRÓW;Działalność usługowa
+16;750;;Administracja publiczna;715125;16-750;16;715.1 MLN;Administracja publiczna 715.1 MLN;KANCELARIA PREZESA RADY MINISTRÓW;Administracja publiczna
+16;750;75001;Urzędy naczelnych i centralnych organów administracji rządowej;303045;16-750-75001;16-750;303.0 MLN;Urzędy naczelnych i centralnych organów administracji rządowej 303.0 MLN;KANCELARIA PREZESA RADY MINISTRÓW;Administracja publiczna
+16;750;75027;Działalność Narodowego Instytutu Wolności – Centrum Rozwoju Społeczeństwa Obywatelskiego;197794;16-750-75027;16-750;197.8 MLN;Działalność Narodowego Instytutu Wolności – Centrum Rozwoju Społeczeństwa Obywatelskiego 197.8 MLN;KANCELARIA PREZESA RADY MINISTRÓW;Administracja publiczna
+16;750;75028;Działalność Instytutu Współpracy Polsko-Węgierskiej im. Wacława Felczaka;6000;16-750-75028;16-750;6.0 MLN;Działalność Instytutu Współpracy Polsko-Węgierskiej im. Wacława Felczaka 6.0 MLN;KANCELARIA PREZESA RADY MINISTRÓW;Administracja publiczna
+16;750;75029;Działalność Polskiego Instytutu Ekonomicznego;15000;16-750-75029;16-750;15.0 MLN;Działalność Polskiego Instytutu Ekonomicznego 15.0 MLN;KANCELARIA PREZESA RADY MINISTRÓW;Administracja publiczna
+16;750;75031;Działalność Instytutu Europy Środkowej;6084;16-750-75031;16-750;6.1 MLN;Działalność Instytutu Europy Środkowej 6.1 MLN;KANCELARIA PREZESA RADY MINISTRÓW;Administracja publiczna
+16;750;75032;Działalność Instytutu Pokolenia;9000;16-750-75032;16-750;9.0 MLN;Działalność Instytutu Pokolenia 9.0 MLN;KANCELARIA PREZESA RADY MINISTRÓW;Administracja publiczna
+16;750;75033;Działalność Instytutu Strat Wojennych im. Jana Karskiego;17500;16-750-75033;16-750;17.5 MLN;Działalność Instytutu Strat Wojennych im. Jana Karskiego 17.5 MLN;KANCELARIA PREZESA RADY MINISTRÓW;Administracja publiczna
+16;750;75061;Ośrodek Studiów Wschodnich;17842;16-750-75061;16-750;17.8 MLN;Ośrodek Studiów Wschodnich 17.8 MLN;KANCELARIA PREZESA RADY MINISTRÓW;Administracja publiczna
+16;750;75065;Krajowa Szkoła Administracji Publicznej;11963;16-750-75065;16-750;12.0 MLN;Krajowa Szkoła Administracji Publicznej 12.0 MLN;KANCELARIA PREZESA RADY MINISTRÓW;Administracja publiczna
+16;750;75068;Rada do Spraw Uchodźców;645;16-750-75068;16-750;0.6 MLN;Rada do Spraw Uchodźców 0.6 MLN;KANCELARIA PREZESA RADY MINISTRÓW;Administracja publiczna
+16;750;75086;Działalność Instytutu Zachodniego im. Zygmunta Wojciechowskiego;8450;16-750-75086;16-750;8.4 MLN;Działalność Instytutu Zachodniego im. Zygmunta Wojciechowskiego 8.4 MLN;KANCELARIA PREZESA RADY MINISTRÓW;Administracja publiczna
+16;750;75090;Działalność Instytutu De Republica;19000;16-750-75090;16-750;19.0 MLN;Działalność Instytutu De Republica 19.0 MLN;KANCELARIA PREZESA RADY MINISTRÓW;Administracja publiczna
+16;750;75095;Pozostała działalność;102802;16-750-75095;16-750;102.8 MLN;Pozostała działalność 102.8 MLN;KANCELARIA PREZESA RADY MINISTRÓW;Administracja publiczna
+16;752;;Obrona narodowa;102;16-752;16;0.1 MLN;Obrona narodowa 0.1 MLN;KANCELARIA PREZESA RADY MINISTRÓW;Obrona narodowa
+16;752;75212;Pozostałe wydatki obronne;102;16-752-75212;16-752;0.1 MLN;Pozostałe wydatki obronne 0.1 MLN;KANCELARIA PREZESA RADY MINISTRÓW;Obrona narodowa
+17;;;ADMINISTRACJA PUBLICZNA;70975;17;total;71.0 MLN;ADMINISTRACJA PUBLICZNA 71.0 MLN;ADMINISTRACJA PUBLICZNA;ADMINISTRACJA PUBLICZNA
+17;750;;Administracja publiczna;67621;17-750;17;67.6 MLN;Administracja publiczna 67.6 MLN;ADMINISTRACJA PUBLICZNA;Administracja publiczna
+17;750;75001;Urzędy naczelnych i centralnych organów administracji rządowej;35773;17-750-75001;17-750;35.8 MLN;Urzędy naczelnych i centralnych organów administracji rządowej 35.8 MLN;ADMINISTRACJA PUBLICZNA;Administracja publiczna
+17;750;75081;System powiadamiania ratunkowego;29085;17-750-75081;17-750;29.1 MLN;System powiadamiania ratunkowego 29.1 MLN;ADMINISTRACJA PUBLICZNA;Administracja publiczna
+17;750;75095;Pozostała działalność;2763;17-750-75095;17-750;2.8 MLN;Pozostała działalność 2.8 MLN;ADMINISTRACJA PUBLICZNA;Administracja publiczna
+17;754;;Bezpieczeństwo publiczne i ochrona przeciwpożarowa;3354;17-754;17;3.4 MLN;Bezpieczeństwo publiczne i ochrona przeciwpożarowa 3.4 MLN;ADMINISTRACJA PUBLICZNA;Bezpieczeństwo publiczne i ochrona przeciwpożarowa
+17;754;75422;Krajowe Biuro Informacji i Poszukiwań Polskiego Czerwonego Krzyża;3354;17-754-75422;17-754;3.4 MLN;Krajowe Biuro Informacji i Poszukiwań Polskiego Czerwonego Krzyża 3.4 MLN;ADMINISTRACJA PUBLICZNA;Bezpieczeństwo publiczne i ochrona przeciwpożarowa
+18;;;BUDOWNICTWO, PLANOWANIE I ZAGOSPODAROWANIE PRZESTRZENNE ORAZ MIESZKALNICTWO;1543321;18;total;1.5 MLD;BUDOWNICTWO, PLANOWANIE I ZAGOSPODAROWANIE PRZESTRZENNE ORAZ MIESZKALNICTWO 1.5 MLD;BUDOWNICTWO, PLANOWANIE I ZAGOSPODAROWANIE PRZESTRZENNE ORAZ MIESZKALNICTWO;BUDOWNICTWO, PLANOWANIE I ZAGOSPODAROWANIE PRZESTRZENNE ORAZ MIESZKALNICTWO
+18;700;;Gospodarka mieszkaniowa;1383222;18-700;18;1.4 MLD;Gospodarka mieszkaniowa 1.4 MLD;BUDOWNICTWO, PLANOWANIE I ZAGOSPODAROWANIE PRZESTRZENNE ORAZ MIESZKALNICTWO;Gospodarka mieszkaniowa
+18;700;70005;Gospodarka gruntami i nieruchomościami;1359;18-700-70005;18-700;1.4 MLN;Gospodarka gruntami i nieruchomościami 1.4 MLN;BUDOWNICTWO, PLANOWANIE I ZAGOSPODAROWANIE PRZESTRZENNE ORAZ MIESZKALNICTWO;Gospodarka mieszkaniowa
+18;700;70015;Refundacja premii gwarancyjnych oraz premii za systematyczne oszczędzanie;146000;18-700-70015;18-700;146.0 MLN;Refundacja premii gwarancyjnych oraz premii za systematyczne oszczędzanie 146.0 MLN;BUDOWNICTWO, PLANOWANIE I ZAGOSPODAROWANIE PRZESTRZENNE ORAZ MIESZKALNICTWO;Gospodarka mieszkaniowa
+18;700;70017;Wykup odsetek od kredytów mieszkaniowych;3860;18-700-70017;18-700;3.9 MLN;Wykup odsetek od kredytów mieszkaniowych 3.9 MLN;BUDOWNICTWO, PLANOWANIE I ZAGOSPODAROWANIE PRZESTRZENNE ORAZ MIESZKALNICTWO;Gospodarka mieszkaniowa
+18;700;70020;Fundusz Termomodernizacji i Remontów;139400;18-700-70020;18-700;139.4 MLN;Fundusz Termomodernizacji i Remontów 139.4 MLN;BUDOWNICTWO, PLANOWANIE I ZAGOSPODAROWANIE PRZESTRZENNE ORAZ MIESZKALNICTWO;Gospodarka mieszkaniowa
+18;700;70022;Fundusz Dopłat;1084400;18-700-70022;18-700;1.1 MLD;Fundusz Dopłat 1.1 MLD;BUDOWNICTWO, PLANOWANIE I ZAGOSPODAROWANIE PRZESTRZENNE ORAZ MIESZKALNICTWO;Gospodarka mieszkaniowa
+18;700;70095;Pozostała działalność;8203;18-700-70095;18-700;8.2 MLN;Pozostała działalność 8.2 MLN;BUDOWNICTWO, PLANOWANIE I ZAGOSPODAROWANIE PRZESTRZENNE ORAZ MIESZKALNICTWO;Gospodarka mieszkaniowa
+18;710;;Działalność usługowa;114322;18-710;18;114.3 MLN;Działalność usługowa 114.3 MLN;BUDOWNICTWO, PLANOWANIE I ZAGOSPODAROWANIE PRZESTRZENNE ORAZ MIESZKALNICTWO;Działalność usługowa
+18;710;71012;Zadania z zakresu geodezji i kartografii;20964;18-710-71012;18-710;21.0 MLN;Zadania z zakresu geodezji i kartografii 21.0 MLN;BUDOWNICTWO, PLANOWANIE I ZAGOSPODAROWANIE PRZESTRZENNE ORAZ MIESZKALNICTWO;Działalność usługowa
+18;710;71015;Nadzór budowlany;46194;18-710-71015;18-710;46.2 MLN;Nadzór budowlany 46.2 MLN;BUDOWNICTWO, PLANOWANIE I ZAGOSPODAROWANIE PRZESTRZENNE ORAZ MIESZKALNICTWO;Działalność usługowa
+18;710;71021;Główny Urząd Geodezji i Kartografii;47164;18-710-71021;18-710;47.2 MLN;Główny Urząd Geodezji i Kartografii 47.2 MLN;BUDOWNICTWO, PLANOWANIE I ZAGOSPODAROWANIE PRZESTRZENNE ORAZ MIESZKALNICTWO;Działalność usługowa
+18;750;;Administracja publiczna;45777;18-750;18;45.8 MLN;Administracja publiczna 45.8 MLN;BUDOWNICTWO, PLANOWANIE I ZAGOSPODAROWANIE PRZESTRZENNE ORAZ MIESZKALNICTWO;Administracja publiczna
+18;750;75001;Urzędy naczelnych i centralnych organów administracji rządowej;45777;18-750-75001;18-750;45.8 MLN;Urzędy naczelnych i centralnych organów administracji rządowej 45.8 MLN;BUDOWNICTWO, PLANOWANIE I ZAGOSPODAROWANIE PRZESTRZENNE ORAZ MIESZKALNICTWO;Administracja publiczna
+19;;;BUDŻET, FINANSE PUBLICZNE I INSTYTUCJE FINANSOWE;9652167;19;total;9.7 MLD;BUDŻET, FINANSE PUBLICZNE I INSTYTUCJE FINANSOWE 9.7 MLD;BUDŻET, FINANSE PUBLICZNE I INSTYTUCJE FINANSOWE;BUDŻET, FINANSE PUBLICZNE I INSTYTUCJE FINANSOWE
+19;150;;Przetwórstwo przemysłowe;369922;19-150;19;369.9 MLN;Przetwórstwo przemysłowe 369.9 MLN;BUDŻET, FINANSE PUBLICZNE I INSTYTUCJE FINANSOWE;Przetwórstwo przemysłowe
+19;150;15011;Rozwój przedsiębiorczości;364202;19-150-15011;19-150;364.2 MLN;Rozwój przedsiębiorczości 364.2 MLN;BUDŻET, FINANSE PUBLICZNE I INSTYTUCJE FINANSOWE;Przetwórstwo przemysłowe
+19;150;15018;Rozliczenia związane z systemem dopłat do oprocentowania kredytów eksportowych o stałych stopach procentowych;5720;19-150-15018;19-150;5.7 MLN;Rozliczenia związane z systemem dopłat do oprocentowania kredytów eksportowych o stałych stopach procentowych 5.7 MLN;BUDŻET, FINANSE PUBLICZNE I INSTYTUCJE FINANSOWE;Przetwórstwo przemysłowe
+19;550;;Hotele i restauracje;34399;19-550;19;34.4 MLN;Hotele i restauracje 34.4 MLN;BUDŻET, FINANSE PUBLICZNE I INSTYTUCJE FINANSOWE;Hotele i restauracje
+19;550;55003;Bary mleczne;34399;19-550-55003;19-550;34.4 MLN;Bary mleczne 34.4 MLN;BUDŻET, FINANSE PUBLICZNE I INSTYTUCJE FINANSOWE;Hotele i restauracje
+19;750;;Administracja publiczna;9176905;19-750;19;9.2 MLD;Administracja publiczna 9.2 MLD;BUDŻET, FINANSE PUBLICZNE I INSTYTUCJE FINANSOWE;Administracja publiczna
+19;750;75001;Urzędy naczelnych i centralnych organów administracji rządowej;564494;19-750-75001;19-750;564.5 MLN;Urzędy naczelnych i centralnych organów administracji rządowej 564.5 MLN;BUDŻET, FINANSE PUBLICZNE I INSTYTUCJE FINANSOWE;Administracja publiczna
+19;750;75008;Działalność izb administracji skarbowej wraz z podległymi urzędami skarbowymi i urzędami celno-skarbowymi;7527005;19-750-75008;19-750;7.5 MLD;Działalność izb administracji skarbowej wraz z podległymi urzędami skarbowymi i urzędami celno-skarbowymi 7.5 MLD;BUDŻET, FINANSE PUBLICZNE I INSTYTUCJE FINANSOWE;Administracja publiczna
+19;750;75024;Działalność Krajowej Szkoły Skarbowości;36994;19-750-75024;19-750;37.0 MLN;Działalność Krajowej Szkoły Skarbowości 37.0 MLN;BUDŻET, FINANSE PUBLICZNE I INSTYTUCJE FINANSOWE;Administracja publiczna
+19;750;75046;Komisje egzaminacyjne;2055;19-750-75046;19-750;2.1 MLN;Komisje egzaminacyjne 2.1 MLN;BUDŻET, FINANSE PUBLICZNE I INSTYTUCJE FINANSOWE;Administracja publiczna
+19;750;75079;Pomoc zagraniczna;9000;19-750-75079;19-750;9.0 MLN;Pomoc zagraniczna 9.0 MLN;BUDŻET, FINANSE PUBLICZNE I INSTYTUCJE FINANSOWE;Administracja publiczna
+19;750;75082;Działalność Krajowej Informacji Skarbowej;144286;19-750-75082;19-750;144.3 MLN;Działalność Krajowej Informacji Skarbowej 144.3 MLN;BUDŻET, FINANSE PUBLICZNE I INSTYTUCJE FINANSOWE;Administracja publiczna
+19;750;75088;Działalność Centrum Informatyki Resortu Finansów;588634;19-750-75088;19-750;588.6 MLN;Działalność Centrum Informatyki Resortu Finansów 588.6 MLN;BUDŻET, FINANSE PUBLICZNE I INSTYTUCJE FINANSOWE;Administracja publiczna
+19;750;75089;Działalność Instytutu Finansów;6757;19-750-75089;19-750;6.8 MLN;Działalność Instytutu Finansów 6.8 MLN;BUDŻET, FINANSE PUBLICZNE I INSTYTUCJE FINANSOWE;Administracja publiczna
+19;750;75095;Pozostała działalność;297680;19-750-75095;19-750;297.7 MLN;Pozostała działalność 297.7 MLN;BUDŻET, FINANSE PUBLICZNE I INSTYTUCJE FINANSOWE;Administracja publiczna
+19;752;;Obrona narodowa;195;19-752;19;0.2 MLN;Obrona narodowa 0.2 MLN;BUDŻET, FINANSE PUBLICZNE I INSTYTUCJE FINANSOWE;Obrona narodowa
+19;752;75212;Pozostałe wydatki obronne;195;19-752-75212;19-752;0.2 MLN;Pozostałe wydatki obronne 0.2 MLN;BUDŻET, FINANSE PUBLICZNE I INSTYTUCJE FINANSOWE;Obrona narodowa
+19;758;;Różne rozliczenia;70746;19-758;19;70.7 MLN;Różne rozliczenia 70.7 MLN;BUDŻET, FINANSE PUBLICZNE I INSTYTUCJE FINANSOWE;Różne rozliczenia
+19;758;75823;Partie polityczne i komitety wyborcze (wyborców);70746;19-758-75823;19-758;70.7 MLN;Partie polityczne i komitety wyborcze (wyborców) 70.7 MLN;BUDŻET, FINANSE PUBLICZNE I INSTYTUCJE FINANSOWE;Różne rozliczenia
+20;;;GOSPODARKA;943259;20;total;943.3 MLN;GOSPODARKA 943.3 MLN;GOSPODARKA;GOSPODARKA
+20;150;;Przetwórstwo przemysłowe;605076;20-150;20;605.1 MLN;Przetwórstwo przemysłowe 605.1 MLN;GOSPODARKA;Przetwórstwo przemysłowe
+20;150;15011;Rozwój przedsiębiorczości;2775;20-150-15011;20-150;2.8 MLN;Rozwój przedsiębiorczości 2.8 MLN;GOSPODARKA;Przetwórstwo przemysłowe
+20;150;15012;Polska Agencja Rozwoju Przedsiębiorczości;15668;20-150-15012;20-150;15.7 MLN;Polska Agencja Rozwoju Przedsiębiorczości 15.7 MLN;GOSPODARKA;Przetwórstwo przemysłowe
+20;150;15013;Rozwój kadr nowoczesnej gospodarki i przedsiębiorczości;305;20-150-15013;20-150;0.3 MLN;Rozwój kadr nowoczesnej gospodarki i przedsiębiorczości 0.3 MLN;GOSPODARKA;Przetwórstwo przemysłowe
+20;150;15014;Wsparcie finansowe inwestycji;363800;20-150-15014;20-150;363.8 MLN;Wsparcie finansowe inwestycji 363.8 MLN;GOSPODARKA;Przetwórstwo przemysłowe
+20;150;15080;Działalność badawczo-rozwojowa;124969;20-150-15080;20-150;125.0 MLN;Działalność badawczo-rozwojowa 125.0 MLN;GOSPODARKA;Przetwórstwo przemysłowe
+20;150;15095;Pozostała działalność;97559;20-150-15095;20-150;97.6 MLN;Pozostała działalność 97.6 MLN;GOSPODARKA;Przetwórstwo przemysłowe
+20;500;;Handel;80532;20-500;20;80.5 MLN;Handel 80.5 MLN;GOSPODARKA;Handel
+20;500;50005;Promocja eksportu;80532;20-500-50005;20-500;80.5 MLN;Promocja eksportu 80.5 MLN;GOSPODARKA;Handel
+20;730;;Szkolnictwo wyższe i nauka;19324;20-730;20;19.3 MLN;Szkolnictwo wyższe i nauka 19.3 MLN;GOSPODARKA;Szkolnictwo wyższe i nauka
+20;730;73012;Działalność Polskiej Agencji Kosmicznej;19324;20-730-73012;20-730;19.3 MLN;Działalność Polskiej Agencji Kosmicznej 19.3 MLN;GOSPODARKA;Szkolnictwo wyższe i nauka
+20;750;;Administracja publiczna;183221;20-750;20;183.2 MLN;Administracja publiczna 183.2 MLN;GOSPODARKA;Administracja publiczna
+20;750;75001;Urzędy naczelnych i centralnych organów administracji rządowej;156004;20-750-75001;20-750;156.0 MLN;Urzędy naczelnych i centralnych organów administracji rządowej 156.0 MLN;GOSPODARKA;Administracja publiczna
+20;750;75030;Działalność Rzecznika Małych i Średnich Przedsiębiorców;15292;20-750-75030;20-750;15.3 MLN;Działalność Rzecznika Małych i Średnich Przedsiębiorców 15.3 MLN;GOSPODARKA;Administracja publiczna
+20;750;75057;Placówki zagraniczne;11925;20-750-75057;20-750;11.9 MLN;Placówki zagraniczne 11.9 MLN;GOSPODARKA;Administracja publiczna
+20;752;;Obrona narodowa;55106;20-752;20;55.1 MLN;Obrona narodowa 55.1 MLN;GOSPODARKA;Obrona narodowa
+20;752;75212;Pozostałe wydatki obronne;106;20-752-75212;20-752;0.1 MLN;Pozostałe wydatki obronne 0.1 MLN;GOSPODARKA;Obrona narodowa
+20;752;75280;Działalność badawczo-rozwojowa;55000;20-752-75280;20-752;55.0 MLN;Działalność badawczo-rozwojowa 55.0 MLN;GOSPODARKA;Obrona narodowa
+21;;;GOSPODARKA MORSKA;873430;21;total;873.4 MLN;GOSPODARKA MORSKA 873.4 MLN;GOSPODARKA MORSKA;GOSPODARKA MORSKA
+21;600;;Transport i łączność;551504;21-600;21;551.5 MLN;Transport i łączność 551.5 MLN;GOSPODARKA MORSKA;Transport i łączność
+21;600;60043;Urzędy morskie;480310;21-600-60043;21-600;480.3 MLN;Urzędy morskie 480.3 MLN;GOSPODARKA MORSKA;Transport i łączność
+21;600;60044;Ratownictwo morskie;59105;21-600-60044;21-600;59.1 MLN;Ratownictwo morskie 59.1 MLN;GOSPODARKA MORSKA;Transport i łączność
+21;600;60095;Pozostała działalność;12089;21-600-60095;21-600;12.1 MLN;Pozostała działalność 12.1 MLN;GOSPODARKA MORSKA;Transport i łączność
+21;730;;Szkolnictwo wyższe i nauka;225031;21-730;21;225.0 MLN;Szkolnictwo wyższe i nauka 225.0 MLN;GOSPODARKA MORSKA;Szkolnictwo wyższe i nauka
+21;730;73014;Działalność dydaktyczna i badawcza;215856;21-730-73014;21-730;215.9 MLN;Działalność dydaktyczna i badawcza 215.9 MLN;GOSPODARKA MORSKA;Szkolnictwo wyższe i nauka
+21;730;73016;Pomoc materialna dla studentów i doktorantów;9175;21-730-73016;21-730;9.2 MLN;Pomoc materialna dla studentów i doktorantów 9.2 MLN;GOSPODARKA MORSKA;Szkolnictwo wyższe i nauka
+21;750;;Administracja publiczna;41842;21-750;21;41.8 MLN;Administracja publiczna 41.8 MLN;GOSPODARKA MORSKA;Administracja publiczna
+21;750;75001;Urzędy naczelnych i centralnych organów administracji rządowej;41842;21-750-75001;21-750;41.8 MLN;Urzędy naczelnych i centralnych organów administracji rządowej 41.8 MLN;GOSPODARKA MORSKA;Administracja publiczna
+21;752;;Obrona narodowa;396;21-752;21;0.4 MLN;Obrona narodowa 0.4 MLN;GOSPODARKA MORSKA;Obrona narodowa
+21;752;75212;Pozostałe wydatki obronne;396;21-752-75212;21-752;0.4 MLN;Pozostałe wydatki obronne 0.4 MLN;GOSPODARKA MORSKA;Obrona narodowa
+21;755;;Wymiar sprawiedliwości;2265;21-755;21;2.3 MLN;Wymiar sprawiedliwości 2.3 MLN;GOSPODARKA MORSKA;Wymiar sprawiedliwości
+21;755;75504;Izby morskie;2265;21-755-75504;21-755;2.3 MLN;Izby morskie 2.3 MLN;GOSPODARKA MORSKA;Wymiar sprawiedliwości
+21;801;;Oświata i wychowanie;11216;21-801;21;11.2 MLN;Oświata i wychowanie 11.2 MLN;GOSPODARKA MORSKA;Oświata i wychowanie
+21;801;80115;Technika;11172;21-801-80115;21-801;11.2 MLN;Technika 11.2 MLN;GOSPODARKA MORSKA;Oświata i wychowanie
+21;801;80146;Dokształcanie i doskonalenie nauczycieli;32;21-801-80146;21-801;0.0 MLN;Dokształcanie i doskonalenie nauczycieli 0.0 MLN;GOSPODARKA MORSKA;Oświata i wychowanie
+21;801;80195;Pozostała działalność;12;21-801-80195;21-801;0.0 MLN;Pozostała działalność 0.0 MLN;GOSPODARKA MORSKA;Oświata i wychowanie
+21;854;;Edukacyjna opieka wychowawcza;1061;21-854;21;1.1 MLN;Edukacyjna opieka wychowawcza 1.1 MLN;GOSPODARKA MORSKA;Edukacyjna opieka wychowawcza
+21;854;85410;Internaty i bursy szkolne;1061;21-854-85410;21-854;1.1 MLN;Internaty i bursy szkolne 1.1 MLN;GOSPODARKA MORSKA;Edukacyjna opieka wychowawcza
+21;900;;Gospodarka komunalna i ochrona środowiska;40115;21-900;21;40.1 MLN;Gospodarka komunalna i ochrona środowiska 40.1 MLN;GOSPODARKA MORSKA;Gospodarka komunalna i ochrona środowiska
+21;900;90018;Ochrona brzegów morskich;40115;21-900-90018;21-900;40.1 MLN;Ochrona brzegów morskich 40.1 MLN;GOSPODARKA MORSKA;Gospodarka komunalna i ochrona środowiska
+22;;;GOSPODARKA WODNA;1515690;22;total;1.5 MLD;GOSPODARKA WODNA 1.5 MLD;GOSPODARKA WODNA;GOSPODARKA WODNA
+22;750;;Administracja publiczna;85528;22-750;22;85.5 MLN;Administracja publiczna 85.5 MLN;GOSPODARKA WODNA;Administracja publiczna
+22;750;75001;Urzędy naczelnych i centralnych organów administracji rządowej;21358;22-750-75001;22-750;21.4 MLN;Urzędy naczelnych i centralnych organów administracji rządowej 21.4 MLN;GOSPODARKA WODNA;Administracja publiczna
+22;750;75080;Działalność badawczo-rozwojowa;64170;22-750-75080;22-750;64.2 MLN;Działalność badawczo-rozwojowa 64.2 MLN;GOSPODARKA WODNA;Administracja publiczna
+22;752;;Obrona narodowa;1839;22-752;22;1.8 MLN;Obrona narodowa 1.8 MLN;GOSPODARKA WODNA;Obrona narodowa
+22;752;75212;Pozostałe wydatki obronne;1839;22-752-75212;22-752;1.8 MLN;Pozostałe wydatki obronne 1.8 MLN;GOSPODARKA WODNA;Obrona narodowa
+22;900;;Gospodarka komunalna i ochrona środowiska;1428323;22-900;22;1.4 MLD;Gospodarka komunalna i ochrona środowiska 1.4 MLD;GOSPODARKA WODNA;Gospodarka komunalna i ochrona środowiska
+22;900;90025;Działalność Państwowego Gospodarstwa Wodnego Wody Polskie;1247603;22-900-90025;22-900;1.2 MLD;Działalność Państwowego Gospodarstwa Wodnego Wody Polskie 1.2 MLD;GOSPODARKA WODNA;Gospodarka komunalna i ochrona środowiska
+22;900;90095;Pozostała działalność;180720;22-900-90095;22-900;180.7 MLN;Pozostała działalność 180.7 MLN;GOSPODARKA WODNA;Gospodarka komunalna i ochrona środowiska
+23;;;CZŁONKOSTWO RZECZYPOSPOLITEJ POLSKIEJ W UNII EUROPEJSKIEJ;27093;23;total;27.1 MLN;CZŁONKOSTWO RZECZYPOSPOLITEJ POLSKIEJ W UNII EUROPEJSKIEJ 27.1 MLN;CZŁONKOSTWO RZECZYPOSPOLITEJ POLSKIEJ W UNII EUROPEJSKIEJ;CZŁONKOSTWO RZECZYPOSPOLITEJ POLSKIEJ W UNII EUROPEJSKIEJ
+23;750;;Administracja publiczna;27089;23-750;23;27.1 MLN;Administracja publiczna 27.1 MLN;CZŁONKOSTWO RZECZYPOSPOLITEJ POLSKIEJ W UNII EUROPEJSKIEJ;Administracja publiczna
+23;750;75001;Urzędy naczelnych i centralnych organów administracji rządowej;26401;23-750-75001;23-750;26.4 MLN;Urzędy naczelnych i centralnych organów administracji rządowej 26.4 MLN;CZŁONKOSTWO RZECZYPOSPOLITEJ POLSKIEJ W UNII EUROPEJSKIEJ;Administracja publiczna
+23;750;75095;Pozostała działalność;688;23-750-75095;23-750;0.7 MLN;Pozostała działalność 0.7 MLN;CZŁONKOSTWO RZECZYPOSPOLITEJ POLSKIEJ W UNII EUROPEJSKIEJ;Administracja publiczna
+23;752;;Obrona narodowa;4;23-752;23;0.0 MLN;Obrona narodowa 0.0 MLN;CZŁONKOSTWO RZECZYPOSPOLITEJ POLSKIEJ W UNII EUROPEJSKIEJ;Obrona narodowa
+23;752;75212;Pozostałe wydatki obronne;4;23-752-75212;23-752;0.0 MLN;Pozostałe wydatki obronne 0.0 MLN;CZŁONKOSTWO RZECZYPOSPOLITEJ POLSKIEJ W UNII EUROPEJSKIEJ;Obrona narodowa
+24;;;KULTURA I OCHRONA DZIEDZICTWA NARODOWEGO;6882601;24;total;6.9 MLD;KULTURA I OCHRONA DZIEDZICTWA NARODOWEGO 6.9 MLD;KULTURA I OCHRONA DZIEDZICTWA NARODOWEGO;KULTURA I OCHRONA DZIEDZICTWA NARODOWEGO
+24;730;;Szkolnictwo wyższe i nauka;1033120;24-730;24;1.0 MLD;Szkolnictwo wyższe i nauka 1.0 MLD;KULTURA I OCHRONA DZIEDZICTWA NARODOWEGO;Szkolnictwo wyższe i nauka
+24;730;73013;Działalność w zakresie umiędzynarodowienia nauki i szkolnictwa wyższego;150;24-730-73013;24-730;0.1 MLN;Działalność w zakresie umiędzynarodowienia nauki i szkolnictwa wyższego 0.1 MLN;KULTURA I OCHRONA DZIEDZICTWA NARODOWEGO;Szkolnictwo wyższe i nauka
+24;730;73014;Działalność dydaktyczna i badawcza;843975;24-730-73014;24-730;844.0 MLN;Działalność dydaktyczna i badawcza 844.0 MLN;KULTURA I OCHRONA DZIEDZICTWA NARODOWEGO;Szkolnictwo wyższe i nauka
+24;730;73016;Pomoc materialna dla studentów i doktorantów;25102;24-730-73016;24-730;25.1 MLN;Pomoc materialna dla studentów i doktorantów 25.1 MLN;KULTURA I OCHRONA DZIEDZICTWA NARODOWEGO;Szkolnictwo wyższe i nauka
+24;730;73095;Pozostała działalność;163893;24-730-73095;24-730;163.9 MLN;Pozostała działalność 163.9 MLN;KULTURA I OCHRONA DZIEDZICTWA NARODOWEGO;Szkolnictwo wyższe i nauka
+24;750;;Administracja publiczna;137491;24-750;24;137.5 MLN;Administracja publiczna 137.5 MLN;KULTURA I OCHRONA DZIEDZICTWA NARODOWEGO;Administracja publiczna
+24;750;75001;Urzędy naczelnych i centralnych organów administracji rządowej;137161;24-750-75001;24-750;137.2 MLN;Urzędy naczelnych i centralnych organów administracji rządowej 137.2 MLN;KULTURA I OCHRONA DZIEDZICTWA NARODOWEGO;Administracja publiczna
+24;750;75095;Pozostała działalność;330;24-750-75095;24-750;0.3 MLN;Pozostała działalność 0.3 MLN;KULTURA I OCHRONA DZIEDZICTWA NARODOWEGO;Administracja publiczna
+24;752;;Obrona narodowa;207;24-752;24;0.2 MLN;Obrona narodowa 0.2 MLN;KULTURA I OCHRONA DZIEDZICTWA NARODOWEGO;Obrona narodowa
+24;752;75212;Pozostałe wydatki obronne;207;24-752-75212;24-752;0.2 MLN;Pozostałe wydatki obronne 0.2 MLN;KULTURA I OCHRONA DZIEDZICTWA NARODOWEGO;Obrona narodowa
+24;754;;Bezpieczeństwo publiczne i ochrona przeciwpożarowa;140;24-754;24;0.1 MLN;Bezpieczeństwo publiczne i ochrona przeciwpożarowa 0.1 MLN;KULTURA I OCHRONA DZIEDZICTWA NARODOWEGO;Bezpieczeństwo publiczne i ochrona przeciwpożarowa
+24;754;75421;Zarządzanie kryzysowe;140;24-754-75421;24-754;0.1 MLN;Zarządzanie kryzysowe 0.1 MLN;KULTURA I OCHRONA DZIEDZICTWA NARODOWEGO;Bezpieczeństwo publiczne i ochrona przeciwpożarowa
+24;801;;Oświata i wychowanie;1372374;24-801;24;1.4 MLD;Oświata i wychowanie 1.4 MLD;KULTURA I OCHRONA DZIEDZICTWA NARODOWEGO;Oświata i wychowanie
+24;801;80132;Szkoły artystyczne;1331697;24-801-80132;24-801;1.3 MLD;Szkoły artystyczne 1.3 MLD;KULTURA I OCHRONA DZIEDZICTWA NARODOWEGO;Oświata i wychowanie
+24;801;80143;Jednostki pomocnicze szkolnictwa;15088;24-801-80143;24-801;15.1 MLN;Jednostki pomocnicze szkolnictwa 15.1 MLN;KULTURA I OCHRONA DZIEDZICTWA NARODOWEGO;Oświata i wychowanie
+24;801;80146;Dokształcanie i doskonalenie nauczycieli;5293;24-801-80146;24-801;5.3 MLN;Dokształcanie i doskonalenie nauczycieli 5.3 MLN;KULTURA I OCHRONA DZIEDZICTWA NARODOWEGO;Oświata i wychowanie
+24;801;80148;Stołówki szkolne i przedszkolne;2197;24-801-80148;24-801;2.2 MLN;Stołówki szkolne i przedszkolne 2.2 MLN;KULTURA I OCHRONA DZIEDZICTWA NARODOWEGO;Oświata i wychowanie
+24;801;80195;Pozostała działalność;18099;24-801-80195;24-801;18.1 MLN;Pozostała działalność 18.1 MLN;KULTURA I OCHRONA DZIEDZICTWA NARODOWEGO;Oświata i wychowanie
+24;854;;Edukacyjna opieka wychowawcza;56364;24-854;24;56.4 MLN;Edukacyjna opieka wychowawcza 56.4 MLN;KULTURA I OCHRONA DZIEDZICTWA NARODOWEGO;Edukacyjna opieka wychowawcza
+24;854;85410;Internaty i bursy szkolne;55292;24-854-85410;24-854;55.3 MLN;Internaty i bursy szkolne 55.3 MLN;KULTURA I OCHRONA DZIEDZICTWA NARODOWEGO;Edukacyjna opieka wychowawcza
+24;854;85416;Pomoc materialna dla uczniów o charakterze motywacyjnym;950;24-854-85416;24-854;0.9 MLN;Pomoc materialna dla uczniów o charakterze motywacyjnym 0.9 MLN;KULTURA I OCHRONA DZIEDZICTWA NARODOWEGO;Edukacyjna opieka wychowawcza
+24;854;85446;Dokształcanie i doskonalenie nauczycieli;122;24-854-85446;24-854;0.1 MLN;Dokształcanie i doskonalenie nauczycieli 0.1 MLN;KULTURA I OCHRONA DZIEDZICTWA NARODOWEGO;Edukacyjna opieka wychowawcza
+24;921;;Kultura i ochrona dziedzictwa narodowego;4282905;24-921;24;4.3 MLD;Kultura i ochrona dziedzictwa narodowego 4.3 MLD;KULTURA I OCHRONA DZIEDZICTWA NARODOWEGO;Kultura i ochrona dziedzictwa narodowego
+24;921;92101;Instytucje kinematografii;15010;24-921-92101;24-921;15.0 MLN;Instytucje kinematografii 15.0 MLN;KULTURA I OCHRONA DZIEDZICTWA NARODOWEGO;Kultura i ochrona dziedzictwa narodowego
+24;921;92102;Polski Instytut Sztuki Filmowej;127079;24-921-92102;24-921;127.1 MLN;Polski Instytut Sztuki Filmowej 127.1 MLN;KULTURA I OCHRONA DZIEDZICTWA NARODOWEGO;Kultura i ochrona dziedzictwa narodowego
+24;921;92105;Pozostałe zadania w zakresie kultury;28563;24-921-92105;24-921;28.6 MLN;Pozostałe zadania w zakresie kultury 28.6 MLN;KULTURA I OCHRONA DZIEDZICTWA NARODOWEGO;Kultura i ochrona dziedzictwa narodowego
+24;921;92106;Teatry;385449;24-921-92106;24-921;385.4 MLN;Teatry 385.4 MLN;KULTURA I OCHRONA DZIEDZICTWA NARODOWEGO;Kultura i ochrona dziedzictwa narodowego
+24;921;92108;Filharmonie, orkiestry, chóry i kapele;176951;24-921-92108;24-921;177.0 MLN;Filharmonie, orkiestry, chóry i kapele 177.0 MLN;KULTURA I OCHRONA DZIEDZICTWA NARODOWEGO;Kultura i ochrona dziedzictwa narodowego
+24;921;92109;Domy i ośrodki kultury, świetlice i kluby;5622;24-921-92109;24-921;5.6 MLN;Domy i ośrodki kultury, świetlice i kluby 5.6 MLN;KULTURA I OCHRONA DZIEDZICTWA NARODOWEGO;Kultura i ochrona dziedzictwa narodowego
+24;921;92110;Galerie i biura wystaw artystycznych;25934;24-921-92110;24-921;25.9 MLN;Galerie i biura wystaw artystycznych 25.9 MLN;KULTURA I OCHRONA DZIEDZICTWA NARODOWEGO;Kultura i ochrona dziedzictwa narodowego
+24;921;92113;Centra kultury i sztuki;361648;24-921-92113;24-921;361.6 MLN;Centra kultury i sztuki 361.6 MLN;KULTURA I OCHRONA DZIEDZICTWA NARODOWEGO;Kultura i ochrona dziedzictwa narodowego
+24;921;92114;Pozostałe instytucje kultury;477604;24-921-92114;24-921;477.6 MLN;Pozostałe instytucje kultury 477.6 MLN;KULTURA I OCHRONA DZIEDZICTWA NARODOWEGO;Kultura i ochrona dziedzictwa narodowego
+24;921;92115;Polska Agencja Prasowa;20000;24-921-92115;24-921;20.0 MLN;Polska Agencja Prasowa 20.0 MLN;KULTURA I OCHRONA DZIEDZICTWA NARODOWEGO;Kultura i ochrona dziedzictwa narodowego
+24;921;92116;Biblioteki;144003;24-921-92116;24-921;144.0 MLN;Biblioteki 144.0 MLN;KULTURA I OCHRONA DZIEDZICTWA NARODOWEGO;Kultura i ochrona dziedzictwa narodowego
+24;921;92117;Archiwa;285493;24-921-92117;24-921;285.5 MLN;Archiwa 285.5 MLN;KULTURA I OCHRONA DZIEDZICTWA NARODOWEGO;Kultura i ochrona dziedzictwa narodowego
+24;921;92118;Muzea;1462385;24-921-92118;24-921;1.5 MLD;Muzea 1.5 MLD;KULTURA I OCHRONA DZIEDZICTWA NARODOWEGO;Kultura i ochrona dziedzictwa narodowego
+24;921;92119;Ośrodki ochrony i dokumentacji zabytków;118652;24-921-92119;24-921;118.7 MLN;Ośrodki ochrony i dokumentacji zabytków 118.7 MLN;KULTURA I OCHRONA DZIEDZICTWA NARODOWEGO;Kultura i ochrona dziedzictwa narodowego
+24;921;92120;Ochrona zabytków i opieka nad zabytkami;210127;24-921-92120;24-921;210.1 MLN;Ochrona zabytków i opieka nad zabytkami 210.1 MLN;KULTURA I OCHRONA DZIEDZICTWA NARODOWEGO;Kultura i ochrona dziedzictwa narodowego
+24;921;92126;Centrum Dialogu im. Juliusza Mieroszewskiego;11755;24-921-92126;24-921;11.8 MLN;Centrum Dialogu im. Juliusza Mieroszewskiego 11.8 MLN;KULTURA I OCHRONA DZIEDZICTWA NARODOWEGO;Kultura i ochrona dziedzictwa narodowego
+24;921;92127;Działalność dotycząca miejsc pamięci narodowej oraz ochrony pamięci walk i męczeństwa;4520;24-921-92127;24-921;4.5 MLN;Działalność dotycząca miejsc pamięci narodowej oraz ochrony pamięci walk i męczeństwa 4.5 MLN;KULTURA I OCHRONA DZIEDZICTWA NARODOWEGO;Kultura i ochrona dziedzictwa narodowego
+24;921;92195;Pozostała działalność;422110;24-921-92195;24-921;422.1 MLN;Pozostała działalność 422.1 MLN;KULTURA I OCHRONA DZIEDZICTWA NARODOWEGO;Kultura i ochrona dziedzictwa narodowego
+25;;;KULTURA FIZYCZNA;1801651;25;total;1.8 MLD;KULTURA FIZYCZNA 1.8 MLD;KULTURA FIZYCZNA;KULTURA FIZYCZNA
+25;750;;Administracja publiczna;44856;25-750;25;44.9 MLN;Administracja publiczna 44.9 MLN;KULTURA FIZYCZNA;Administracja publiczna
+25;750;75001;Urzędy naczelnych i centralnych organów administracji rządowej;44856;25-750-75001;25-750;44.9 MLN;Urzędy naczelnych i centralnych organów administracji rządowej 44.9 MLN;KULTURA FIZYCZNA;Administracja publiczna
+25;752;;Obrona narodowa;35;25-752;25;0.0 MLN;Obrona narodowa 0.0 MLN;KULTURA FIZYCZNA;Obrona narodowa
+25;752;75212;Pozostałe wydatki obronne;35;25-752-75212;25-752;0.0 MLN;Pozostałe wydatki obronne 0.0 MLN;KULTURA FIZYCZNA;Obrona narodowa
+25;926;;Kultura fizyczna;1756760;25-926;25;1.8 MLD;Kultura fizyczna 1.8 MLD;KULTURA FIZYCZNA;Kultura fizyczna
+25;926;92601;Obiekty sportowe;800000;25-926-92601;25-926;800.0 MLN;Obiekty sportowe 800.0 MLN;KULTURA FIZYCZNA;Kultura fizyczna
+25;926;92604;Instytucje kultury fizycznej;63447;25-926-92604;25-926;63.4 MLN;Instytucje kultury fizycznej 63.4 MLN;KULTURA FIZYCZNA;Kultura fizyczna
+25;926;92605;Zadania w zakresie kultury fizycznej;638685;25-926-92605;25-926;638.7 MLN;Zadania w zakresie kultury fizycznej 638.7 MLN;KULTURA FIZYCZNA;Kultura fizyczna
+25;926;92695;Pozostała działalność;254628;25-926-92695;25-926;254.6 MLN;Pozostała działalność 254.6 MLN;KULTURA FIZYCZNA;Kultura fizyczna
+26;;;ŁĄCZNOŚĆ;10112;26;total;10.1 MLN;ŁĄCZNOŚĆ 10.1 MLN;ŁĄCZNOŚĆ;ŁĄCZNOŚĆ
+26;600;;Transport i łączność;5430;26-600;26;5.4 MLN;Transport i łączność 5.4 MLN;ŁĄCZNOŚĆ;Transport i łączność
+26;600;60046;Operatorzy pocztowi;5430;26-600-60046;26-600;5.4 MLN;Operatorzy pocztowi 5.4 MLN;ŁĄCZNOŚĆ;Transport i łączność
+26;750;;Administracja publiczna;4658;26-750;26;4.7 MLN;Administracja publiczna 4.7 MLN;ŁĄCZNOŚĆ;Administracja publiczna
+26;750;75001;Urzędy naczelnych i centralnych organów administracji rządowej;4658;26-750-75001;26-750;4.7 MLN;Urzędy naczelnych i centralnych organów administracji rządowej 4.7 MLN;ŁĄCZNOŚĆ;Administracja publiczna
+26;752;;Obrona narodowa;24;26-752;26;0.0 MLN;Obrona narodowa 0.0 MLN;ŁĄCZNOŚĆ;Obrona narodowa
+26;752;75212;Pozostałe wydatki obronne;24;26-752-75212;26-752;0.0 MLN;Pozostałe wydatki obronne 0.0 MLN;ŁĄCZNOŚĆ;Obrona narodowa
+27;;;INFORMATYZACJA;874673;27;total;874.7 MLN;INFORMATYZACJA 874.7 MLN;INFORMATYZACJA;INFORMATYZACJA
+27;720;;Informatyka;100000;27-720;27;100.0 MLN;Informatyka 100.0 MLN;INFORMATYZACJA;Informatyka
+27;720;72003;"Działalność Funduszu Cyberbezpieczeństwa
+";100000;27-720-72003;27-720;100.0 MLN;"Działalność Funduszu Cyberbezpieczeństwa
+ 100.0 MLN";INFORMATYZACJA;Informatyka
+27;750;;Administracja publiczna;772317;27-750;27;772.3 MLN;Administracja publiczna 772.3 MLN;INFORMATYZACJA;Administracja publiczna
+27;750;75001;Urzędy naczelnych i centralnych organów administracji rządowej;631139;27-750-75001;27-750;631.1 MLN;Urzędy naczelnych i centralnych organów administracji rządowej 631.1 MLN;INFORMATYZACJA;Administracja publiczna
+27;750;75077;Centrum Projektów Polska Cyfrowa;141178;27-750-75077;27-750;141.2 MLN;Centrum Projektów Polska Cyfrowa 141.2 MLN;INFORMATYZACJA;Administracja publiczna
+27;752;;Obrona narodowa;2356;27-752;27;2.4 MLN;Obrona narodowa 2.4 MLN;INFORMATYZACJA;Obrona narodowa
+27;752;75212;Pozostałe wydatki obronne;2356;27-752-75212;27-752;2.4 MLN;Pozostałe wydatki obronne 2.4 MLN;INFORMATYZACJA;Obrona narodowa
+28;;;SZKOLNICTWO WYŻSZE I NAUKA;25533560;28;total;25.5 MLD;SZKOLNICTWO WYŻSZE I NAUKA 25.5 MLD;SZKOLNICTWO WYŻSZE I NAUKA;SZKOLNICTWO WYŻSZE I NAUKA
+28;730;;Szkolnictwo wyższe i nauka;25050925;28-730;28;25.1 MLD;Szkolnictwo wyższe i nauka 25.1 MLD;SZKOLNICTWO WYŻSZE I NAUKA;Szkolnictwo wyższe i nauka
+28;730;73007;Współpraca z zagranicą;571869;28-730-73007;28-730;571.9 MLN;Współpraca z zagranicą 571.9 MLN;SZKOLNICTWO WYŻSZE I NAUKA;Szkolnictwo wyższe i nauka
+28;730;73008;Działalność Narodowego Centrum Badań i Rozwoju;935222;28-730-73008;28-730;935.2 MLN;Działalność Narodowego Centrum Badań i Rozwoju 935.2 MLN;SZKOLNICTWO WYŻSZE I NAUKA;Szkolnictwo wyższe i nauka
+28;730;73009;Działalność Narodowego Centrum Nauki;1436577;28-730-73009;28-730;1.4 MLD;Działalność Narodowego Centrum Nauki 1.4 MLD;SZKOLNICTWO WYŻSZE I NAUKA;Szkolnictwo wyższe i nauka
+28;730;73013;Działalność w zakresie umiędzynarodowienia nauki i szkolnictwa wyższego;167228;28-730-73013;28-730;167.2 MLN;Działalność w zakresie umiędzynarodowienia nauki i szkolnictwa wyższego 167.2 MLN;SZKOLNICTWO WYŻSZE I NAUKA;Szkolnictwo wyższe i nauka
+28;730;73014;Działalność dydaktyczna i badawcza;19211724;28-730-73014;28-730;19.2 MLD;Działalność dydaktyczna i badawcza 19.2 MLD;SZKOLNICTWO WYŻSZE I NAUKA;Szkolnictwo wyższe i nauka
+28;730;73016;Pomoc materialna dla studentów i doktorantów;1534191;28-730-73016;28-730;1.5 MLD;Pomoc materialna dla studentów i doktorantów 1.5 MLD;SZKOLNICTWO WYŻSZE I NAUKA;Szkolnictwo wyższe i nauka
+28;730;73017;Fundusz Kredytów Studenckich;47000;28-730-73017;28-730;47.0 MLN;Fundusz Kredytów Studenckich 47.0 MLN;SZKOLNICTWO WYŻSZE I NAUKA;Szkolnictwo wyższe i nauka
+28;730;73018;Programy i przedsięwzięcia ministra właściwego do spraw szkolnictwa wyższego i nauki;444259;28-730-73018;28-730;444.3 MLN;Programy i przedsięwzięcia ministra właściwego do spraw szkolnictwa wyższego i nauki 444.3 MLN;SZKOLNICTWO WYŻSZE I NAUKA;Szkolnictwo wyższe i nauka
+28;730;73019;Działalność podmiotów funkcjonujących w obszarze nauki i szkolnictwa wyższego;30301;28-730-73019;28-730;30.3 MLN;Działalność podmiotów funkcjonujących w obszarze nauki i szkolnictwa wyższego 30.3 MLN;SZKOLNICTWO WYŻSZE I NAUKA;Szkolnictwo wyższe i nauka
+28;730;73020;Działalność Sieci Badawczej Łukasiewicz;382804;28-730-73020;28-730;382.8 MLN;Działalność Sieci Badawczej Łukasiewicz 382.8 MLN;SZKOLNICTWO WYŻSZE I NAUKA;Szkolnictwo wyższe i nauka
+28;730;73095;Pozostała działalność;289750;28-730-73095;28-730;289.8 MLN;Pozostała działalność 289.8 MLN;SZKOLNICTWO WYŻSZE I NAUKA;Szkolnictwo wyższe i nauka
+28;750;;Administracja publiczna;90511;28-750;28;90.5 MLN;Administracja publiczna 90.5 MLN;SZKOLNICTWO WYŻSZE I NAUKA;Administracja publiczna
+28;750;75001;Urzędy naczelnych i centralnych organów administracji rządowej;90511;28-750-75001;28-750;90.5 MLN;Urzędy naczelnych i centralnych organów administracji rządowej 90.5 MLN;SZKOLNICTWO WYŻSZE I NAUKA;Administracja publiczna
+28;752;;Obrona narodowa;300031;28-752;28;300.0 MLN;Obrona narodowa 300.0 MLN;SZKOLNICTWO WYŻSZE I NAUKA;Obrona narodowa
+28;752;75212;Pozostałe wydatki obronne;31;28-752-75212;28-752;0.0 MLN;Pozostałe wydatki obronne 0.0 MLN;SZKOLNICTWO WYŻSZE I NAUKA;Obrona narodowa
+28;752;75221;Projekty badawcze i celowe w dziedzinie obronnosci;300000;28-752-75221;28-752;300.0 MLN;Projekty badawcze i celowe w dziedzinie obronnosci 300.0 MLN;SZKOLNICTWO WYŻSZE I NAUKA;Obrona narodowa
+28;851;;Ochrona zdrowia;19000;28-851;28;19.0 MLN;Ochrona zdrowia 19.0 MLN;SZKOLNICTWO WYŻSZE I NAUKA;Ochrona zdrowia
+28;851;85156;Składki na ubezpieczenie zdrowotne oraz świadczenia dla osób nieobjętych obowiązkiem ubezpieczenia zdrowotnego;19000;28-851-85156;28-851;19.0 MLN;Składki na ubezpieczenie zdrowotne oraz świadczenia dla osób nieobjętych obowiązkiem ubezpieczenia zdrowotnego 19.0 MLN;SZKOLNICTWO WYŻSZE I NAUKA;Ochrona zdrowia
+28;921;;Kultura i ochrona dziedzictwa narodowego;73093;28-921;28;73.1 MLN;Kultura i ochrona dziedzictwa narodowego 73.1 MLN;SZKOLNICTWO WYŻSZE I NAUKA;Kultura i ochrona dziedzictwa narodowego
+28;921;92114;Pozostałe instytucje kultury;64856;28-921-92114;28-921;64.9 MLN;Pozostałe instytucje kultury 64.9 MLN;SZKOLNICTWO WYŻSZE I NAUKA;Kultura i ochrona dziedzictwa narodowego
+28;921;92118;Muzea;8237;28-921-92118;28-921;8.2 MLN;Muzea 8.2 MLN;SZKOLNICTWO WYŻSZE I NAUKA;Kultura i ochrona dziedzictwa narodowego
+29;;;OBRONA NARODOWA;96920509;29;total;96.9 MLD;OBRONA NARODOWA 96.9 MLD;OBRONA NARODOWA;OBRONA NARODOWA
+29;730;;Szkolnictwo wyższe i nauka;1249802;29-730;29;1.2 MLD;Szkolnictwo wyższe i nauka 1.2 MLD;OBRONA NARODOWA;Szkolnictwo wyższe i nauka
+29;730;73014;Działalność dydaktyczna i badawcza;273032;29-730-73014;29-730;273.0 MLN;Działalność dydaktyczna i badawcza 273.0 MLN;OBRONA NARODOWA;Szkolnictwo wyższe i nauka
+29;730;73015;Działalność dydaktyczna w zakresie związanym z obroną narodową;959290;29-730-73015;29-730;959.3 MLN;Działalność dydaktyczna w zakresie związanym z obroną narodową 959.3 MLN;OBRONA NARODOWA;Szkolnictwo wyższe i nauka
+29;730;73016;Pomoc materialna dla studentów i doktorantów;17480;29-730-73016;29-730;17.5 MLN;Pomoc materialna dla studentów i doktorantów 17.5 MLN;OBRONA NARODOWA;Szkolnictwo wyższe i nauka
+29;750;;Administracja publiczna;430466;29-750;29;430.5 MLN;Administracja publiczna 430.5 MLN;OBRONA NARODOWA;Administracja publiczna
+29;750;75001;Urzędy naczelnych i centralnych organów administracji rządowej;347578;29-750-75001;29-750;347.6 MLN;Urzędy naczelnych i centralnych organów administracji rządowej 347.6 MLN;OBRONA NARODOWA;Administracja publiczna
+29;750;75057;Placówki zagraniczne;82888;29-750-75057;29-750;82.9 MLN;Placówki zagraniczne 82.9 MLN;OBRONA NARODOWA;Administracja publiczna
+29;752;;Obrona narodowa;84972456;29-752;29;85.0 MLD;Obrona narodowa 85.0 MLD;OBRONA NARODOWA;Obrona narodowa
+29;752;75201;Wojska Lądowe;7050184;29-752-75201;29-752;7.1 MLD;Wojska Lądowe 7.1 MLD;OBRONA NARODOWA;Obrona narodowa
+29;752;75202;Siły Powietrzne;2714230;29-752-75202;29-752;2.7 MLD;Siły Powietrzne 2.7 MLD;OBRONA NARODOWA;Obrona narodowa
+29;752;75203;Marynarka Wojenna;1005827;29-752-75203;29-752;1.0 MLD;Marynarka Wojenna 1.0 MLD;OBRONA NARODOWA;Obrona narodowa
+29;752;75204;Centralne wsparcie;33991163;29-752-75204;29-752;34.0 MLD;Centralne wsparcie 34.0 MLD;OBRONA NARODOWA;Obrona narodowa
+29;752;75206;Wojska Obrony Terytorialnej;1463519;29-752-75206;29-752;1.5 MLD;Wojska Obrony Terytorialnej 1.5 MLD;OBRONA NARODOWA;Obrona narodowa
+29;752;75207;Żandarmeria Wojskowa;468778;29-752-75207;29-752;468.8 MLN;Żandarmeria Wojskowa 468.8 MLN;OBRONA NARODOWA;Obrona narodowa
+29;752;75208;Duszpasterstwa Wojskowe;31263;29-752-75208;29-752;31.3 MLN;Duszpasterstwa Wojskowe 31.3 MLN;OBRONA NARODOWA;Obrona narodowa
+29;752;75211;Cyberbezpieczeństwo i wsparcie kryptologiczne;1656863;29-752-75211;29-752;1.7 MLD;Cyberbezpieczeństwo i wsparcie kryptologiczne 1.7 MLD;OBRONA NARODOWA;Obrona narodowa
+29;752;75213;Dowodzenie i kierowanie Siłami Zbrojnymi Rzeczypospolitej Polskiej;826752;29-752-75213;29-752;826.8 MLN;Dowodzenie i kierowanie Siłami Zbrojnymi Rzeczypospolitej Polskiej 826.8 MLN;OBRONA NARODOWA;Obrona narodowa
+29;752;75215;"Zabezpieczenie potrzeb Sił Zbrojnych realizowanych przez przedsiębiorców
+";225000;29-752-75215;29-752;225.0 MLN;"Zabezpieczenie potrzeb Sił Zbrojnych realizowanych przez przedsiębiorców
+ 225.0 MLN";OBRONA NARODOWA;Obrona narodowa
+29;752;75216;Wojskowe Misje Pokojowe;410377;29-752-75216;29-752;410.4 MLN;Wojskowe Misje Pokojowe 410.4 MLN;OBRONA NARODOWA;Obrona narodowa
+29;752;75217;Służba Wywiadu Wojskowego;299763;29-752-75217;29-752;299.8 MLN;Służba Wywiadu Wojskowego 299.8 MLN;OBRONA NARODOWA;Obrona narodowa
+29;752;75218;Służba Kontrwywiadu Wojskowego;481923;29-752-75218;29-752;481.9 MLN;Służba Kontrwywiadu Wojskowego 481.9 MLN;OBRONA NARODOWA;Obrona narodowa
+29;752;75219;Wojska Specjalne;598766;29-752-75219;29-752;598.8 MLN;Wojska Specjalne 598.8 MLN;OBRONA NARODOWA;Obrona narodowa
+29;752;75220;Zabezpieczenie wojsk;16749479;29-752-75220;29-752;16.7 MLD;Zabezpieczenie wojsk 16.7 MLD;OBRONA NARODOWA;Obrona narodowa
+29;752;75222;Agencja Mienia Wojskowego;2435083;29-752-75222;29-752;2.4 MLD;Agencja Mienia Wojskowego 2.4 MLD;OBRONA NARODOWA;Obrona narodowa
+29;752;75224;Kwalifikacja wojskowa;363528;29-752-75224;29-752;363.5 MLN;Kwalifikacja wojskowa 363.5 MLN;OBRONA NARODOWA;Obrona narodowa
+29;752;75280;Działalność badawczo-rozwojowa;1254088;29-752-75280;29-752;1.3 MLD;Działalność badawczo-rozwojowa 1.3 MLD;OBRONA NARODOWA;Obrona narodowa
+29;752;75295;Pozostała działalność;12945870;29-752-75295;29-752;12.9 MLD;Pozostała działalność 12.9 MLD;OBRONA NARODOWA;Obrona narodowa
+29;753;;Obowiązkowe ubezpieczenia społeczne;9547139;29-753;29;9.5 MLD;Obowiązkowe ubezpieczenia społeczne 9.5 MLD;OBRONA NARODOWA;Obowiązkowe ubezpieczenia społeczne
+29;753;75301;Świadczenia pieniężne z zaopatrzenia emerytalnego;9541973;29-753-75301;29-753;9.5 MLD;Świadczenia pieniężne z zaopatrzenia emerytalnego 9.5 MLD;OBRONA NARODOWA;Obowiązkowe ubezpieczenia społeczne
+29;753;75302;Uposażenia prokuratorów w stanie spoczynku oraz uposażenia rodzinne;3272;29-753-75302;29-753;3.3 MLN;Uposażenia prokuratorów w stanie spoczynku oraz uposażenia rodzinne 3.3 MLN;OBRONA NARODOWA;Obowiązkowe ubezpieczenia społeczne
+29;753;75312;Uposażenia sędziów w stanie spoczynku oraz uposażenia rodzinne;1894;29-753-75312;29-753;1.9 MLN;Uposażenia sędziów w stanie spoczynku oraz uposażenia rodzinne 1.9 MLN;OBRONA NARODOWA;Obowiązkowe ubezpieczenia społeczne
+29;755;;Wymiar sprawiedliwości;29016;29-755;29;29.0 MLN;Wymiar sprawiedliwości 29.0 MLN;OBRONA NARODOWA;Wymiar sprawiedliwości
+29;755;75503;Sądy wojskowe;29016;29-755-75503;29-755;29.0 MLN;Sądy wojskowe 29.0 MLN;OBRONA NARODOWA;Wymiar sprawiedliwości
+29;851;;Ochrona zdrowia;364446;29-851;29;364.4 MLN;Ochrona zdrowia 364.4 MLN;OBRONA NARODOWA;Ochrona zdrowia
+29;851;85156;Składki na ubezpieczenie zdrowotne oraz świadczenia dla osób nieobjętych obowiązkiem ubezpieczenia zdrowotnego;31723;29-851-85156;29-851;31.7 MLN;Składki na ubezpieczenie zdrowotne oraz świadczenia dla osób nieobjętych obowiązkiem ubezpieczenia zdrowotnego 31.7 MLN;OBRONA NARODOWA;Ochrona zdrowia
+29;851;85157;Staże i specjalizacje medyczne;28935;29-851-85157;29-851;28.9 MLN;Staże i specjalizacje medyczne 28.9 MLN;OBRONA NARODOWA;Ochrona zdrowia
+29;851;85195;Pozostała działalność;303788;29-851-85195;29-851;303.8 MLN;Pozostała działalność 303.8 MLN;OBRONA NARODOWA;Ochrona zdrowia
+29;921;;Kultura i ochrona dziedzictwa narodowego;327184;29-921;29;327.2 MLN;Kultura i ochrona dziedzictwa narodowego 327.2 MLN;OBRONA NARODOWA;Kultura i ochrona dziedzictwa narodowego
+29;921;92114;Pozostałe instytucje kultury;14403;29-921-92114;29-921;14.4 MLN;Pozostałe instytucje kultury 14.4 MLN;OBRONA NARODOWA;Kultura i ochrona dziedzictwa narodowego
+29;921;92118;Muzea;312781;29-921-92118;29-921;312.8 MLN;Muzea 312.8 MLN;OBRONA NARODOWA;Kultura i ochrona dziedzictwa narodowego
+30;;;OŚWIATA I WYCHOWANIE;606115;30;total;606.1 MLN;OŚWIATA I WYCHOWANIE 606.1 MLN;OŚWIATA I WYCHOWANIE;OŚWIATA I WYCHOWANIE
+30;750;;Administracja publiczna;64249;30-750;30;64.2 MLN;Administracja publiczna 64.2 MLN;OŚWIATA I WYCHOWANIE;Administracja publiczna
+30;750;75001;Urzędy naczelnych i centralnych organów administracji rządowej;64249;30-750-75001;30-750;64.2 MLN;Urzędy naczelnych i centralnych organów administracji rządowej 64.2 MLN;OŚWIATA I WYCHOWANIE;Administracja publiczna
+30;752;;Obrona narodowa;23;30-752;30;0.0 MLN;Obrona narodowa 0.0 MLN;OŚWIATA I WYCHOWANIE;Obrona narodowa
+30;752;75212;Pozostałe wydatki obronne;23;30-752-75212;30-752;0.0 MLN;Pozostałe wydatki obronne 0.0 MLN;OŚWIATA I WYCHOWANIE;Obrona narodowa
+30;754;;Bezpieczeństwo publiczne i ochrona przeciwpożarowa;6;30-754;30;0.0 MLN;Bezpieczeństwo publiczne i ochrona przeciwpożarowa 0.0 MLN;OŚWIATA I WYCHOWANIE;Bezpieczeństwo publiczne i ochrona przeciwpożarowa
+30;754;75421;Zarządzanie kryzysowe;6;30-754-75421;30-754;0.0 MLN;Zarządzanie kryzysowe 0.0 MLN;OŚWIATA I WYCHOWANIE;Bezpieczeństwo publiczne i ochrona przeciwpożarowa
+30;801;;Oświata i wychowanie;525424;30-801;30;525.4 MLN;Oświata i wychowanie 525.4 MLN;OŚWIATA I WYCHOWANIE;Oświata i wychowanie
+30;801;80135;Szkolnictwo polskie za granicą;47118;30-801-80135;30-801;47.1 MLN;Szkolnictwo polskie za granicą 47.1 MLN;OŚWIATA I WYCHOWANIE;Oświata i wychowanie
+30;801;80143;Jednostki pomocnicze szkolnictwa;27310;30-801-80143;30-801;27.3 MLN;Jednostki pomocnicze szkolnictwa 27.3 MLN;OŚWIATA I WYCHOWANIE;Oświata i wychowanie
+30;801;80145;Komisje egzaminacyjne;252884;30-801-80145;30-801;252.9 MLN;Komisje egzaminacyjne 252.9 MLN;OŚWIATA I WYCHOWANIE;Oświata i wychowanie
+30;801;80146;Dokształcanie i doskonalenie nauczycieli;55263;30-801-80146;30-801;55.3 MLN;Dokształcanie i doskonalenie nauczycieli 55.3 MLN;OŚWIATA I WYCHOWANIE;Oświata i wychowanie
+30;801;80180;Działalność badawczo-rozwojowa;2854;30-801-80180;30-801;2.9 MLN;Działalność badawczo-rozwojowa 2.9 MLN;OŚWIATA I WYCHOWANIE;Oświata i wychowanie
+30;801;80195;Pozostała działalność;139995;30-801-80195;30-801;140.0 MLN;Pozostała działalność 140.0 MLN;OŚWIATA I WYCHOWANIE;Oświata i wychowanie
+30;851;;Ochrona zdrowia;3125;30-851;30;3.1 MLN;Ochrona zdrowia 3.1 MLN;OŚWIATA I WYCHOWANIE;Ochrona zdrowia
+30;851;85195;Pozostała działalność;3125;30-851-85195;30-851;3.1 MLN;Pozostała działalność 3.1 MLN;OŚWIATA I WYCHOWANIE;Ochrona zdrowia
+30;854;;Edukacyjna opieka wychowawcza;2585;30-854;30;2.6 MLN;Edukacyjna opieka wychowawcza 2.6 MLN;OŚWIATA I WYCHOWANIE;Edukacyjna opieka wychowawcza
+30;854;85412;Kolonie i obozy oraz inne formy wypoczynku dzieci i młodzieży szkolnej, a także szkolenia młodzieży;900;30-854-85412;30-854;0.9 MLN;Kolonie i obozy oraz inne formy wypoczynku dzieci i młodzieży szkolnej, a także szkolenia młodzieży 0.9 MLN;OŚWIATA I WYCHOWANIE;Edukacyjna opieka wychowawcza
+30;854;85413;Kolonie i obozy dla młodzieży polonijnej w kraju;385;30-854-85413;30-854;0.4 MLN;Kolonie i obozy dla młodzieży polonijnej w kraju 0.4 MLN;OŚWIATA I WYCHOWANIE;Edukacyjna opieka wychowawcza
+30;854;85414;Kolonie i obozy dla młodzieży polonijnej za granicą;100;30-854-85414;30-854;0.1 MLN;Kolonie i obozy dla młodzieży polonijnej za granicą 0.1 MLN;OŚWIATA I WYCHOWANIE;Edukacyjna opieka wychowawcza
+30;854;85416;Pomoc materialna dla uczniów o charakterze motywacyjnym;1200;30-854-85416;30-854;1.2 MLN;Pomoc materialna dla uczniów o charakterze motywacyjnym 1.2 MLN;OŚWIATA I WYCHOWANIE;Edukacyjna opieka wychowawcza
+30;921;;Kultura i ochrona dziedzictwa narodowego;10703;30-921;30;10.7 MLN;Kultura i ochrona dziedzictwa narodowego 10.7 MLN;OŚWIATA I WYCHOWANIE;Kultura i ochrona dziedzictwa narodowego
+30;921;92114;Pozostałe instytucje kultury;10703;30-921-92114;30-921;10.7 MLN;Pozostałe instytucje kultury 10.7 MLN;OŚWIATA I WYCHOWANIE;Kultura i ochrona dziedzictwa narodowego
+31;;;PRACA;514526;31;total;514.5 MLN;PRACA 514.5 MLN;PRACA;PRACA
+31;750;;Administracja publiczna;111474;31-750;31;111.5 MLN;Administracja publiczna 111.5 MLN;PRACA;Administracja publiczna
+31;750;75001;Urzędy naczelnych i centralnych organów administracji rządowej;64527;31-750-75001;31-750;64.5 MLN;Urzędy naczelnych i centralnych organów administracji rządowej 64.5 MLN;PRACA;Administracja publiczna
+31;750;75072;"Centrum Partnerstwa Społecznego ""Dialog""";2530;31-750-75072;31-750;2.5 MLN;"Centrum Partnerstwa Społecznego ""Dialog"" 2.5 MLN";PRACA;Administracja publiczna
+31;750;75083;Funkcjonowanie Rady i Biura Rady Dialogu Społecznego;6347;31-750-75083;31-750;6.3 MLN;Funkcjonowanie Rady i Biura Rady Dialogu Społecznego 6.3 MLN;PRACA;Administracja publiczna
+31;750;75095;Pozostała działalność;38070;31-750-75095;31-750;38.1 MLN;Pozostała działalność 38.1 MLN;PRACA;Administracja publiczna
+31;752;;Obrona narodowa;32;31-752;31;0.0 MLN;Obrona narodowa 0.0 MLN;PRACA;Obrona narodowa
+31;752;75212;Pozostałe wydatki obronne;32;31-752-75212;31-752;0.0 MLN;Pozostałe wydatki obronne 0.0 MLN;PRACA;Obrona narodowa
+31;851;;Ochrona zdrowia;336;31-851;31;0.3 MLN;Ochrona zdrowia 0.3 MLN;PRACA;Ochrona zdrowia
+31;851;85195;Pozostała działalność;336;31-851-85195;31-851;0.3 MLN;Pozostała działalność 0.3 MLN;PRACA;Ochrona zdrowia
+31;853;;Pozostałe zadania w zakresie polityki społecznej;397930;31-853;31;397.9 MLN;Pozostałe zadania w zakresie polityki społecznej 397.9 MLN;PRACA;Pozostałe zadania w zakresie polityki społecznej
+31;853;85336;Ochotnicze Hufce Pracy;376645;31-853-85336;31-853;376.6 MLN;Ochotnicze Hufce Pracy 376.6 MLN;PRACA;Pozostałe zadania w zakresie polityki społecznej
+31;853;85395;Pozostała działalność;21285;31-853-85395;31-853;21.3 MLN;Pozostała działalność 21.3 MLN;PRACA;Pozostałe zadania w zakresie polityki społecznej
+31;921;;Kultura i ochrona dziedzictwa narodowego;4754;31-921;31;4.8 MLN;Kultura i ochrona dziedzictwa narodowego 4.8 MLN;PRACA;Kultura i ochrona dziedzictwa narodowego
+31;921;92116;Biblioteki;4754;31-921-92116;31-921;4.8 MLN;Biblioteki 4.8 MLN;PRACA;Kultura i ochrona dziedzictwa narodowego
+32;;;ROLNICTWO;2422427;32;total;2.4 MLD;ROLNICTWO 2.4 MLD;ROLNICTWO;ROLNICTWO
+32;010;;Rolnictwo i łowiectwo;1506613;32-010;32;1.5 MLD;Rolnictwo i łowiectwo 1.5 MLD;ROLNICTWO;Rolnictwo i łowiectwo
+32;010;01011;Krajowa Stacja Chemiczno-Rolnicza;80577;32-010-01011;32-010;80.6 MLN;Krajowa Stacja Chemiczno-Rolnicza 80.6 MLN;ROLNICTWO;Rolnictwo i łowiectwo
+32;010;01013;Centralny Ośrodek Badania Odmian Roślin Uprawnych;46451;32-010-01013;32-010;46.5 MLN;Centralny Ośrodek Badania Odmian Roślin Uprawnych 46.5 MLN;ROLNICTWO;Rolnictwo i łowiectwo
+32;010;01015;Postęp biologiczny w produkcji roślinnej;13360;32-010-01015;32-010;13.4 MLN;Postęp biologiczny w produkcji roślinnej 13.4 MLN;ROLNICTWO;Rolnictwo i łowiectwo
+32;010;01017;Ochrona roślin;15000;32-010-01017;32-010;15.0 MLN;Ochrona roślin 15.0 MLN;ROLNICTWO;Rolnictwo i łowiectwo
+32;010;01018;Rolnictwo ekologiczne;3579;32-010-01018;32-010;3.6 MLN;Rolnictwo ekologiczne 3.6 MLN;ROLNICTWO;Rolnictwo i łowiectwo
+32;010;01019;Krajowe Centrum Hodowli Zwierząt;16707;32-010-01019;32-010;16.7 MLN;Krajowe Centrum Hodowli Zwierząt 16.7 MLN;ROLNICTWO;Rolnictwo i łowiectwo
+32;010;01020;Postęp biologiczny w produkcji zwierzęcej;80802;32-010-01020;32-010;80.8 MLN;Postęp biologiczny w produkcji zwierzęcej 80.8 MLN;ROLNICTWO;Rolnictwo i łowiectwo
+32;010;01021;Główny Inspektorat Weterynarii;26803;32-010-01021;32-010;26.8 MLN;Główny Inspektorat Weterynarii 26.8 MLN;ROLNICTWO;Rolnictwo i łowiectwo
+32;010;01026;Dopłaty do ubezpieczeń upraw rolnych i zwierząt gospodarskich;920504;32-010-01026;32-010;920.5 MLN;Dopłaty do ubezpieczeń upraw rolnych i zwierząt gospodarskich 920.5 MLN;ROLNICTWO;Rolnictwo i łowiectwo
+32;010;01032;Państwowa Inspekcja Ochrony Roślin i Nasiennictwa;72131;32-010-01032;32-010;72.1 MLN;Państwowa Inspekcja Ochrony Roślin i Nasiennictwa 72.1 MLN;ROLNICTWO;Rolnictwo i łowiectwo
+32;010;01035;Graniczne inspektoraty weterynarii;16526;32-010-01035;32-010;16.5 MLN;Graniczne inspektoraty weterynarii 16.5 MLN;ROLNICTWO;Rolnictwo i łowiectwo
+32;010;01080;Działalność badawczo-rozwojowa;13760;32-010-01080;32-010;13.8 MLN;Działalność badawczo-rozwojowa 13.8 MLN;ROLNICTWO;Rolnictwo i łowiectwo
+32;010;01095;Pozostała działalność;200413;32-010-01095;32-010;200.4 MLN;Pozostała działalność 200.4 MLN;ROLNICTWO;Rolnictwo i łowiectwo
+32;750;;Administracja publiczna;191665;32-750;32;191.7 MLN;Administracja publiczna 191.7 MLN;ROLNICTWO;Administracja publiczna
+32;750;75001;Urzędy naczelnych i centralnych organów administracji rządowej;191665;32-750-75001;32-750;191.7 MLN;Urzędy naczelnych i centralnych organów administracji rządowej 191.7 MLN;ROLNICTWO;Administracja publiczna
+32;752;;Obrona narodowa;35;32-752;32;0.0 MLN;Obrona narodowa 0.0 MLN;ROLNICTWO;Obrona narodowa
+32;752;75212;Pozostałe wydatki obronne;35;32-752-75212;32-752;0.0 MLN;Pozostałe wydatki obronne 0.0 MLN;ROLNICTWO;Obrona narodowa
+32;801;;Oświata i wychowanie;584160;32-801;32;584.2 MLN;Oświata i wychowanie 584.2 MLN;ROLNICTWO;Oświata i wychowanie
+32;801;80115;Technika;533072;32-801-80115;32-801;533.1 MLN;Technika 533.1 MLN;ROLNICTWO;Oświata i wychowanie
+32;801;80116;Szkoły policealne;27;32-801-80116;32-801;0.0 MLN;Szkoły policealne 0.0 MLN;ROLNICTWO;Oświata i wychowanie
+32;801;80117;Branżowe szkoły I i II stopnia;30705;32-801-80117;32-801;30.7 MLN;Branżowe szkoły I i II stopnia 30.7 MLN;ROLNICTWO;Oświata i wychowanie
+32;801;80140;Placówki kształcenia ustawicznego i centra kształcenia zawodowego;4877;32-801-80140;32-801;4.9 MLN;Placówki kształcenia ustawicznego i centra kształcenia zawodowego 4.9 MLN;ROLNICTWO;Oświata i wychowanie
+32;801;80146;Dokształcanie i doskonalenie nauczycieli;3899;32-801-80146;32-801;3.9 MLN;Dokształcanie i doskonalenie nauczycieli 3.9 MLN;ROLNICTWO;Oświata i wychowanie
+32;801;80151;Kwalifikacyjne kursy zawodowe;8552;32-801-80151;32-801;8.6 MLN;Kwalifikacyjne kursy zawodowe 8.6 MLN;ROLNICTWO;Oświata i wychowanie
+32;801;80152;Realizacja zadań wymagających stosowania specjalnej organizacji nauki i metod pracy dla dzieci i młodzieży w gimnazjach, klasach dotychczasowego gimnazjum prowadzonych w szkołach innego typu, liceach ogólnokształcących, technikach, szkołach policealnych, branżowych szkołach I i II stopnia i klasach dotychczasowej zasadniczej szkoły zawodowej prowadzonych w branżowych szkołach I stopnia oraz szkołach artystycznych;2486;32-801-80152;32-801;2.5 MLN;Realizacja zadań wymagających stosowania specjalnej organizacji nauki i metod pracy dla dzieci i młodzieży w gimnazjach, klasach dotychczasowego gimnazjum prowadzonych w szkołach innego typu, liceach ogólnokształcących, technikach, szkołach policealnych, branżowych szkołach I i II stopnia i klasach dotychczasowej zasadniczej szkoły zawodowej prowadzonych w branżowych szkołach I stopnia oraz szkołach artystycznych 2.5 MLN;ROLNICTWO;Oświata i wychowanie
+32;801;80195;Pozostała działalność;542;32-801-80195;32-801;0.5 MLN;Pozostała działalność 0.5 MLN;ROLNICTWO;Oświata i wychowanie
+32;854;;Edukacyjna opieka wychowawcza;114419;32-854;32;114.4 MLN;Edukacyjna opieka wychowawcza 114.4 MLN;ROLNICTWO;Edukacyjna opieka wychowawcza
+32;854;85410;Internaty i bursy szkolne;113875;32-854-85410;32-854;113.9 MLN;Internaty i bursy szkolne 113.9 MLN;ROLNICTWO;Edukacyjna opieka wychowawcza
+32;854;85415;Pomoc materialna dla uczniów o charakterze socjalnym;39;32-854-85415;32-854;0.0 MLN;Pomoc materialna dla uczniów o charakterze socjalnym 0.0 MLN;ROLNICTWO;Edukacyjna opieka wychowawcza
+32;854;85416;Pomoc materialna dla uczniów o charakterze motywacyjnym;341;32-854-85416;32-854;0.3 MLN;Pomoc materialna dla uczniów o charakterze motywacyjnym 0.3 MLN;ROLNICTWO;Edukacyjna opieka wychowawcza
+32;854;85446;Dokształcanie i doskonalenie nauczycieli;164;32-854-85446;32-854;0.2 MLN;Dokształcanie i doskonalenie nauczycieli 0.2 MLN;ROLNICTWO;Edukacyjna opieka wychowawcza
+32;921;;Kultura i ochrona dziedzictwa narodowego;25535;32-921;32;25.5 MLN;Kultura i ochrona dziedzictwa narodowego 25.5 MLN;ROLNICTWO;Kultura i ochrona dziedzictwa narodowego
+32;921;92114;Pozostałe instytucje kultury;22235;32-921-92114;32-921;22.2 MLN;Pozostałe instytucje kultury 22.2 MLN;ROLNICTWO;Kultura i ochrona dziedzictwa narodowego
+32;921;92118;Muzea;3300;32-921-92118;32-921;3.3 MLN;Muzea 3.3 MLN;ROLNICTWO;Kultura i ochrona dziedzictwa narodowego
+33;;;ROZWÓJ WSI;4887872;33;total;4.9 MLD;ROZWÓJ WSI 4.9 MLD;ROZWÓJ WSI;ROZWÓJ WSI
+33;010;;Rolnictwo i łowiectwo;4868688;33-010;33;4.9 MLD;Rolnictwo i łowiectwo 4.9 MLD;ROZWÓJ WSI;Rolnictwo i łowiectwo
+33;010;01001;Centrum Doradztwa Rolniczego;38479;33-010-01001;33-010;38.5 MLN;Centrum Doradztwa Rolniczego 38.5 MLN;ROZWÓJ WSI;Rolnictwo i łowiectwo
+33;010;01002;Wojewódzkie ośrodki doradztwa rolniczego;302694;33-010-01002;33-010;302.7 MLN;Wojewódzkie ośrodki doradztwa rolniczego 302.7 MLN;ROZWÓJ WSI;Rolnictwo i łowiectwo
+33;010;01024;Działalność Krajowego Ośrodka Wsparcia Rolnictwa;5249;33-010-01024;33-010;5.2 MLN;Działalność Krajowego Ośrodka Wsparcia Rolnictwa 5.2 MLN;ROZWÓJ WSI;Rolnictwo i łowiectwo
+33;010;01027;Agencja Restrukturyzacji i Modernizacji Rolnictwa;4517112;33-010-01027;33-010;4.5 MLD;Agencja Restrukturyzacji i Modernizacji Rolnictwa 4.5 MLD;ROZWÓJ WSI;Rolnictwo i łowiectwo
+33;010;01095;Pozostała działalność;5154;33-010-01095;33-010;5.2 MLN;Pozostała działalność 5.2 MLN;ROZWÓJ WSI;Rolnictwo i łowiectwo
+33;750;;Administracja publiczna;19154;33-750;33;19.2 MLN;Administracja publiczna 19.2 MLN;ROZWÓJ WSI;Administracja publiczna
+33;750;75001;Urzędy naczelnych i centralnych organów administracji rządowej;19154;33-750-75001;33-750;19.2 MLN;Urzędy naczelnych i centralnych organów administracji rządowej 19.2 MLN;ROZWÓJ WSI;Administracja publiczna
+33;752;;Obrona narodowa;30;33-752;33;0.0 MLN;Obrona narodowa 0.0 MLN;ROZWÓJ WSI;Obrona narodowa
+33;752;75212;Pozostałe wydatki obronne;30;33-752-75212;33-752;0.0 MLN;Pozostałe wydatki obronne 0.0 MLN;ROZWÓJ WSI;Obrona narodowa
+34;;;ROZWÓJ REGIONALNY;2740165;34;total;2.7 MLD;ROZWÓJ REGIONALNY 2.7 MLD;ROZWÓJ REGIONALNY;ROZWÓJ REGIONALNY
+34;150;;Przetwórstwo przemysłowe;262484;34-150;34;262.5 MLN;Przetwórstwo przemysłowe 262.5 MLN;ROZWÓJ REGIONALNY;Przetwórstwo przemysłowe
+34;150;15011;Rozwój przedsiębiorczości;2758;34-150-15011;34-150;2.8 MLN;Rozwój przedsiębiorczości 2.8 MLN;ROZWÓJ REGIONALNY;Przetwórstwo przemysłowe
+34;150;15012;Polska Agencja Rozwoju Przedsiębiorczości;218558;34-150-15012;34-150;218.6 MLN;Polska Agencja Rozwoju Przedsiębiorczości 218.6 MLN;ROZWÓJ REGIONALNY;Przetwórstwo przemysłowe
+34;150;15013;Rozwój kadr nowoczesnej gospodarki i przedsiębiorczości;970;34-150-15013;34-150;1.0 MLN;Rozwój kadr nowoczesnej gospodarki i przedsiębiorczości 1.0 MLN;ROZWÓJ REGIONALNY;Przetwórstwo przemysłowe
+34;150;15095;Pozostała działalność;40198;34-150-15095;34-150;40.2 MLN;Pozostała działalność 40.2 MLN;ROZWÓJ REGIONALNY;Przetwórstwo przemysłowe
+34;700;;Gospodarka mieszkaniowa;20000;34-700;34;20.0 MLN;Gospodarka mieszkaniowa 20.0 MLN;ROZWÓJ REGIONALNY;Gospodarka mieszkaniowa
+34;700;70006;Krajowy Zasób Nieruchomości;20000;34-700-70006;34-700;20.0 MLN;Krajowy Zasób Nieruchomości 20.0 MLN;ROZWÓJ REGIONALNY;Gospodarka mieszkaniowa
+34;730;;Szkolnictwo wyższe i nauka;283899;34-730;34;283.9 MLN;Szkolnictwo wyższe i nauka 283.9 MLN;ROZWÓJ REGIONALNY;Szkolnictwo wyższe i nauka
+34;730;73008;Działalność Narodowego Centrum Badań i Rozwoju;283899;34-730-73008;34-730;283.9 MLN;Działalność Narodowego Centrum Badań i Rozwoju 283.9 MLN;ROZWÓJ REGIONALNY;Szkolnictwo wyższe i nauka
+34;750;;Administracja publiczna;621052;34-750;34;621.1 MLN;Administracja publiczna 621.1 MLN;ROZWÓJ REGIONALNY;Administracja publiczna
+34;750;75001;Urzędy naczelnych i centralnych organów administracji rządowej;427902;34-750-75001;34-750;427.9 MLN;Urzędy naczelnych i centralnych organów administracji rządowej 427.9 MLN;ROZWÓJ REGIONALNY;Administracja publiczna
+34;750;75057;Placówki zagraniczne;1926;34-750-75057;34-750;1.9 MLN;Placówki zagraniczne 1.9 MLN;ROZWÓJ REGIONALNY;Administracja publiczna
+34;750;75095;Pozostała działalność;191224;34-750-75095;34-750;191.2 MLN;Pozostała działalność 191.2 MLN;ROZWÓJ REGIONALNY;Administracja publiczna
+34;752;;Obrona narodowa;19;34-752;34;0.0 MLN;Obrona narodowa 0.0 MLN;ROZWÓJ REGIONALNY;Obrona narodowa
+34;752;75212;Pozostałe wydatki obronne;19;34-752-75212;34-752;0.0 MLN;Pozostałe wydatki obronne 0.0 MLN;ROZWÓJ REGIONALNY;Obrona narodowa
+34;758;;Różne rozliczenia;1478748;34-758;34;1.5 MLD;Różne rozliczenia 1.5 MLD;ROZWÓJ REGIONALNY;Różne rozliczenia
+34;758;75863;Regionalne Programy Operacyjne 2014-2020 finansowane z udziałem środków Europejskiego Funduszu Rozwoju Regionalnego;218560;34-758-75863;34-758;218.6 MLN;Regionalne Programy Operacyjne 2014-2020 finansowane z udziałem środków Europejskiego Funduszu Rozwoju Regionalnego 218.6 MLN;ROZWÓJ REGIONALNY;Różne rozliczenia
+34;758;75864;Regionalne Programy Operacyjne 2014-2020 finansowane z udziałem środków Europejskiego Funduszu Społecznego;722418;34-758-75864;34-758;722.4 MLN;Regionalne Programy Operacyjne 2014-2020 finansowane z udziałem środków Europejskiego Funduszu Społecznego 722.4 MLN;ROZWÓJ REGIONALNY;Różne rozliczenia
+34;758;75865;Programy regionalne 2021–2027 finansowane z udziałem środków Europejskiego Funduszu Rozwoju Regionalnego;248969;34-758-75865;34-758;249.0 MLN;Programy regionalne 2021–2027 finansowane z udziałem środków Europejskiego Funduszu Rozwoju Regionalnego 249.0 MLN;ROZWÓJ REGIONALNY;Różne rozliczenia
+34;758;75866;Programy regionalne 2021–2027 finansowane z udziałem Europejskiego Funduszu Społecznego Plus;195819;34-758-75866;34-758;195.8 MLN;Programy regionalne 2021–2027 finansowane z udziałem Europejskiego Funduszu Społecznego Plus 195.8 MLN;ROZWÓJ REGIONALNY;Różne rozliczenia
+34;758;75868;Programy regionalne 2021–2027 finansowane z udziałem Funduszu na rzecz Sprawiedliwej Transformacji;92982;34-758-75868;34-758;93.0 MLN;Programy regionalne 2021–2027 finansowane z udziałem Funduszu na rzecz Sprawiedliwej Transformacji 93.0 MLN;ROZWÓJ REGIONALNY;Różne rozliczenia
+34;801;;Oświata i wychowanie;731;34-801;34;0.7 MLN;Oświata i wychowanie 0.7 MLN;ROZWÓJ REGIONALNY;Oświata i wychowanie
+34;801;80195;Pozostała działalność;731;34-801-80195;34-801;0.7 MLN;Pozostała działalność 0.7 MLN;ROZWÓJ REGIONALNY;Oświata i wychowanie
+34;851;;Ochrona zdrowia;1573;34-851;34;1.6 MLN;Ochrona zdrowia 1.6 MLN;ROZWÓJ REGIONALNY;Ochrona zdrowia
+34;851;85195;Pozostała działalność;1573;34-851-85195;34-851;1.6 MLN;Pozostała działalność 1.6 MLN;ROZWÓJ REGIONALNY;Ochrona zdrowia
+34;853;;Pozostałe zadania w zakresie polityki społecznej;71659;34-853;34;71.7 MLN;Pozostałe zadania w zakresie polityki społecznej 71.7 MLN;ROZWÓJ REGIONALNY;Pozostałe zadania w zakresie polityki społecznej
+34;853;85324;Państwowy Fundusz Rehabilitacji Osób Niepełnosprawnych;142;34-853-85324;34-853;0.1 MLN;Państwowy Fundusz Rehabilitacji Osób Niepełnosprawnych 0.1 MLN;ROZWÓJ REGIONALNY;Pozostałe zadania w zakresie polityki społecznej
+34;853;85332;Wojewódzkie urzędy pracy;64563;34-853-85332;34-853;64.6 MLN;Wojewódzkie urzędy pracy 64.6 MLN;ROZWÓJ REGIONALNY;Pozostałe zadania w zakresie polityki społecznej
+34;853;85395;Pozostała działalność;6954;34-853-85395;34-853;7.0 MLN;Pozostała działalność 7.0 MLN;ROZWÓJ REGIONALNY;Pozostałe zadania w zakresie polityki społecznej
+35;;;RYNKI ROLNE;61892;35;total;61.9 MLN;RYNKI ROLNE 61.9 MLN;RYNKI ROLNE;RYNKI ROLNE
+35;010;;Rolnictwo i łowiectwo;51221;35-010;35;51.2 MLN;Rolnictwo i łowiectwo 51.2 MLN;RYNKI ROLNE;Rolnictwo i łowiectwo
+35;010;01023;Inspekcja Jakości Handlowej Artykułów Rolno-Spożywczych;49272;35-010-01023;35-010;49.3 MLN;Inspekcja Jakości Handlowej Artykułów Rolno-Spożywczych 49.3 MLN;RYNKI ROLNE;Rolnictwo i łowiectwo
+35;010;01095;Pozostała działalność;1949;35-010-01095;35-010;1.9 MLN;Pozostała działalność 1.9 MLN;RYNKI ROLNE;Rolnictwo i łowiectwo
+35;750;;Administracja publiczna;10663;35-750;35;10.7 MLN;Administracja publiczna 10.7 MLN;RYNKI ROLNE;Administracja publiczna
+35;750;75001;Urzędy naczelnych i centralnych organów administracji rządowej;10663;35-750-75001;35-750;10.7 MLN;Urzędy naczelnych i centralnych organów administracji rządowej 10.7 MLN;RYNKI ROLNE;Administracja publiczna
+35;752;;Obrona narodowa;8;35-752;35;0.0 MLN;Obrona narodowa 0.0 MLN;RYNKI ROLNE;Obrona narodowa
+35;752;75212;Pozostałe wydatki obronne;8;35-752-75212;35-752;0.0 MLN;Pozostałe wydatki obronne 0.0 MLN;RYNKI ROLNE;Obrona narodowa
+37;;;SPRAWIEDLIWOŚĆ;8005119;37;total;8.0 MLD;SPRAWIEDLIWOŚĆ 8.0 MLD;SPRAWIEDLIWOŚĆ;SPRAWIEDLIWOŚĆ
+37;730;;Szkolnictwo wyższe i nauka;86447;37-730;37;86.4 MLN;Szkolnictwo wyższe i nauka 86.4 MLN;SPRAWIEDLIWOŚĆ;Szkolnictwo wyższe i nauka
+37;730;73014;Działalność dydaktyczna i badawcza;86447;37-730-73014;37-730;86.4 MLN;Działalność dydaktyczna i badawcza 86.4 MLN;SPRAWIEDLIWOŚĆ;Szkolnictwo wyższe i nauka
+37;750;;Administracja publiczna;122370;37-750;37;122.4 MLN;Administracja publiczna 122.4 MLN;SPRAWIEDLIWOŚĆ;Administracja publiczna
+37;750;75001;Urzędy naczelnych i centralnych organów administracji rządowej;122370;37-750-75001;37-750;122.4 MLN;Urzędy naczelnych i centralnych organów administracji rządowej 122.4 MLN;SPRAWIEDLIWOŚĆ;Administracja publiczna
+37;752;;Obrona narodowa;315;37-752;37;0.3 MLN;Obrona narodowa 0.3 MLN;SPRAWIEDLIWOŚĆ;Obrona narodowa
+37;752;75212;Pozostałe wydatki obronne;315;37-752-75212;37-752;0.3 MLN;Pozostałe wydatki obronne 0.3 MLN;SPRAWIEDLIWOŚĆ;Obrona narodowa
+37;753;;Obowiązkowe ubezpieczenia społeczne;2396870;37-753;37;2.4 MLD;Obowiązkowe ubezpieczenia społeczne 2.4 MLD;SPRAWIEDLIWOŚĆ;Obowiązkowe ubezpieczenia społeczne
+37;753;75301;Świadczenia pieniężne z zaopatrzenia emerytalnego;2392246;37-753-75301;37-753;2.4 MLD;Świadczenia pieniężne z zaopatrzenia emerytalnego 2.4 MLD;SPRAWIEDLIWOŚĆ;Obowiązkowe ubezpieczenia społeczne
+37;753;75312;Uposażenia sędziów w stanie spoczynku oraz uposażenia rodzinne;4624;37-753-75312;37-753;4.6 MLN;Uposażenia sędziów w stanie spoczynku oraz uposażenia rodzinne 4.6 MLN;SPRAWIEDLIWOŚĆ;Obowiązkowe ubezpieczenia społeczne
+37;755;;Wymiar sprawiedliwości;5241116;37-755;37;5.2 MLD;Wymiar sprawiedliwości 5.2 MLD;SPRAWIEDLIWOŚĆ;Wymiar sprawiedliwości
+37;755;75501;Centralne administracyjne jednostki wymiaru sprawiedliwości i prokuratury;267556;37-755-75501;37-755;267.6 MLN;Centralne administracyjne jednostki wymiaru sprawiedliwości i prokuratury 267.6 MLN;SPRAWIEDLIWOŚĆ;Wymiar sprawiedliwości
+37;755;75507;Instytuty naukowe resortu sprawiedliwości;63206;37-755-75507;37-755;63.2 MLN;Instytuty naukowe resortu sprawiedliwości 63.2 MLN;SPRAWIEDLIWOŚĆ;Wymiar sprawiedliwości
+37;755;75512;Więziennictwo;4700845;37-755-75512;37-755;4.7 MLD;Więziennictwo 4.7 MLD;SPRAWIEDLIWOŚĆ;Wymiar sprawiedliwości
+37;755;75513;Zakłady dla nieletnich;114938;37-755-75513;37-755;114.9 MLN;Zakłady dla nieletnich 114.9 MLN;SPRAWIEDLIWOŚĆ;Wymiar sprawiedliwości
+37;755;75514;Krajowa Szkoła Sądownictwa i Prokuratury;94571;37-755-75514;37-755;94.6 MLN;Krajowa Szkoła Sądownictwa i Prokuratury 94.6 MLN;SPRAWIEDLIWOŚĆ;Wymiar sprawiedliwości
+37;801;;Oświata i wychowanie;157180;37-801;37;157.2 MLN;Oświata i wychowanie 157.2 MLN;SPRAWIEDLIWOŚĆ;Oświata i wychowanie
+37;801;80144;Inne formy kształcenia osobno niewymienione;157180;37-801-80144;37-801;157.2 MLN;Inne formy kształcenia osobno niewymienione 157.2 MLN;SPRAWIEDLIWOŚĆ;Oświata i wychowanie
+37;851;;Ochrona zdrowia;821;37-851;37;0.8 MLN;Ochrona zdrowia 0.8 MLN;SPRAWIEDLIWOŚĆ;Ochrona zdrowia
+37;851;85156;Składki na ubezpieczenie zdrowotne oraz świadczenia dla osób nieobjętych obowiązkiem ubezpieczenia zdrowotnego;701;37-851-85156;37-851;0.7 MLN;Składki na ubezpieczenie zdrowotne oraz świadczenia dla osób nieobjętych obowiązkiem ubezpieczenia zdrowotnego 0.7 MLN;SPRAWIEDLIWOŚĆ;Ochrona zdrowia
+37;851;85195;Pozostała działalność;120;37-851-85195;37-851;0.1 MLN;Pozostała działalność 0.1 MLN;SPRAWIEDLIWOŚĆ;Ochrona zdrowia
+39;;;TRANSPORT;15103274;39;total;15.1 MLD;TRANSPORT 15.1 MLD;TRANSPORT;TRANSPORT
+39;600;;Transport i łączność;14841103;39-600;39;14.8 MLD;Transport i łączność 14.8 MLD;TRANSPORT;Transport i łączność
+39;600;60001;Krajowe pasażerskie przewozy kolejowe;1868696;39-600-60001;39-600;1.9 MLD;Krajowe pasażerskie przewozy kolejowe 1.9 MLD;TRANSPORT;Transport i łączność
+39;600;60002;Infrastruktura kolejowa;7006961;39-600-60002;39-600;7.0 MLD;Infrastruktura kolejowa 7.0 MLD;TRANSPORT;Transport i łączność
+39;600;60011;Drogi publiczne krajowe;4729338;39-600-60011;39-600;4.7 MLD;Drogi publiczne krajowe 4.7 MLD;TRANSPORT;Transport i łączność
+39;600;60012;Generalna Dyrekcja Dróg Krajowych i Autostrad;762889;39-600-60012;39-600;762.9 MLN;Generalna Dyrekcja Dróg Krajowych i Autostrad 762.9 MLN;TRANSPORT;Transport i łączność
+39;600;60015;Drogi publiczne w miastach na prawach powiatu;27080;39-600-60015;39-600;27.1 MLN;Drogi publiczne w miastach na prawach powiatu 27.1 MLN;TRANSPORT;Transport i łączność
+39;600;60016;Drogi publiczne gminne;65300;39-600-60016;39-600;65.3 MLN;Drogi publiczne gminne 65.3 MLN;TRANSPORT;Transport i łączność
+39;600;60055;Inspekcja Transportu Drogowego;248110;39-600-60055;39-600;248.1 MLN;Inspekcja Transportu Drogowego 248.1 MLN;TRANSPORT;Transport i łączność
+39;600;60056;Urząd Lotnictwa Cywilnego;87646;39-600-60056;39-600;87.6 MLN;Urząd Lotnictwa Cywilnego 87.6 MLN;TRANSPORT;Transport i łączność
+39;600;60061;Polska Agencja Żeglugi Powietrznej;19871;39-600-60061;39-600;19.9 MLN;Polska Agencja Żeglugi Powietrznej 19.9 MLN;TRANSPORT;Transport i łączność
+39;600;60095;Pozostała działalność;25212;39-600-60095;39-600;25.2 MLN;Pozostała działalność 25.2 MLN;TRANSPORT;Transport i łączność
+39;730;;Szkolnictwo wyższe i nauka;27000;39-730;39;27.0 MLN;Szkolnictwo wyższe i nauka 27.0 MLN;TRANSPORT;Szkolnictwo wyższe i nauka
+39;730;73095;Pozostała działalność;27000;39-730-73095;39-730;27.0 MLN;Pozostała działalność 27.0 MLN;TRANSPORT;Szkolnictwo wyższe i nauka
+39;750;;Administracja publiczna;202211;39-750;39;202.2 MLN;Administracja publiczna 202.2 MLN;TRANSPORT;Administracja publiczna
+39;750;75001;Urzędy naczelnych i centralnych organów administracji rządowej;120259;39-750-75001;39-750;120.3 MLN;Urzędy naczelnych i centralnych organów administracji rządowej 120.3 MLN;TRANSPORT;Administracja publiczna
+39;750;75095;Pozostała działalność;81952;39-750-75095;39-750;82.0 MLN;Pozostała działalność 82.0 MLN;TRANSPORT;Administracja publiczna
+39;752;;Obrona narodowa;32960;39-752;39;33.0 MLN;Obrona narodowa 33.0 MLN;TRANSPORT;Obrona narodowa
+39;752;75212;Pozostałe wydatki obronne;32960;39-752-75212;39-752;33.0 MLN;Pozostałe wydatki obronne 33.0 MLN;TRANSPORT;Obrona narodowa
+40;;;TURYSTYKA;110061;40;total;110.1 MLN;TURYSTYKA 110.1 MLN;TURYSTYKA;TURYSTYKA
+40;630;;Turystyka;100764;40-630;40;100.8 MLN;Turystyka 100.8 MLN;TURYSTYKA;Turystyka
+40;630;63002;Polska Organizacja Turystyczna;84324;40-630-63002;40-630;84.3 MLN;Polska Organizacja Turystyczna 84.3 MLN;TURYSTYKA;Turystyka
+40;630;63003;Zadania w zakresie upowszechniania turystyki;12600;40-630-63003;40-630;12.6 MLN;Zadania w zakresie upowszechniania turystyki 12.6 MLN;TURYSTYKA;Turystyka
+40;630;63095;Pozostała działalność;3840;40-630-63095;40-630;3.8 MLN;Pozostała działalność 3.8 MLN;TURYSTYKA;Turystyka
+40;750;;Administracja publiczna;9288;40-750;40;9.3 MLN;Administracja publiczna 9.3 MLN;TURYSTYKA;Administracja publiczna
+40;750;75001;Urzędy naczelnych i centralnych organów administracji rządowej;9288;40-750-75001;40-750;9.3 MLN;Urzędy naczelnych i centralnych organów administracji rządowej 9.3 MLN;TURYSTYKA;Administracja publiczna
+40;752;;Obrona narodowa;9;40-752;40;0.0 MLN;Obrona narodowa 0.0 MLN;TURYSTYKA;Obrona narodowa
+40;752;75212;Pozostałe wydatki obronne;9;40-752-75212;40-752;0.0 MLN;Pozostałe wydatki obronne 0.0 MLN;TURYSTYKA;Obrona narodowa
+41;;;ŚRODOWISKO;534097;41;total;534.1 MLN;ŚRODOWISKO 534.1 MLN;ŚRODOWISKO;ŚRODOWISKO
+41;020;;Leśnictwo;2795;41-020;41;2.8 MLN;Leśnictwo 2.8 MLN;ŚRODOWISKO;Leśnictwo
+41;020;02003;Biuro Nasiennictwa Leśnego;1745;41-020-02003;41-020;1.7 MLN;Biuro Nasiennictwa Leśnego 1.7 MLN;ŚRODOWISKO;Leśnictwo
+41;020;02095;Pozostała działalność;1050;41-020-02095;41-020;1.1 MLN;Pozostała działalność 1.1 MLN;ŚRODOWISKO;Leśnictwo
+41;710;;Działalność usługowa;35993;41-710;41;36.0 MLN;Działalność usługowa 36.0 MLN;ŚRODOWISKO;Działalność usługowa
+41;710;71095;Pozostała działalność;35993;41-710-71095;41-710;36.0 MLN;Pozostała działalność 36.0 MLN;ŚRODOWISKO;Działalność usługowa
+41;750;;Administracja publiczna;56340;41-750;41;56.3 MLN;Administracja publiczna 56.3 MLN;ŚRODOWISKO;Administracja publiczna
+41;750;75001;Urzędy naczelnych i centralnych organów administracji rządowej;56208;41-750-75001;41-750;56.2 MLN;Urzędy naczelnych i centralnych organów administracji rządowej 56.2 MLN;ŚRODOWISKO;Administracja publiczna
+41;750;75080;Działalność badawczo-rozwojowa;97;41-750-75080;41-750;0.1 MLN;Działalność badawczo-rozwojowa 0.1 MLN;ŚRODOWISKO;Administracja publiczna
+41;750;75095;Pozostała działalność;35;41-750-75095;41-750;0.0 MLN;Pozostała działalność 0.0 MLN;ŚRODOWISKO;Administracja publiczna
+41;752;;Obrona narodowa;209;41-752;41;0.2 MLN;Obrona narodowa 0.2 MLN;ŚRODOWISKO;Obrona narodowa
+41;752;75212;Pozostałe wydatki obronne;209;41-752-75212;41-752;0.2 MLN;Pozostałe wydatki obronne 0.2 MLN;ŚRODOWISKO;Obrona narodowa
+41;801;;Oświata i wychowanie;56655;41-801;41;56.7 MLN;Oświata i wychowanie 56.7 MLN;ŚRODOWISKO;Oświata i wychowanie
+41;801;80115;Technika;48812;41-801-80115;41-801;48.8 MLN;Technika 48.8 MLN;ŚRODOWISKO;Oświata i wychowanie
+41;801;80117;Branżowe szkoły I i II stopnia;694;41-801-80117;41-801;0.7 MLN;Branżowe szkoły I i II stopnia 0.7 MLN;ŚRODOWISKO;Oświata i wychowanie
+41;801;80146;Dokształcanie i doskonalenie nauczycieli;155;41-801-80146;41-801;0.2 MLN;Dokształcanie i doskonalenie nauczycieli 0.2 MLN;ŚRODOWISKO;Oświata i wychowanie
+41;801;80148;Stołówki szkolne i przedszkolne;6945;41-801-80148;41-801;6.9 MLN;Stołówki szkolne i przedszkolne 6.9 MLN;ŚRODOWISKO;Oświata i wychowanie
+41;801;80195;Pozostała działalność;49;41-801-80195;41-801;0.0 MLN;Pozostała działalność 0.0 MLN;ŚRODOWISKO;Oświata i wychowanie
+41;854;;Edukacyjna opieka wychowawcza;28496;41-854;41;28.5 MLN;Edukacyjna opieka wychowawcza 28.5 MLN;ŚRODOWISKO;Edukacyjna opieka wychowawcza
+41;854;85410;Internaty i bursy szkolne;28417;41-854-85410;41-854;28.4 MLN;Internaty i bursy szkolne 28.4 MLN;ŚRODOWISKO;Edukacyjna opieka wychowawcza
+41;854;85446;Dokształcanie i doskonalenie nauczycieli;79;41-854-85446;41-854;0.1 MLN;Dokształcanie i doskonalenie nauczycieli 0.1 MLN;ŚRODOWISKO;Edukacyjna opieka wychowawcza
+41;900;;Gospodarka komunalna i ochrona środowiska;214372;41-900;41;214.4 MLN;Gospodarka komunalna i ochrona środowiska 214.4 MLN;ŚRODOWISKO;Gospodarka komunalna i ochrona środowiska
+41;900;90008;Ochrona różnorodności biologicznej i krajobrazu;69;41-900-90008;41-900;0.1 MLN;Ochrona różnorodności biologicznej i krajobrazu 0.1 MLN;ŚRODOWISKO;Gospodarka komunalna i ochrona środowiska
+41;900;90022;Generalna Dyrekcja Ochrony Środowiska;36040;41-900-90022;41-900;36.0 MLN;Generalna Dyrekcja Ochrony Środowiska 36.0 MLN;ŚRODOWISKO;Gospodarka komunalna i ochrona środowiska
+41;900;90023;Regionalne dyrekcje ochrony środowiska;178263;41-900-90023;41-900;178.3 MLN;Regionalne dyrekcje ochrony środowiska 178.3 MLN;ŚRODOWISKO;Gospodarka komunalna i ochrona środowiska
+41;925;;Ogrody botaniczne i zoologiczne oraz naturalne obszary i obiekty chronionej przyrody;139237;41-925;41;139.2 MLN;Ogrody botaniczne i zoologiczne oraz naturalne obszary i obiekty chronionej przyrody 139.2 MLN;ŚRODOWISKO;Ogrody botaniczne i zoologiczne oraz naturalne obszary i obiekty chronionej przyrody
+41;925;92501;Parki narodowe;139193;41-925-92501;41-925;139.2 MLN;Parki narodowe 139.2 MLN;ŚRODOWISKO;Ogrody botaniczne i zoologiczne oraz naturalne obszary i obiekty chronionej przyrody
+41;925;92595;Pozostała działalność;44;41-925-92595;41-925;0.0 MLN;Pozostała działalność 0.0 MLN;ŚRODOWISKO;Ogrody botaniczne i zoologiczne oraz naturalne obszary i obiekty chronionej przyrody
+42;;;SPRAWY WEWNĘTRZNE;31945976;42;total;31.9 MLD;SPRAWY WEWNĘTRZNE 31.9 MLD;SPRAWY WEWNĘTRZNE;SPRAWY WEWNĘTRZNE
+42;730;;Szkolnictwo wyższe i nauka;156379;42-730;42;156.4 MLN;Szkolnictwo wyższe i nauka 156.4 MLN;SPRAWY WEWNĘTRZNE;Szkolnictwo wyższe i nauka
+42;730;73014;Działalność dydaktyczna i badawcza;37932;42-730-73014;42-730;37.9 MLN;Działalność dydaktyczna i badawcza 37.9 MLN;SPRAWY WEWNĘTRZNE;Szkolnictwo wyższe i nauka
+42;730;73016;Pomoc materialna dla studentów i doktorantów;2183;42-730-73016;42-730;2.2 MLN;Pomoc materialna dla studentów i doktorantów 2.2 MLN;SPRAWY WEWNĘTRZNE;Szkolnictwo wyższe i nauka
+42;730;73095;Pozostała działalność;116264;42-730-73095;42-730;116.3 MLN;Pozostała działalność 116.3 MLN;SPRAWY WEWNĘTRZNE;Szkolnictwo wyższe i nauka
+42;750;;Administracja publiczna;503139;42-750;42;503.1 MLN;Administracja publiczna 503.1 MLN;SPRAWY WEWNĘTRZNE;Administracja publiczna
+42;750;75001;Urzędy naczelnych i centralnych organów administracji rządowej;183720;42-750-75001;42-750;183.7 MLN;Urzędy naczelnych i centralnych organów administracji rządowej 183.7 MLN;SPRAWY WEWNĘTRZNE;Administracja publiczna
+42;750;75070;Centrum Personalizacji Dokumentów;246643;42-750-75070;42-750;246.6 MLN;Centrum Personalizacji Dokumentów 246.6 MLN;SPRAWY WEWNĘTRZNE;Administracja publiczna
+42;750;75073;Urząd do Spraw Cudzoziemców;72776;42-750-75073;42-750;72.8 MLN;Urząd do Spraw Cudzoziemców 72.8 MLN;SPRAWY WEWNĘTRZNE;Administracja publiczna
+42;752;;Obrona narodowa;363;42-752;42;0.4 MLN;Obrona narodowa 0.4 MLN;SPRAWY WEWNĘTRZNE;Obrona narodowa
+42;752;75212;Pozostałe wydatki obronne;363;42-752-75212;42-752;0.4 MLN;Pozostałe wydatki obronne 0.4 MLN;SPRAWY WEWNĘTRZNE;Obrona narodowa
+42;753;;Obowiązkowe ubezpieczenia społeczne;13599970;42-753;42;13.6 MLD;Obowiązkowe ubezpieczenia społeczne 13.6 MLD;SPRAWY WEWNĘTRZNE;Obowiązkowe ubezpieczenia społeczne
+42;753;75301;Świadczenia pieniężne z zaopatrzenia emerytalnego;13599970;42-753-75301;42-753;13.6 MLD;Świadczenia pieniężne z zaopatrzenia emerytalnego 13.6 MLD;SPRAWY WEWNĘTRZNE;Obowiązkowe ubezpieczenia społeczne
+42;754;;Bezpieczeństwo publiczne i ochrona przeciwpożarowa;17489511;42-754;42;17.5 MLD;Bezpieczeństwo publiczne i ochrona przeciwpożarowa 17.5 MLD;SPRAWY WEWNĘTRZNE;Bezpieczeństwo publiczne i ochrona przeciwpożarowa
+42;754;75401;Centralne Biuro Śledcze Policji;300533;42-754-75401;42-754;300.5 MLN;Centralne Biuro Śledcze Policji 300.5 MLN;SPRAWY WEWNĘTRZNE;Bezpieczeństwo publiczne i ochrona przeciwpożarowa
+42;754;75402;Komenda Główna Policji;534646;42-754-75402;42-754;534.6 MLN;Komenda Główna Policji 534.6 MLN;SPRAWY WEWNĘTRZNE;Bezpieczeństwo publiczne i ochrona przeciwpożarowa
+42;754;75403;Jednostki terenowe Policji;544708;42-754-75403;42-754;544.7 MLN;Jednostki terenowe Policji 544.7 MLN;SPRAWY WEWNĘTRZNE;Bezpieczeństwo publiczne i ochrona przeciwpożarowa
+42;754;75404;Komendy wojewódzkie Policji;3310478;42-754-75404;42-754;3.3 MLD;Komendy wojewódzkie Policji 3.3 MLD;SPRAWY WEWNĘTRZNE;Bezpieczeństwo publiczne i ochrona przeciwpożarowa
+42;754;75405;Komendy powiatowe Policji;9219383;42-754-75405;42-754;9.2 MLD;Komendy powiatowe Policji 9.2 MLD;SPRAWY WEWNĘTRZNE;Bezpieczeństwo publiczne i ochrona przeciwpożarowa
+42;754;75406;Straż Graniczna;2363859;42-754-75406;42-754;2.4 MLD;Straż Graniczna 2.4 MLD;SPRAWY WEWNĘTRZNE;Bezpieczeństwo publiczne i ochrona przeciwpożarowa
+42;754;75407;Centralne Biuro Zwalczania Cyberprzestępczości;274362;42-754-75407;42-754;274.4 MLN;Centralne Biuro Zwalczania Cyberprzestępczości 274.4 MLN;SPRAWY WEWNĘTRZNE;Bezpieczeństwo publiczne i ochrona przeciwpożarowa
+42;754;75408;Działalność Służby Ochrony Państwa;421134;42-754-75408;42-754;421.1 MLN;Działalność Służby Ochrony Państwa 421.1 MLN;SPRAWY WEWNĘTRZNE;Bezpieczeństwo publiczne i ochrona przeciwpożarowa
+42;754;75409;Komenda Główna Państwowej Straży Pożarnej;243449;42-754-75409;42-754;243.4 MLN;Komenda Główna Państwowej Straży Pożarnej 243.4 MLN;SPRAWY WEWNĘTRZNE;Bezpieczeństwo publiczne i ochrona przeciwpożarowa
+42;754;75412;Ochotnicze straże pożarne;39000;42-754-75412;42-754;39.0 MLN;Ochotnicze straże pożarne 39.0 MLN;SPRAWY WEWNĘTRZNE;Bezpieczeństwo publiczne i ochrona przeciwpożarowa
+42;754;75415;Zadania ratownictwa górskiego i wodnego;36161;42-754-75415;42-754;36.2 MLN;Zadania ratownictwa górskiego i wodnego 36.2 MLN;SPRAWY WEWNĘTRZNE;Bezpieczeństwo publiczne i ochrona przeciwpożarowa
+42;754;75421;Zarządzanie kryzysowe;10376;42-754-75421;42-754;10.4 MLN;Zarządzanie kryzysowe 10.4 MLN;SPRAWY WEWNĘTRZNE;Bezpieczeństwo publiczne i ochrona przeciwpożarowa
+42;754;75495;Pozostała działalność;191422;42-754-75495;42-754;191.4 MLN;Pozostała działalność 191.4 MLN;SPRAWY WEWNĘTRZNE;Bezpieczeństwo publiczne i ochrona przeciwpożarowa
+42;851;;Ochrona zdrowia;100649;42-851;42;100.6 MLN;Ochrona zdrowia 100.6 MLN;SPRAWY WEWNĘTRZNE;Ochrona zdrowia
+42;851;85141;Ratownictwo medyczne;70;42-851-85141;42-851;0.1 MLN;Ratownictwo medyczne 0.1 MLN;SPRAWY WEWNĘTRZNE;Ochrona zdrowia
+42;851;85143;Publiczna służba krwi;3750;42-851-85143;42-851;3.8 MLN;Publiczna służba krwi 3.8 MLN;SPRAWY WEWNĘTRZNE;Ochrona zdrowia
+42;851;85149;Programy polityki zdrowotnej;800;42-851-85149;42-851;0.8 MLN;Programy polityki zdrowotnej 0.8 MLN;SPRAWY WEWNĘTRZNE;Ochrona zdrowia
+42;851;85195;Pozostała działalność;96029;42-851-85195;42-851;96.0 MLN;Pozostała działalność 96.0 MLN;SPRAWY WEWNĘTRZNE;Ochrona zdrowia
+42;852;;Pomoc społeczna;92665;42-852;42;92.7 MLN;Pomoc społeczna 92.7 MLN;SPRAWY WEWNĘTRZNE;Pomoc społeczna
+42;852;85231;Pomoc dla cudzoziemców;92665;42-852-85231;42-852;92.7 MLN;Pomoc dla cudzoziemców 92.7 MLN;SPRAWY WEWNĘTRZNE;Pomoc społeczna
+42;853;;Pozostałe zadania w zakresie polityki społecznej;3300;42-853;42;3.3 MLN;Pozostałe zadania w zakresie polityki społecznej 3.3 MLN;SPRAWY WEWNĘTRZNE;Pozostałe zadania w zakresie polityki społecznej
+42;853;85347;Renta socjalna;3300;42-853-85347;42-853;3.3 MLN;Renta socjalna 3.3 MLN;SPRAWY WEWNĘTRZNE;Pozostałe zadania w zakresie polityki społecznej
+43;;;WYZNANIA RELIGIJNE ORAZ MNIEJSZOŚCI NARODOWE I ETNICZNE;242920;43;total;242.9 MLN;WYZNANIA RELIGIJNE ORAZ MNIEJSZOŚCI NARODOWE I ETNICZNE 242.9 MLN;WYZNANIA RELIGIJNE ORAZ MNIEJSZOŚCI NARODOWE I ETNICZNE;WYZNANIA RELIGIJNE ORAZ MNIEJSZOŚCI NARODOWE I ETNICZNE
+43;730;;Szkolnictwo wyższe i nauka;1185;43-730;43;1.2 MLN;Szkolnictwo wyższe i nauka 1.2 MLN;WYZNANIA RELIGIJNE ORAZ MNIEJSZOŚCI NARODOWE I ETNICZNE;Szkolnictwo wyższe i nauka
+43;730;73095;Pozostała działalność;1185;43-730-73095;43-730;1.2 MLN;Pozostała działalność 1.2 MLN;WYZNANIA RELIGIJNE ORAZ MNIEJSZOŚCI NARODOWE I ETNICZNE;Szkolnictwo wyższe i nauka
+43;750;;Administracja publiczna;7069;43-750;43;7.1 MLN;Administracja publiczna 7.1 MLN;WYZNANIA RELIGIJNE ORAZ MNIEJSZOŚCI NARODOWE I ETNICZNE;Administracja publiczna
+43;750;75001;Urzędy naczelnych i centralnych organów administracji rządowej;7069;43-750-75001;43-750;7.1 MLN;Urzędy naczelnych i centralnych organów administracji rządowej 7.1 MLN;WYZNANIA RELIGIJNE ORAZ MNIEJSZOŚCI NARODOWE I ETNICZNE;Administracja publiczna
+43;758;;Różne rozliczenia;215982;43-758;43;216.0 MLN;Różne rozliczenia 216.0 MLN;WYZNANIA RELIGIJNE ORAZ MNIEJSZOŚCI NARODOWE I ETNICZNE;Różne rozliczenia
+43;758;75822;Fundusz Kościelny;215982;43-758-75822;43-758;216.0 MLN;Fundusz Kościelny 216.0 MLN;WYZNANIA RELIGIJNE ORAZ MNIEJSZOŚCI NARODOWE I ETNICZNE;Różne rozliczenia
+43;801;;Oświata i wychowanie;375;43-801;43;0.4 MLN;Oświata i wychowanie 0.4 MLN;WYZNANIA RELIGIJNE ORAZ MNIEJSZOŚCI NARODOWE I ETNICZNE;Oświata i wychowanie
+43;801;80195;Pozostała działalność;375;43-801-80195;43-801;0.4 MLN;Pozostała działalność 0.4 MLN;WYZNANIA RELIGIJNE ORAZ MNIEJSZOŚCI NARODOWE I ETNICZNE;Oświata i wychowanie
+43;921;;Kultura i ochrona dziedzictwa narodowego;18309;43-921;43;18.3 MLN;Kultura i ochrona dziedzictwa narodowego 18.3 MLN;WYZNANIA RELIGIJNE ORAZ MNIEJSZOŚCI NARODOWE I ETNICZNE;Kultura i ochrona dziedzictwa narodowego
+43;921;92104;Działalność radiowa i telewizyjna;1100;43-921-92104;43-921;1.1 MLN;Działalność radiowa i telewizyjna 1.1 MLN;WYZNANIA RELIGIJNE ORAZ MNIEJSZOŚCI NARODOWE I ETNICZNE;Kultura i ochrona dziedzictwa narodowego
+43;921;92105;Pozostałe zadania w zakresie kultury;17209;43-921-92105;43-921;17.2 MLN;Pozostałe zadania w zakresie kultury 17.2 MLN;WYZNANIA RELIGIJNE ORAZ MNIEJSZOŚCI NARODOWE I ETNICZNE;Kultura i ochrona dziedzictwa narodowego
+44;;;ZABEZPIECZENIE SPOŁECZNE;3660110;44;total;3.7 MLD;ZABEZPIECZENIE SPOŁECZNE 3.7 MLD;ZABEZPIECZENIE SPOŁECZNE;ZABEZPIECZENIE SPOŁECZNE
+44;010;;Rolnictwo i łowiectwo;14043;44-010;44;14.0 MLN;Rolnictwo i łowiectwo 14.0 MLN;ZABEZPIECZENIE SPOŁECZNE;Rolnictwo i łowiectwo
+44;010;01024;Działalność Krajowego Ośrodka Wsparcia Rolnictwa;14043;44-010-01024;44-010;14.0 MLN;Działalność Krajowego Ośrodka Wsparcia Rolnictwa 14.0 MLN;ZABEZPIECZENIE SPOŁECZNE;Rolnictwo i łowiectwo
+44;750;;Administracja publiczna;77271;44-750;44;77.3 MLN;Administracja publiczna 77.3 MLN;ZABEZPIECZENIE SPOŁECZNE;Administracja publiczna
+44;750;75001;Urzędy naczelnych i centralnych organów administracji rządowej;76401;44-750-75001;44-750;76.4 MLN;Urzędy naczelnych i centralnych organów administracji rządowej 76.4 MLN;ZABEZPIECZENIE SPOŁECZNE;Administracja publiczna
+44;750;75080;Działalność badawczo-rozwojowa;124;44-750-75080;44-750;0.1 MLN;Działalność badawczo-rozwojowa 0.1 MLN;ZABEZPIECZENIE SPOŁECZNE;Administracja publiczna
+44;750;75095;Pozostała działalność;746;44-750-75095;44-750;0.7 MLN;Pozostała działalność 0.7 MLN;ZABEZPIECZENIE SPOŁECZNE;Administracja publiczna
+44;752;;Obrona narodowa;7;44-752;44;0.0 MLN;Obrona narodowa 0.0 MLN;ZABEZPIECZENIE SPOŁECZNE;Obrona narodowa
+44;752;75212;Pozostałe wydatki obronne;7;44-752-75212;44-752;0.0 MLN;Pozostałe wydatki obronne 0.0 MLN;ZABEZPIECZENIE SPOŁECZNE;Obrona narodowa
+44;852;;Pomoc społeczna;29517;44-852;44;29.5 MLN;Pomoc społeczna 29.5 MLN;ZABEZPIECZENIE SPOŁECZNE;Pomoc społeczna
+44;852;85205;Zadania w zakresie przeciwdziałania przemocy w rodzinie;3000;44-852-85205;44-852;3.0 MLN;Zadania w zakresie przeciwdziałania przemocy w rodzinie 3.0 MLN;ZABEZPIECZENIE SPOŁECZNE;Pomoc społeczna
+44;852;85295;Pozostała działalność;26517;44-852-85295;44-852;26.5 MLN;Pozostała działalność 26.5 MLN;ZABEZPIECZENIE SPOŁECZNE;Pomoc społeczna
+44;853;;Pozostałe zadania w zakresie polityki społecznej;3539272;44-853;44;3.5 MLD;Pozostałe zadania w zakresie polityki społecznej 3.5 MLD;ZABEZPIECZENIE SPOŁECZNE;Pozostałe zadania w zakresie polityki społecznej
+44;853;85324;Państwowy Fundusz Rehabilitacji Osób Niepełnosprawnych;857659;44-853-85324;44-853;857.7 MLN;Państwowy Fundusz Rehabilitacji Osób Niepełnosprawnych 857.7 MLN;ZABEZPIECZENIE SPOŁECZNE;Pozostałe zadania w zakresie polityki społecznej
+44;853;85326;Fundusz Solidarnościowy;2636963;44-853-85326;44-853;2.6 MLD;Fundusz Solidarnościowy 2.6 MLD;ZABEZPIECZENIE SPOŁECZNE;Pozostałe zadania w zakresie polityki społecznej
+44;853;85395;Pozostała działalność;44650;44-853-85395;44-853;44.6 MLN;Pozostała działalność 44.6 MLN;ZABEZPIECZENIE SPOŁECZNE;Pozostałe zadania w zakresie polityki społecznej
+45;;;SPRAWY ZAGRANICZNE;2780667;45;total;2.8 MLD;SPRAWY ZAGRANICZNE 2.8 MLD;SPRAWY ZAGRANICZNE;SPRAWY ZAGRANICZNE
+45;750;;Administracja publiczna;2527488;45-750;45;2.5 MLD;Administracja publiczna 2.5 MLD;SPRAWY ZAGRANICZNE;Administracja publiczna
+45;750;75001;Urzędy naczelnych i centralnych organów administracji rządowej;348069;45-750-75001;45-750;348.1 MLN;Urzędy naczelnych i centralnych organów administracji rządowej 348.1 MLN;SPRAWY ZAGRANICZNE;Administracja publiczna
+45;750;75057;Placówki zagraniczne;1155174;45-750-75057;45-750;1.2 MLD;Placówki zagraniczne 1.2 MLD;SPRAWY ZAGRANICZNE;Administracja publiczna
+45;750;75058;Działalność informacyjna i kulturalna prowadzona za granicą;34288;45-750-75058;45-750;34.3 MLN;Działalność informacyjna i kulturalna prowadzona za granicą 34.3 MLN;SPRAWY ZAGRANICZNE;Administracja publiczna
+45;750;75062;Polski Instytut Spraw Międzynarodowych;18781;45-750-75062;45-750;18.8 MLN;Polski Instytut Spraw Międzynarodowych 18.8 MLN;SPRAWY ZAGRANICZNE;Administracja publiczna
+45;750;75063;Polski Komitet do spraw UNESCO;1357;45-750-75063;45-750;1.4 MLN;Polski Komitet do spraw UNESCO 1.4 MLN;SPRAWY ZAGRANICZNE;Administracja publiczna
+45;750;75069;Zadania realizowane w placówkach zagranicznych przez przedstawicieli organów administracji rządowej;50134;45-750-75069;45-750;50.1 MLN;Zadania realizowane w placówkach zagranicznych przez przedstawicieli organów administracji rządowej 50.1 MLN;SPRAWY ZAGRANICZNE;Administracja publiczna
+45;750;75074;Działalność Rady do Spraw Polaków poza Granicami Kraju;130;45-750-75074;45-750;0.1 MLN;Działalność Rady do Spraw Polaków poza Granicami Kraju 0.1 MLN;SPRAWY ZAGRANICZNE;Administracja publiczna
+45;750;75079;Pomoc zagraniczna;203587;45-750-75079;45-750;203.6 MLN;Pomoc zagraniczna 203.6 MLN;SPRAWY ZAGRANICZNE;Administracja publiczna
+45;750;75080;Działalność badawczo-rozwojowa;5000;45-750-75080;45-750;5.0 MLN;Działalność badawczo-rozwojowa 5.0 MLN;SPRAWY ZAGRANICZNE;Administracja publiczna
+45;750;75095;Pozostała działalność;710968;45-750-75095;45-750;711.0 MLN;Pozostała działalność 711.0 MLN;SPRAWY ZAGRANICZNE;Administracja publiczna
+45;752;;Obrona narodowa;1180;45-752;45;1.2 MLN;Obrona narodowa 1.2 MLN;SPRAWY ZAGRANICZNE;Obrona narodowa
+45;752;75212;Pozostałe wydatki obronne;1180;45-752-75212;45-752;1.2 MLN;Pozostałe wydatki obronne 1.2 MLN;SPRAWY ZAGRANICZNE;Obrona narodowa
+45;801;;Oświata i wychowanie;7180;45-801;45;7.2 MLN;Oświata i wychowanie 7.2 MLN;SPRAWY ZAGRANICZNE;Oświata i wychowanie
+45;801;80135;Szkolnictwo polskie za granicą;7180;45-801-80135;45-801;7.2 MLN;Szkolnictwo polskie za granicą 7.2 MLN;SPRAWY ZAGRANICZNE;Oświata i wychowanie
+45;853;;Pozostałe zadania w zakresie polityki społecznej;22985;45-853;45;23.0 MLN;Pozostałe zadania w zakresie polityki społecznej 23.0 MLN;SPRAWY ZAGRANICZNE;Pozostałe zadania w zakresie polityki społecznej
+45;853;85330;Opieka i pomoc dla Polonii i Polaków za granicą;3675;45-853-85330;45-853;3.7 MLN;Opieka i pomoc dla Polonii i Polaków za granicą 3.7 MLN;SPRAWY ZAGRANICZNE;Pozostałe zadania w zakresie polityki społecznej
+45;853;85395;Pozostała działalność;19310;45-853-85395;45-853;19.3 MLN;Pozostała działalność 19.3 MLN;SPRAWY ZAGRANICZNE;Pozostałe zadania w zakresie polityki społecznej
+45;854;;Edukacyjna opieka wychowawcza;500;45-854;45;0.5 MLN;Edukacyjna opieka wychowawcza 0.5 MLN;SPRAWY ZAGRANICZNE;Edukacyjna opieka wychowawcza
+45;854;85413;Kolonie i obozy dla młodzieży polonijnej w kraju;500;45-854-85413;45-854;0.5 MLN;Kolonie i obozy dla młodzieży polonijnej w kraju 0.5 MLN;SPRAWY ZAGRANICZNE;Edukacyjna opieka wychowawcza
+45;921;;Kultura i ochrona dziedzictwa narodowego;221334;45-921;45;221.3 MLN;Kultura i ochrona dziedzictwa narodowego 221.3 MLN;SPRAWY ZAGRANICZNE;Kultura i ochrona dziedzictwa narodowego
+45;921;92104;Działalność radiowa i telewizyjna;209215;45-921-92104;45-921;209.2 MLN;Działalność radiowa i telewizyjna 209.2 MLN;SPRAWY ZAGRANICZNE;Kultura i ochrona dziedzictwa narodowego
+45;921;92195;Pozostała działalność;12119;45-921-92195;45-921;12.1 MLN;Pozostała działalność 12.1 MLN;SPRAWY ZAGRANICZNE;Kultura i ochrona dziedzictwa narodowego
+46;;;ZDROWIE;14186078;46;total;14.2 MLD;ZDROWIE 14.2 MLD;ZDROWIE;ZDROWIE
+46;730;;Szkolnictwo wyższe i nauka;2470399;46-730;46;2.5 MLD;Szkolnictwo wyższe i nauka 2.5 MLD;ZDROWIE;Szkolnictwo wyższe i nauka
+46;730;73007;Współpraca z zagranicą;30;46-730-73007;46-730;0.0 MLN;Współpraca z zagranicą 0.0 MLN;ZDROWIE;Szkolnictwo wyższe i nauka
+46;730;73013;Działalność w zakresie umiędzynarodowienia nauki i szkolnictwa wyższego;3216;46-730-73013;46-730;3.2 MLN;Działalność w zakresie umiędzynarodowienia nauki i szkolnictwa wyższego 3.2 MLN;ZDROWIE;Szkolnictwo wyższe i nauka
+46;730;73014;Działalność dydaktyczna i badawcza;2234360;46-730-73014;46-730;2.2 MLD;Działalność dydaktyczna i badawcza 2.2 MLD;ZDROWIE;Szkolnictwo wyższe i nauka
+46;730;73016;Pomoc materialna dla studentów i doktorantów;73193;46-730-73016;46-730;73.2 MLN;Pomoc materialna dla studentów i doktorantów 73.2 MLN;ZDROWIE;Szkolnictwo wyższe i nauka
+46;730;73019;Działalność podmiotów funkcjonujących w obszarze nauki i szkolnictwa wyższego;73438;46-730-73019;46-730;73.4 MLN;Działalność podmiotów funkcjonujących w obszarze nauki i szkolnictwa wyższego 73.4 MLN;ZDROWIE;Szkolnictwo wyższe i nauka
+46;730;73095;Pozostała działalność;86162;46-730-73095;46-730;86.2 MLN;Pozostała działalność 86.2 MLN;ZDROWIE;Szkolnictwo wyższe i nauka
+46;750;;Administracja publiczna;163199;46-750;46;163.2 MLN;Administracja publiczna 163.2 MLN;ZDROWIE;Administracja publiczna
+46;750;75001;Urzędy naczelnych i centralnych organów administracji rządowej;163199;46-750-75001;46-750;163.2 MLN;Urzędy naczelnych i centralnych organów administracji rządowej 163.2 MLN;ZDROWIE;Administracja publiczna
+46;752;;Obrona narodowa;3078;46-752;46;3.1 MLN;Obrona narodowa 3.1 MLN;ZDROWIE;Obrona narodowa
+46;752;75212;Pozostałe wydatki obronne;3078;46-752-75212;46-752;3.1 MLN;Pozostałe wydatki obronne 3.1 MLN;ZDROWIE;Obrona narodowa
+46;851;;Ochrona zdrowia;11538408;46-851;46;11.5 MLD;Ochrona zdrowia 11.5 MLD;ZDROWIE;Ochrona zdrowia
+46;851;85112;Szpitale kliniczne;969528;46-851-85112;46-851;969.5 MLN;Szpitale kliniczne 969.5 MLN;ZDROWIE;Ochrona zdrowia
+46;851;85117;Zakłady opiekuńczo-lecznicze i pielęgnacyjno-opiekuńcze;21239;46-851-85117;46-851;21.2 MLN;Zakłady opiekuńczo-lecznicze i pielęgnacyjno-opiekuńcze 21.2 MLN;ZDROWIE;Ochrona zdrowia
+46;851;85120;Lecznictwo psychiatryczne;132352;46-851-85120;46-851;132.4 MLN;Lecznictwo psychiatryczne 132.4 MLN;ZDROWIE;Ochrona zdrowia
+46;851;85121;Lecznictwo ambulatoryjne;3164;46-851-85121;46-851;3.2 MLN;Lecznictwo ambulatoryjne 3.2 MLN;ZDROWIE;Ochrona zdrowia
+46;851;85132;Inspekcja Sanitarna;104516;46-851-85132;46-851;104.5 MLN;Inspekcja Sanitarna 104.5 MLN;ZDROWIE;Ochrona zdrowia
+46;851;85133;Inspekcja Farmaceutyczna;39961;46-851-85133;46-851;40.0 MLN;Inspekcja Farmaceutyczna 40.0 MLN;ZDROWIE;Ochrona zdrowia
+46;851;85134;Inspekcja do Spraw Substancji Chemicznych;5798;46-851-85134;46-851;5.8 MLN;Inspekcja do Spraw Substancji Chemicznych 5.8 MLN;ZDROWIE;Ochrona zdrowia
+46;851;85137;Urząd Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych;75610;46-851-85137;46-851;75.6 MLN;Urząd Rejestracji Produktów Leczniczych, Wyrobów Medycznych i Produktów Biobójczych 75.6 MLN;ZDROWIE;Ochrona zdrowia
+46;851;85141;Ratownictwo medyczne;348954;46-851-85141;46-851;349.0 MLN;Ratownictwo medyczne 349.0 MLN;ZDROWIE;Ochrona zdrowia
+46;851;85143;Publiczna służba krwi;139983;46-851-85143;46-851;140.0 MLN;Publiczna służba krwi 140.0 MLN;ZDROWIE;Ochrona zdrowia
+46;851;85144;System Wspomagania Dowodzenia Państwowego Ratownictwa Medycznego;106620;46-851-85144;46-851;106.6 MLN;System Wspomagania Dowodzenia Państwowego Ratownictwa Medycznego 106.6 MLN;ZDROWIE;Ochrona zdrowia
+46;851;85148;Medycyna pracy;1168;46-851-85148;46-851;1.2 MLN;Medycyna pracy 1.2 MLN;ZDROWIE;Ochrona zdrowia
+46;851;85149;Programy polityki zdrowotnej;925209;46-851-85149;46-851;925.2 MLN;Programy polityki zdrowotnej 925.2 MLN;ZDROWIE;Ochrona zdrowia
+46;851;85152;Zapobieganie i zwalczanie AIDS;6982;46-851-85152;46-851;7.0 MLN;Zapobieganie i zwalczanie AIDS 7.0 MLN;ZDROWIE;Ochrona zdrowia
+46;851;85157;Staże i specjalizacje medyczne;3700271;46-851-85157;46-851;3.7 MLD;Staże i specjalizacje medyczne 3.7 MLD;ZDROWIE;Ochrona zdrowia
+46;851;85195;Pozostała działalność;4957053;46-851-85195;46-851;5.0 MLD;Pozostała działalność 5.0 MLD;ZDROWIE;Ochrona zdrowia
+46;921;;Kultura i ochrona dziedzictwa narodowego;10994;46-921;46;11.0 MLN;Kultura i ochrona dziedzictwa narodowego 11.0 MLN;ZDROWIE;Kultura i ochrona dziedzictwa narodowego
+46;921;92116;Biblioteki;10994;46-921-92116;46-921;11.0 MLN;Biblioteki 11.0 MLN;ZDROWIE;Kultura i ochrona dziedzictwa narodowego
+47;;;ENERGIA;151549;47;total;151.5 MLN;ENERGIA 151.5 MLN;ENERGIA;ENERGIA
+47;150;;Przetwórstwo przemysłowe;60504;47-150;47;60.5 MLN;Przetwórstwo przemysłowe 60.5 MLN;ENERGIA;Przetwórstwo przemysłowe
+47;150;15004;Zadania w zakresie bezpiecznego wykorzystania energii atomowej;19138;47-150-15004;47-150;19.1 MLN;Zadania w zakresie bezpiecznego wykorzystania energii atomowej 19.1 MLN;ENERGIA;Przetwórstwo przemysłowe
+47;150;15021;Program polskiej energetyki jądrowej;25500;47-150-15021;47-150;25.5 MLN;Program polskiej energetyki jądrowej 25.5 MLN;ENERGIA;Przetwórstwo przemysłowe
+47;150;15095;Pozostała działalność;15866;47-150-15095;47-150;15.9 MLN;Pozostała działalność 15.9 MLN;ENERGIA;Przetwórstwo przemysłowe
+47;750;;Administracja publiczna;78666;47-750;47;78.7 MLN;Administracja publiczna 78.7 MLN;ENERGIA;Administracja publiczna
+47;750;75001;Urzędy naczelnych i centralnych organów administracji rządowej;78666;47-750-75001;47-750;78.7 MLN;Urzędy naczelnych i centralnych organów administracji rządowej 78.7 MLN;ENERGIA;Administracja publiczna
+47;752;;Obrona narodowa;35;47-752;47;0.0 MLN;Obrona narodowa 0.0 MLN;ENERGIA;Obrona narodowa
+47;752;75212;Pozostałe wydatki obronne;35;47-752-75212;47-752;0.0 MLN;Pozostałe wydatki obronne 0.0 MLN;ENERGIA;Obrona narodowa
+47;900;;Gospodarka komunalna i ochrona środowiska;12344;47-900;47;12.3 MLN;Gospodarka komunalna i ochrona środowiska 12.3 MLN;ENERGIA;Gospodarka komunalna i ochrona środowiska
+47;900;90011;Fundusz Ochrony Środowiska i Gospodarki Wodnej;12344;47-900-90011;47-900;12.3 MLN;Fundusz Ochrony Środowiska i Gospodarki Wodnej 12.3 MLN;ENERGIA;Gospodarka komunalna i ochrona środowiska
+48;;;GOSPODARKA ZŁOŻAMI KOPALIN;1799483;48;total;1.8 MLD;GOSPODARKA ZŁOŻAMI KOPALIN 1.8 MLD;GOSPODARKA ZŁOŻAMI KOPALIN;GOSPODARKA ZŁOŻAMI KOPALIN
+48;100;;Górnictwo i kopalnictwo;1793165;48-100;48;1.8 MLD;Górnictwo i kopalnictwo 1.8 MLD;GOSPODARKA ZŁOŻAMI KOPALIN;Górnictwo i kopalnictwo
+48;100;10001;Górnictwo węgla kamiennego;1655864;48-100-10001;48-100;1.7 MLD;Górnictwo węgla kamiennego 1.7 MLD;GOSPODARKA ZŁOŻAMI KOPALIN;Górnictwo i kopalnictwo
+48;100;10005;Produkcja soli;109002;48-100-10005;48-100;109.0 MLN;Produkcja soli 109.0 MLN;GOSPODARKA ZŁOŻAMI KOPALIN;Górnictwo i kopalnictwo
+48;100;10095;Pozostała działalność;28299;48-100-10095;48-100;28.3 MLN;Pozostała działalność 28.3 MLN;GOSPODARKA ZŁOŻAMI KOPALIN;Górnictwo i kopalnictwo
+48;150;;Przetwórstwo przemysłowe;460;48-150;48;0.5 MLN;Przetwórstwo przemysłowe 0.5 MLN;GOSPODARKA ZŁOŻAMI KOPALIN;Przetwórstwo przemysłowe
+48;150;15095;Pozostała działalność;460;48-150-15095;48-150;0.5 MLN;Pozostała działalność 0.5 MLN;GOSPODARKA ZŁOŻAMI KOPALIN;Przetwórstwo przemysłowe
+48;750;;Administracja publiczna;5828;48-750;48;5.8 MLN;Administracja publiczna 5.8 MLN;GOSPODARKA ZŁOŻAMI KOPALIN;Administracja publiczna
+48;750;75001;Urzędy naczelnych i centralnych organów administracji rządowej;5828;48-750-75001;48-750;5.8 MLN;Urzędy naczelnych i centralnych organów administracji rządowej 5.8 MLN;GOSPODARKA ZŁOŻAMI KOPALIN;Administracja publiczna
+48;752;;Obrona narodowa;30;48-752;48;0.0 MLN;Obrona narodowa 0.0 MLN;GOSPODARKA ZŁOŻAMI KOPALIN;Obrona narodowa
+48;752;75212;Pozostałe wydatki obronne;30;48-752-75212;48-752;0.0 MLN;Pozostałe wydatki obronne 0.0 MLN;GOSPODARKA ZŁOŻAMI KOPALIN;Obrona narodowa
+49;;;URZĄD ZAMÓWIEŃ PUBLICZNYCH;51464;49;total;51.5 MLN;URZĄD ZAMÓWIEŃ PUBLICZNYCH 51.5 MLN;URZĄD ZAMÓWIEŃ PUBLICZNYCH;URZĄD ZAMÓWIEŃ PUBLICZNYCH
+49;750;;Administracja publiczna;51464;49-750;49;51.5 MLN;Administracja publiczna 51.5 MLN;URZĄD ZAMÓWIEŃ PUBLICZNYCH;Administracja publiczna
+49;750;75001;Urzędy naczelnych i centralnych organów administracji rządowej;51464;49-750-75001;49-750;51.5 MLN;Urzędy naczelnych i centralnych organów administracji rządowej 51.5 MLN;URZĄD ZAMÓWIEŃ PUBLICZNYCH;Administracja publiczna
+50;;;URZĄD REGULACJI ENERGETYKI;68158;50;total;68.2 MLN;URZĄD REGULACJI ENERGETYKI 68.2 MLN;URZĄD REGULACJI ENERGETYKI;URZĄD REGULACJI ENERGETYKI
+50;750;;Administracja publiczna;68158;50-750;50;68.2 MLN;Administracja publiczna 68.2 MLN;URZĄD REGULACJI ENERGETYKI;Administracja publiczna
+50;750;75001;Urzędy naczelnych i centralnych organów administracji rządowej;68158;50-750-75001;50-750;68.2 MLN;Urzędy naczelnych i centralnych organów administracji rządowej 68.2 MLN;URZĄD REGULACJI ENERGETYKI;Administracja publiczna
+51;;;KLIMAT;375473;51;total;375.5 MLN;KLIMAT 375.5 MLN;KLIMAT;KLIMAT
+51;020;;Leśnictwo;4783;51-020;51;4.8 MLN;Leśnictwo 4.8 MLN;KLIMAT;Leśnictwo
+51;020;02095;Pozostała działalność;4783;51-020-02095;51-020;4.8 MLN;Pozostała działalność 4.8 MLN;KLIMAT;Leśnictwo
+51;750;;Administracja publiczna;101750;51-750;51;101.8 MLN;Administracja publiczna 101.8 MLN;KLIMAT;Administracja publiczna
+51;750;75001;Urzędy naczelnych i centralnych organów administracji rządowej;101662;51-750-75001;51-750;101.7 MLN;Urzędy naczelnych i centralnych organów administracji rządowej 101.7 MLN;KLIMAT;Administracja publiczna
+51;750;75095;Pozostała działalność;88;51-750-75095;51-750;0.1 MLN;Pozostała działalność 0.1 MLN;KLIMAT;Administracja publiczna
+51;752;;Obrona narodowa;50;51-752;51;0.1 MLN;Obrona narodowa 0.1 MLN;KLIMAT;Obrona narodowa
+51;752;75212;Pozostałe wydatki obronne;50;51-752-75212;51-752;0.1 MLN;Pozostałe wydatki obronne 0.1 MLN;KLIMAT;Obrona narodowa
+51;900;;Gospodarka komunalna i ochrona środowiska;268890;51-900;51;268.9 MLN;Gospodarka komunalna i ochrona środowiska 268.9 MLN;KLIMAT;Gospodarka komunalna i ochrona środowiska
+51;900;90011;Fundusz Ochrony Środowiska i Gospodarki Wodnej;67148;51-900-90011;51-900;67.1 MLN;Fundusz Ochrony Środowiska i Gospodarki Wodnej 67.1 MLN;KLIMAT;Gospodarka komunalna i ochrona środowiska
+51;900;90014;Inspekcja Ochrony Środowiska;201742;51-900-90014;51-900;201.7 MLN;Inspekcja Ochrony Środowiska 201.7 MLN;KLIMAT;Gospodarka komunalna i ochrona środowiska
+53;;;URZĄD OCHRONY KONKURENCJI I KONSUMENTÓW;134026;53;total;134.0 MLN;URZĄD OCHRONY KONKURENCJI I KONSUMENTÓW 134.0 MLN;URZĄD OCHRONY KONKURENCJI I KONSUMENTÓW;URZĄD OCHRONY KONKURENCJI I KONSUMENTÓW
+53;750;;Administracja publiczna;134026;53-750;53;134.0 MLN;Administracja publiczna 134.0 MLN;URZĄD OCHRONY KONKURENCJI I KONSUMENTÓW;Administracja publiczna
+53;750;75001;Urzędy naczelnych i centralnych organów administracji rządowej;132426;53-750-75001;53-750;132.4 MLN;Urzędy naczelnych i centralnych organów administracji rządowej 132.4 MLN;URZĄD OCHRONY KONKURENCJI I KONSUMENTÓW;Administracja publiczna
+53;750;75095;Pozostała działalność;1600;53-750-75095;53-750;1.6 MLN;Pozostała działalność 1.6 MLN;URZĄD OCHRONY KONKURENCJI I KONSUMENTÓW;Administracja publiczna
+54;;;URZĄD DO SPRAW KOMBATANTÓW I OSÓB REPRESJONOWANYCH;164297;54;total;164.3 MLN;URZĄD DO SPRAW KOMBATANTÓW I OSÓB REPRESJONOWANYCH 164.3 MLN;URZĄD DO SPRAW KOMBATANTÓW I OSÓB REPRESJONOWANYCH;URZĄD DO SPRAW KOMBATANTÓW I OSÓB REPRESJONOWANYCH
+54;750;;Administracja publiczna;23334;54-750;54;23.3 MLN;Administracja publiczna 23.3 MLN;URZĄD DO SPRAW KOMBATANTÓW I OSÓB REPRESJONOWANYCH;Administracja publiczna
+54;750;75001;Urzędy naczelnych i centralnych organów administracji rządowej;23334;54-750-75001;54-750;23.3 MLN;Urzędy naczelnych i centralnych organów administracji rządowej 23.3 MLN;URZĄD DO SPRAW KOMBATANTÓW I OSÓB REPRESJONOWANYCH;Administracja publiczna
+54;752;;Obrona narodowa;12;54-752;54;0.0 MLN;Obrona narodowa 0.0 MLN;URZĄD DO SPRAW KOMBATANTÓW I OSÓB REPRESJONOWANYCH;Obrona narodowa
+54;752;75212;Pozostałe wydatki obronne;12;54-752-75212;54-752;0.0 MLN;Pozostałe wydatki obronne 0.0 MLN;URZĄD DO SPRAW KOMBATANTÓW I OSÓB REPRESJONOWANYCH;Obrona narodowa
+54;851;;Ochrona zdrowia;81;54-851;54;0.1 MLN;Ochrona zdrowia 0.1 MLN;URZĄD DO SPRAW KOMBATANTÓW I OSÓB REPRESJONOWANYCH;Ochrona zdrowia
+54;851;85156;Składki na ubezpieczenie zdrowotne oraz świadczenia dla osób nieobjętych obowiązkiem ubezpieczenia zdrowotnego;81;54-851-85156;54-851;0.1 MLN;Składki na ubezpieczenie zdrowotne oraz świadczenia dla osób nieobjętych obowiązkiem ubezpieczenia zdrowotnego 0.1 MLN;URZĄD DO SPRAW KOMBATANTÓW I OSÓB REPRESJONOWANYCH;Ochrona zdrowia
+54;853;;Pozostałe zadania w zakresie polityki społecznej;140870;54-853;54;140.9 MLN;Pozostałe zadania w zakresie polityki społecznej 140.9 MLN;URZĄD DO SPRAW KOMBATANTÓW I OSÓB REPRESJONOWANYCH;Pozostałe zadania w zakresie polityki społecznej
+54;853;85323;Państwowy Fundusz Kombatantów;33946;54-853-85323;54-853;33.9 MLN;Państwowy Fundusz Kombatantów 33.9 MLN;URZĄD DO SPRAW KOMBATANTÓW I OSÓB REPRESJONOWANYCH;Pozostałe zadania w zakresie polityki społecznej
+54;853;85395;Pozostała działalność;106924;54-853-85395;54-853;106.9 MLN;Pozostała działalność 106.9 MLN;URZĄD DO SPRAW KOMBATANTÓW I OSÓB REPRESJONOWANYCH;Pozostałe zadania w zakresie polityki społecznej
+55;;;AKTYWA PAŃSTWOWE;93059;55;total;93.1 MLN;AKTYWA PAŃSTWOWE 93.1 MLN;AKTYWA PAŃSTWOWE;AKTYWA PAŃSTWOWE
+55;750;;Administracja publiczna;93049;55-750;55;93.0 MLN;Administracja publiczna 93.0 MLN;AKTYWA PAŃSTWOWE;Administracja publiczna
+55;750;75001;Urzędy naczelnych i centralnych organów administracji rządowej;93049;55-750-75001;55-750;93.0 MLN;Urzędy naczelnych i centralnych organów administracji rządowej 93.0 MLN;AKTYWA PAŃSTWOWE;Administracja publiczna
+55;752;;Obrona narodowa;10;55-752;55;0.0 MLN;Obrona narodowa 0.0 MLN;AKTYWA PAŃSTWOWE;Obrona narodowa
+55;752;75212;Pozostałe wydatki obronne;10;55-752-75212;55-752;0.0 MLN;Pozostałe wydatki obronne 0.0 MLN;AKTYWA PAŃSTWOWE;Obrona narodowa
+56;;;CENTRALNE BIURO ANTYKORUPCYJNE;263213;56;total;263.2 MLN;CENTRALNE BIURO ANTYKORUPCYJNE 263.2 MLN;CENTRALNE BIURO ANTYKORUPCYJNE;CENTRALNE BIURO ANTYKORUPCYJNE
+56;752;;Obrona narodowa;40;56-752;56;0.0 MLN;Obrona narodowa 0.0 MLN;CENTRALNE BIURO ANTYKORUPCYJNE;Obrona narodowa
+56;752;75212;Pozostałe wydatki obronne;40;56-752-75212;56-752;0.0 MLN;Pozostałe wydatki obronne 0.0 MLN;CENTRALNE BIURO ANTYKORUPCYJNE;Obrona narodowa
+56;754;;Bezpieczeństwo publiczne i ochrona przeciwpożarowa;263173;56-754;56;263.2 MLN;Bezpieczeństwo publiczne i ochrona przeciwpożarowa 263.2 MLN;CENTRALNE BIURO ANTYKORUPCYJNE;Bezpieczeństwo publiczne i ochrona przeciwpożarowa
+56;754;75420;Centralne Biuro Antykorupcyjne;263173;56-754-75420;56-754;263.2 MLN;Centralne Biuro Antykorupcyjne 263.2 MLN;CENTRALNE BIURO ANTYKORUPCYJNE;Bezpieczeństwo publiczne i ochrona przeciwpożarowa
+57;;;AGENCJA BEZPIECZEŃSTWA WEWNĘTRZNEGO;710356;57;total;710.4 MLN;AGENCJA BEZPIECZEŃSTWA WEWNĘTRZNEGO 710.4 MLN;AGENCJA BEZPIECZEŃSTWA WEWNĘTRZNEGO;AGENCJA BEZPIECZEŃSTWA WEWNĘTRZNEGO
+57;752;;Obrona narodowa;4;57-752;57;0.0 MLN;Obrona narodowa 0.0 MLN;AGENCJA BEZPIECZEŃSTWA WEWNĘTRZNEGO;Obrona narodowa
+57;752;75212;Pozostałe wydatki obronne;4;57-752-75212;57-752;0.0 MLN;Pozostałe wydatki obronne 0.0 MLN;AGENCJA BEZPIECZEŃSTWA WEWNĘTRZNEGO;Obrona narodowa
+57;754;;Bezpieczeństwo publiczne i ochrona przeciwpożarowa;710352;57-754;57;710.4 MLN;Bezpieczeństwo publiczne i ochrona przeciwpożarowa 710.4 MLN;AGENCJA BEZPIECZEŃSTWA WEWNĘTRZNEGO;Bezpieczeństwo publiczne i ochrona przeciwpożarowa
+57;754;75418;Agencja Bezpieczeństwa Wewnętrznego;710352;57-754-75418;57-754;710.4 MLN;Agencja Bezpieczeństwa Wewnętrznego 710.4 MLN;AGENCJA BEZPIECZEŃSTWA WEWNĘTRZNEGO;Bezpieczeństwo publiczne i ochrona przeciwpożarowa
+58;;;GŁÓWNY URZĄD STATYSTYCZNY;571860;58;total;571.9 MLN;GŁÓWNY URZĄD STATYSTYCZNY 571.9 MLN;GŁÓWNY URZĄD STATYSTYCZNY;GŁÓWNY URZĄD STATYSTYCZNY
+58;150;;Przetwórstwo przemysłowe;12682;58-150;58;12.7 MLN;Przetwórstwo przemysłowe 12.7 MLN;GŁÓWNY URZĄD STATYSTYCZNY;Przetwórstwo przemysłowe
+58;150;15001;Drukarnie;12682;58-150-15001;58-150;12.7 MLN;Drukarnie 12.7 MLN;GŁÓWNY URZĄD STATYSTYCZNY;Przetwórstwo przemysłowe
+58;720;;Informatyka;31836;58-720;58;31.8 MLN;Informatyka 31.8 MLN;GŁÓWNY URZĄD STATYSTYCZNY;Informatyka
+58;720;72001;Działalność Centrum Informatyki Statystycznej;31836;58-720-72001;58-720;31.8 MLN;Działalność Centrum Informatyki Statystycznej 31.8 MLN;GŁÓWNY URZĄD STATYSTYCZNY;Informatyka
+58;750;;Administracja publiczna;527328;58-750;58;527.3 MLN;Administracja publiczna 527.3 MLN;GŁÓWNY URZĄD STATYSTYCZNY;Administracja publiczna
+58;750;75001;Urzędy naczelnych i centralnych organów administracji rządowej;117151;58-750-75001;58-750;117.2 MLN;Urzędy naczelnych i centralnych organów administracji rządowej 117.2 MLN;GŁÓWNY URZĄD STATYSTYCZNY;Administracja publiczna
+58;750;75007;Jednostki terenowe podległe naczelnym i centralnym organom administracji rządowej;389831;58-750-75007;58-750;389.8 MLN;Jednostki terenowe podległe naczelnym i centralnym organom administracji rządowej 389.8 MLN;GŁÓWNY URZĄD STATYSTYCZNY;Administracja publiczna
+58;750;75056;Spis powszechny i inne;18454;58-750-75056;58-750;18.5 MLN;Spis powszechny i inne 18.5 MLN;GŁÓWNY URZĄD STATYSTYCZNY;Administracja publiczna
+58;750;75095;Pozostała działalność;1892;58-750-75095;58-750;1.9 MLN;Pozostała działalność 1.9 MLN;GŁÓWNY URZĄD STATYSTYCZNY;Administracja publiczna
+58;752;;Obrona narodowa;14;58-752;58;0.0 MLN;Obrona narodowa 0.0 MLN;GŁÓWNY URZĄD STATYSTYCZNY;Obrona narodowa
+58;752;75212;Pozostałe wydatki obronne;14;58-752-75212;58-752;0.0 MLN;Pozostałe wydatki obronne 0.0 MLN;GŁÓWNY URZĄD STATYSTYCZNY;Obrona narodowa
+59;;;AGENCJA WYWIADU;298121;59;total;298.1 MLN;AGENCJA WYWIADU 298.1 MLN;AGENCJA WYWIADU;AGENCJA WYWIADU
+59;754;;Bezpieczeństwo publiczne i ochrona przeciwpożarowa;298121;59-754;59;298.1 MLN;Bezpieczeństwo publiczne i ochrona przeciwpożarowa 298.1 MLN;AGENCJA WYWIADU;Bezpieczeństwo publiczne i ochrona przeciwpożarowa
+59;754;75419;Agencja Wywiadu;298121;59-754-75419;59-754;298.1 MLN;Agencja Wywiadu 298.1 MLN;AGENCJA WYWIADU;Bezpieczeństwo publiczne i ochrona przeciwpożarowa
+60;;;WYŻSZY URZĄD GÓRNICZY;75528;60;total;75.5 MLN;WYŻSZY URZĄD GÓRNICZY 75.5 MLN;WYŻSZY URZĄD GÓRNICZY;WYŻSZY URZĄD GÓRNICZY
+60;750;;Administracja publiczna;75528;60-750;60;75.5 MLN;Administracja publiczna 75.5 MLN;WYŻSZY URZĄD GÓRNICZY;Administracja publiczna
+60;750;75001;Urzędy naczelnych i centralnych organów administracji rządowej;33976;60-750-75001;60-750;34.0 MLN;Urzędy naczelnych i centralnych organów administracji rządowej 34.0 MLN;WYŻSZY URZĄD GÓRNICZY;Administracja publiczna
+60;750;75007;Jednostki terenowe podległe naczelnym i centralnym organom administracji rządowej;41552;60-750-75007;60-750;41.6 MLN;Jednostki terenowe podległe naczelnym i centralnym organom administracji rządowej 41.6 MLN;WYŻSZY URZĄD GÓRNICZY;Administracja publiczna
+61;;;URZĄD PATENTOWY RZECZYPOSPOLITEJ POLSKIEJ;82827;61;total;82.8 MLN;URZĄD PATENTOWY RZECZYPOSPOLITEJ POLSKIEJ 82.8 MLN;URZĄD PATENTOWY RZECZYPOSPOLITEJ POLSKIEJ;URZĄD PATENTOWY RZECZYPOSPOLITEJ POLSKIEJ
+61;750;;Administracja publiczna;82822;61-750;61;82.8 MLN;Administracja publiczna 82.8 MLN;URZĄD PATENTOWY RZECZYPOSPOLITEJ POLSKIEJ;Administracja publiczna
+61;750;75001;Urzędy naczelnych i centralnych organów administracji rządowej;82822;61-750-75001;61-750;82.8 MLN;Urzędy naczelnych i centralnych organów administracji rządowej 82.8 MLN;URZĄD PATENTOWY RZECZYPOSPOLITEJ POLSKIEJ;Administracja publiczna
+61;752;;Obrona narodowa;5;61-752;61;0.0 MLN;Obrona narodowa 0.0 MLN;URZĄD PATENTOWY RZECZYPOSPOLITEJ POLSKIEJ;Obrona narodowa
+61;752;75212;Pozostałe wydatki obronne;5;61-752-75212;61-752;0.0 MLN;Pozostałe wydatki obronne 0.0 MLN;URZĄD PATENTOWY RZECZYPOSPOLITEJ POLSKIEJ;Obrona narodowa
+62;;;RYBOŁÓWSTWO;192894;62;total;192.9 MLN;RYBOŁÓWSTWO 192.9 MLN;RYBOŁÓWSTWO;RYBOŁÓWSTWO
+62;010;;Rolnictwo i łowiectwo;8100;62-010;62;8.1 MLN;Rolnictwo i łowiectwo 8.1 MLN;RYBOŁÓWSTWO;Rolnictwo i łowiectwo
+62;010;01027;Agencja Restrukturyzacji i Modernizacji Rolnictwa;8100;62-010-01027;62-010;8.1 MLN;Agencja Restrukturyzacji i Modernizacji Rolnictwa 8.1 MLN;RYBOŁÓWSTWO;Rolnictwo i łowiectwo
+62;050;;Rybołówstwo i rybactwo;154706;62-050;62;154.7 MLN;Rybołówstwo i rybactwo 154.7 MLN;RYBOŁÓWSTWO;Rybołówstwo i rybactwo
+62;050;05004;Główny Inspektorat Rybołówstwa Morskiego;14421;62-050-05004;62-050;14.4 MLN;Główny Inspektorat Rybołówstwa Morskiego 14.4 MLN;RYBOŁÓWSTWO;Rybołówstwo i rybactwo
+62;050;05006;Zarybianie polskich obszarów morskich;8500;62-050-05006;62-050;8.5 MLN;Zarybianie polskich obszarów morskich 8.5 MLN;RYBOŁÓWSTWO;Rybołówstwo i rybactwo
+62;050;05011;Program Operacyjny Zrównoważony rozwój sektora rybołówstwa i nadbrzeżnych obszarów rybackich 2007–2013, Program Operacyjny Rybactwo i Morze 2014–2020 oraz Program Fundusze Europejskie dla Rybactwa;122615;62-050-05011;62-050;122.6 MLN;Program Operacyjny Zrównoważony rozwój sektora rybołówstwa i nadbrzeżnych obszarów rybackich 2007–2013, Program Operacyjny Rybactwo i Morze 2014–2020 oraz Program Fundusze Europejskie dla Rybactwa 122.6 MLN;RYBOŁÓWSTWO;Rybołówstwo i rybactwo
+62;050;05095;Pozostała działalność;9170;62-050-05095;62-050;9.2 MLN;Pozostała działalność 9.2 MLN;RYBOŁÓWSTWO;Rybołówstwo i rybactwo
+62;750;;Administracja publiczna;30080;62-750;62;30.1 MLN;Administracja publiczna 30.1 MLN;RYBOŁÓWSTWO;Administracja publiczna
+62;750;75001;Urzędy naczelnych i centralnych organów administracji rządowej;30080;62-750-75001;62-750;30.1 MLN;Urzędy naczelnych i centralnych organów administracji rządowej 30.1 MLN;RYBOŁÓWSTWO;Administracja publiczna
+62;752;;Obrona narodowa;8;62-752;62;0.0 MLN;Obrona narodowa 0.0 MLN;RYBOŁÓWSTWO;Obrona narodowa
+62;752;75212;Pozostałe wydatki obronne;8;62-752-75212;62-752;0.0 MLN;Pozostałe wydatki obronne 0.0 MLN;RYBOŁÓWSTWO;Obrona narodowa
+63;;;RODZINA;59104;63;total;59.1 MLN;RODZINA 59.1 MLN;RODZINA;RODZINA
+63;750;;Administracja publiczna;45511;63-750;63;45.5 MLN;Administracja publiczna 45.5 MLN;RODZINA;Administracja publiczna
+63;750;75001;Urzędy naczelnych i centralnych organów administracji rządowej;23984;63-750-75001;63-750;24.0 MLN;Urzędy naczelnych i centralnych organów administracji rządowej 24.0 MLN;RODZINA;Administracja publiczna
+63;750;75080;Działalność badawczo-rozwojowa;23;63-750-75080;63-750;0.0 MLN;Działalność badawczo-rozwojowa 0.0 MLN;RODZINA;Administracja publiczna
+63;750;75095;Pozostała działalność;21504;63-750-75095;63-750;21.5 MLN;Pozostała działalność 21.5 MLN;RODZINA;Administracja publiczna
+63;752;;Obrona narodowa;2;63-752;63;0.0 MLN;Obrona narodowa 0.0 MLN;RODZINA;Obrona narodowa
+63;752;75212;Pozostałe wydatki obronne;2;63-752-75212;63-752;0.0 MLN;Pozostałe wydatki obronne 0.0 MLN;RODZINA;Obrona narodowa
+63;852;;Pomoc społeczna;4650;63-852;63;4.7 MLN;Pomoc społeczna 4.7 MLN;RODZINA;Pomoc społeczna
+63;852;85295;Pozostała działalność;4650;63-852-85295;63-852;4.7 MLN;Pozostała działalność 4.7 MLN;RODZINA;Pomoc społeczna
+63;855;;Rodzina;8941;63-855;63;8.9 MLN;Rodzina 8.9 MLN;RODZINA;Rodzina
+63;855;85501;Świadczenie wychowawcze;100;63-855-85501;63-855;0.1 MLN;Świadczenie wychowawcze 0.1 MLN;RODZINA;Rodzina
+63;855;85503;Karta Dużej Rodziny;5250;63-855-85503;63-855;5.2 MLN;Karta Dużej Rodziny 5.2 MLN;RODZINA;Rodzina
+63;855;85508;Rodziny zastępcze;1100;63-855-85508;63-855;1.1 MLN;Rodziny zastępcze 1.1 MLN;RODZINA;Rodzina
+63;855;85516;System opieki nad dziećmi w wieku do lat 3;2091;63-855-85516;63-855;2.1 MLN;System opieki nad dziećmi w wieku do lat 3 2.1 MLN;RODZINA;Rodzina
+63;855;85595;Pozostała działalność;400;63-855-85595;63-855;0.4 MLN;Pozostała działalność 0.4 MLN;RODZINA;Rodzina
+64;;;GŁÓWNY URZĄD MIAR;188519;64;total;188.5 MLN;GŁÓWNY URZĄD MIAR 188.5 MLN;GŁÓWNY URZĄD MIAR;GŁÓWNY URZĄD MIAR
+64;730;;Szkolnictwo wyższe i nauka;1379;64-730;64;1.4 MLN;Szkolnictwo wyższe i nauka 1.4 MLN;GŁÓWNY URZĄD MIAR;Szkolnictwo wyższe i nauka
+64;730;73095;Pozostała działalność;1379;64-730-73095;64-730;1.4 MLN;Pozostała działalność 1.4 MLN;GŁÓWNY URZĄD MIAR;Szkolnictwo wyższe i nauka
+64;750;;Administracja publiczna;187135;64-750;64;187.1 MLN;Administracja publiczna 187.1 MLN;GŁÓWNY URZĄD MIAR;Administracja publiczna
+64;750;75001;Urzędy naczelnych i centralnych organów administracji rządowej;59425;64-750-75001;64-750;59.4 MLN;Urzędy naczelnych i centralnych organów administracji rządowej 59.4 MLN;GŁÓWNY URZĄD MIAR;Administracja publiczna
+64;750;75007;Jednostki terenowe podległe naczelnym i centralnym organom administracji rządowej;127710;64-750-75007;64-750;127.7 MLN;Jednostki terenowe podległe naczelnym i centralnym organom administracji rządowej 127.7 MLN;GŁÓWNY URZĄD MIAR;Administracja publiczna
+64;752;;Obrona narodowa;5;64-752;64;0.0 MLN;Obrona narodowa 0.0 MLN;GŁÓWNY URZĄD MIAR;Obrona narodowa
+64;752;75212;Pozostałe wydatki obronne;5;64-752-75212;64-752;0.0 MLN;Pozostałe wydatki obronne 0.0 MLN;GŁÓWNY URZĄD MIAR;Obrona narodowa
+65;;;POLSKI KOMITET NORMALIZACYJNY;40864;65;total;40.9 MLN;POLSKI KOMITET NORMALIZACYJNY 40.9 MLN;POLSKI KOMITET NORMALIZACYJNY;POLSKI KOMITET NORMALIZACYJNY
+65;750;;Administracja publiczna;40864;65-750;65;40.9 MLN;Administracja publiczna 40.9 MLN;POLSKI KOMITET NORMALIZACYJNY;Administracja publiczna
+65;750;75002;Polski Komitet Normalizacyjny;40864;65-750-75002;65-750;40.9 MLN;Polski Komitet Normalizacyjny 40.9 MLN;POLSKI KOMITET NORMALIZACYJNY;Administracja publiczna
+66;;;RZECZNIK PRAW PACJENTA;17643;66;total;17.6 MLN;RZECZNIK PRAW PACJENTA 17.6 MLN;RZECZNIK PRAW PACJENTA;RZECZNIK PRAW PACJENTA
+66;750;;Administracja publiczna;17643;66-750;66;17.6 MLN;Administracja publiczna 17.6 MLN;RZECZNIK PRAW PACJENTA;Administracja publiczna
+66;750;75001;Urzędy naczelnych i centralnych organów administracji rządowej;17261;66-750-75001;66-750;17.3 MLN;Urzędy naczelnych i centralnych organów administracji rządowej 17.3 MLN;RZECZNIK PRAW PACJENTA;Administracja publiczna
+66;750;75095;Pozostała działalność;382;66-750-75095;66-750;0.4 MLN;Pozostała działalność 0.4 MLN;RZECZNIK PRAW PACJENTA;Administracja publiczna
+67;;;POLSKA AKADEMIA NAUK;110894;67;total;110.9 MLN;POLSKA AKADEMIA NAUK 110.9 MLN;POLSKA AKADEMIA NAUK;POLSKA AKADEMIA NAUK
+67;730;;Szkolnictwo wyższe i nauka;110894;67-730;67;110.9 MLN;Szkolnictwo wyższe i nauka 110.9 MLN;POLSKA AKADEMIA NAUK;Szkolnictwo wyższe i nauka
+67;730;73010;Działalność organów i korporacji uczonych Polskiej Akademii Nauk;18185;67-730-73010;67-730;18.2 MLN;Działalność organów i korporacji uczonych Polskiej Akademii Nauk 18.2 MLN;POLSKA AKADEMIA NAUK;Szkolnictwo wyższe i nauka
+67;730;73011;Działalność pomocniczych jednostek naukowych i innych jednostek organizacyjnych Polskiej Akademii Nauk;41962;67-730-73011;67-730;42.0 MLN;Działalność pomocniczych jednostek naukowych i innych jednostek organizacyjnych Polskiej Akademii Nauk 42.0 MLN;POLSKA AKADEMIA NAUK;Szkolnictwo wyższe i nauka
+67;730;73095;Pozostała działalność;50747;67-730-73095;67-730;50.7 MLN;Pozostała działalność 50.7 MLN;POLSKA AKADEMIA NAUK;Szkolnictwo wyższe i nauka
+68;;;PAŃSTWOWA AGENCJA ATOMISTYKI;47744;68;total;47.7 MLN;PAŃSTWOWA AGENCJA ATOMISTYKI 47.7 MLN;PAŃSTWOWA AGENCJA ATOMISTYKI;PAŃSTWOWA AGENCJA ATOMISTYKI
+68;150;;Przetwórstwo przemysłowe;25611;68-150;68;25.6 MLN;Przetwórstwo przemysłowe 25.6 MLN;PAŃSTWOWA AGENCJA ATOMISTYKI;Przetwórstwo przemysłowe
+68;150;15021;Program polskiej energetyki jądrowej;25498;68-150-15021;68-150;25.5 MLN;Program polskiej energetyki jądrowej 25.5 MLN;PAŃSTWOWA AGENCJA ATOMISTYKI;Przetwórstwo przemysłowe
+68;150;15095;Pozostała działalność;113;68-150-15095;68-150;0.1 MLN;Pozostała działalność 0.1 MLN;PAŃSTWOWA AGENCJA ATOMISTYKI;Przetwórstwo przemysłowe
+68;750;;Administracja publiczna;22133;68-750;68;22.1 MLN;Administracja publiczna 22.1 MLN;PAŃSTWOWA AGENCJA ATOMISTYKI;Administracja publiczna
+68;750;75001;Urzędy naczelnych i centralnych organów administracji rządowej;22133;68-750-75001;68-750;22.1 MLN;Urzędy naczelnych i centralnych organów administracji rządowej 22.1 MLN;PAŃSTWOWA AGENCJA ATOMISTYKI;Administracja publiczna
+69;;;ŻEGLUGA ŚRÓDLĄDOWA;33294;69;total;33.3 MLN;ŻEGLUGA ŚRÓDLĄDOWA 33.3 MLN;ŻEGLUGA ŚRÓDLĄDOWA;ŻEGLUGA ŚRÓDLĄDOWA
+69;600;;Transport i łączność;17499;69-600;69;17.5 MLN;Transport i łączność 17.5 MLN;ŻEGLUGA ŚRÓDLĄDOWA;Transport i łączność
+69;600;60042;Urzędy żeglugi śródlądowej;17069;69-600-60042;69-600;17.1 MLN;Urzędy żeglugi śródlądowej 17.1 MLN;ŻEGLUGA ŚRÓDLĄDOWA;Transport i łączność
+69;600;60095;Pozostała działalność;430;69-600-60095;69-600;0.4 MLN;Pozostała działalność 0.4 MLN;ŻEGLUGA ŚRÓDLĄDOWA;Transport i łączność
+69;750;;Administracja publiczna;8389;69-750;69;8.4 MLN;Administracja publiczna 8.4 MLN;ŻEGLUGA ŚRÓDLĄDOWA;Administracja publiczna
+69;750;75001;Urzędy naczelnych i centralnych organów administracji rządowej;8389;69-750-75001;69-750;8.4 MLN;Urzędy naczelnych i centralnych organów administracji rządowej 8.4 MLN;ŻEGLUGA ŚRÓDLĄDOWA;Administracja publiczna
+69;752;;Obrona narodowa;399;69-752;69;0.4 MLN;Obrona narodowa 0.4 MLN;ŻEGLUGA ŚRÓDLĄDOWA;Obrona narodowa
+69;752;75212;Pozostałe wydatki obronne;399;69-752-75212;69-752;0.4 MLN;Pozostałe wydatki obronne 0.4 MLN;ŻEGLUGA ŚRÓDLĄDOWA;Obrona narodowa
+69;801;;Oświata i wychowanie;7007;69-801;69;7.0 MLN;Oświata i wychowanie 7.0 MLN;ŻEGLUGA ŚRÓDLĄDOWA;Oświata i wychowanie
+69;801;80115;Technika;6998;69-801-80115;69-801;7.0 MLN;Technika 7.0 MLN;ŻEGLUGA ŚRÓDLĄDOWA;Oświata i wychowanie
+69;801;80146;Dokształcanie i doskonalenie nauczycieli;7;69-801-80146;69-801;0.0 MLN;Dokształcanie i doskonalenie nauczycieli 0.0 MLN;ŻEGLUGA ŚRÓDLĄDOWA;Oświata i wychowanie
+69;801;80195;Pozostała działalność;2;69-801-80195;69-801;0.0 MLN;Pozostała działalność 0.0 MLN;ŻEGLUGA ŚRÓDLĄDOWA;Oświata i wychowanie
+71;;;URZĄD TRANSPORTU KOLEJOWEGO;55335;71;total;55.3 MLN;URZĄD TRANSPORTU KOLEJOWEGO 55.3 MLN;URZĄD TRANSPORTU KOLEJOWEGO;URZĄD TRANSPORTU KOLEJOWEGO
+71;750;;Administracja publiczna;55335;71-750;71;55.3 MLN;Administracja publiczna 55.3 MLN;URZĄD TRANSPORTU KOLEJOWEGO;Administracja publiczna
+71;750;75001;Urzędy naczelnych i centralnych organów administracji rządowej;55335;71-750-75001;71-750;55.3 MLN;Urzędy naczelnych i centralnych organów administracji rządowej 55.3 MLN;URZĄD TRANSPORTU KOLEJOWEGO;Administracja publiczna
+72;;;KASA ROLNICZEGO UBEZPIECZENIA SPOŁECZNEGO;20141263;72;total;20.1 MLD;KASA ROLNICZEGO UBEZPIECZENIA SPOŁECZNEGO 20.1 MLD;KASA ROLNICZEGO UBEZPIECZENIA SPOŁECZNEGO;KASA ROLNICZEGO UBEZPIECZENIA SPOŁECZNEGO
+72;752;;Obrona narodowa;15;72-752;72;0.0 MLN;Obrona narodowa 0.0 MLN;KASA ROLNICZEGO UBEZPIECZENIA SPOŁECZNEGO;Obrona narodowa
+72;752;75212;Pozostałe wydatki obronne;15;72-752-75212;72-752;0.0 MLN;Pozostałe wydatki obronne 0.0 MLN;KASA ROLNICZEGO UBEZPIECZENIA SPOŁECZNEGO;Obrona narodowa
+72;753;;Obowiązkowe ubezpieczenia społeczne;20133783;72-753;72;20.1 MLD;Obowiązkowe ubezpieczenia społeczne 20.1 MLD;KASA ROLNICZEGO UBEZPIECZENIA SPOŁECZNEGO;Obowiązkowe ubezpieczenia społeczne
+72;753;75305;Fundusz Emerytalno-Rentowy;19878144;72-753-75305;72-753;19.9 MLD;Fundusz Emerytalno-Rentowy 19.9 MLD;KASA ROLNICZEGO UBEZPIECZENIA SPOŁECZNEGO;Obowiązkowe ubezpieczenia społeczne
+72;753;75306;Fundusz Prewencji i Rehabilitacji;13656;72-753-75306;72-753;13.7 MLN;Fundusz Prewencji i Rehabilitacji 13.7 MLN;KASA ROLNICZEGO UBEZPIECZENIA SPOŁECZNEGO;Obowiązkowe ubezpieczenia społeczne
+72;753;75313;Świadczenia finansowane z budżetu państwa zlecone do wypłaty Zakładowi Ubezpieczeń Społecznych i Kasie Rolniczego Ubezpieczenia Społecznego;241983;72-753-75313;72-753;242.0 MLN;Świadczenia finansowane z budżetu państwa zlecone do wypłaty Zakładowi Ubezpieczeń Społecznych i Kasie Rolniczego Ubezpieczenia Społecznego 242.0 MLN;KASA ROLNICZEGO UBEZPIECZENIA SPOŁECZNEGO;Obowiązkowe ubezpieczenia społeczne
+72;851;;Ochrona zdrowia;7459;72-851;72;7.5 MLN;Ochrona zdrowia 7.5 MLN;KASA ROLNICZEGO UBEZPIECZENIA SPOŁECZNEGO;Ochrona zdrowia
+72;851;85156;Składki na ubezpieczenie zdrowotne oraz świadczenia dla osób nieobjętych obowiązkiem ubezpieczenia zdrowotnego;7459;72-851-85156;72-851;7.5 MLN;Składki na ubezpieczenie zdrowotne oraz świadczenia dla osób nieobjętych obowiązkiem ubezpieczenia zdrowotnego 7.5 MLN;KASA ROLNICZEGO UBEZPIECZENIA SPOŁECZNEGO;Ochrona zdrowia
+72;853;;Pozostałe zadania w zakresie polityki społecznej;6;72-853;72;0.0 MLN;Pozostałe zadania w zakresie polityki społecznej 0.0 MLN;KASA ROLNICZEGO UBEZPIECZENIA SPOŁECZNEGO;Pozostałe zadania w zakresie polityki społecznej
+72;853;85335;Refundacja ulg dla inwalidów wojennych i wojskowych z tytułu ubezpieczenia OC i AC;6;72-853-85335;72-853;0.0 MLN;Refundacja ulg dla inwalidów wojennych i wojskowych z tytułu ubezpieczenia OC i AC 0.0 MLN;KASA ROLNICZEGO UBEZPIECZENIA SPOŁECZNEGO;Pozostałe zadania w zakresie polityki społecznej
+73;;;ZAKŁAD UBEZPIECZEŃ SPOŁECZNYCH;119358488;73;total;119.4 MLD;ZAKŁAD UBEZPIECZEŃ SPOŁECZNYCH 119.4 MLD;ZAKŁAD UBEZPIECZEŃ SPOŁECZNYCH;ZAKŁAD UBEZPIECZEŃ SPOŁECZNYCH
+73;753;;Obowiązkowe ubezpieczenia społeczne;70636608;73-753;73;70.6 MLD;Obowiązkowe ubezpieczenia społeczne 70.6 MLD;ZAKŁAD UBEZPIECZEŃ SPOŁECZNYCH;Obowiązkowe ubezpieczenia społeczne
+73;753;75303;Fundusz Ubezpieczeń Społecznych;64752297;73-753-75303;73-753;64.8 MLD;Fundusz Ubezpieczeń Społecznych 64.8 MLD;ZAKŁAD UBEZPIECZEŃ SPOŁECZNYCH;Obowiązkowe ubezpieczenia społeczne
+73;753;75310;Fundusz Emerytur Pomostowych;1842648;73-753-75310;73-753;1.8 MLD;Fundusz Emerytur Pomostowych 1.8 MLD;ZAKŁAD UBEZPIECZEŃ SPOŁECZNYCH;Obowiązkowe ubezpieczenia społeczne
+73;753;75313;Świadczenia finansowane z budżetu państwa zlecone do wypłaty Zakładowi Ubezpieczeń Społecznych i Kasie Rolniczego Ubezpieczenia Społecznego;4041119;73-753-75313;73-753;4.0 MLD;Świadczenia finansowane z budżetu państwa zlecone do wypłaty Zakładowi Ubezpieczeń Społecznych i Kasie Rolniczego Ubezpieczenia Społecznego 4.0 MLD;ZAKŁAD UBEZPIECZEŃ SPOŁECZNYCH;Obowiązkowe ubezpieczenia społeczne
+73;753;75395;Pozostała działalność;544;73-753-75395;73-753;0.5 MLN;Pozostała działalność 0.5 MLN;ZAKŁAD UBEZPIECZEŃ SPOŁECZNYCH;Obowiązkowe ubezpieczenia społeczne
+73;851;;Ochrona zdrowia;81500;73-851;73;81.5 MLN;Ochrona zdrowia 81.5 MLN;ZAKŁAD UBEZPIECZEŃ SPOŁECZNYCH;Ochrona zdrowia
+73;851;85156;Składki na ubezpieczenie zdrowotne oraz świadczenia dla osób nieobjętych obowiązkiem ubezpieczenia zdrowotnego;81500;73-851-85156;73-851;81.5 MLN;Składki na ubezpieczenie zdrowotne oraz świadczenia dla osób nieobjętych obowiązkiem ubezpieczenia zdrowotnego 81.5 MLN;ZAKŁAD UBEZPIECZEŃ SPOŁECZNYCH;Ochrona zdrowia
+73;853;;Pozostałe zadania w zakresie polityki społecznej;221;73-853;73;0.2 MLN;Pozostałe zadania w zakresie polityki społecznej 0.2 MLN;ZAKŁAD UBEZPIECZEŃ SPOŁECZNYCH;Pozostałe zadania w zakresie polityki społecznej
+73;853;85335;Refundacja ulg dla inwalidów wojennych i wojskowych z tytułu ubezpieczenia OC i AC;197;73-853-85335;73-853;0.2 MLN;Refundacja ulg dla inwalidów wojennych i wojskowych z tytułu ubezpieczenia OC i AC 0.2 MLN;ZAKŁAD UBEZPIECZEŃ SPOŁECZNYCH;Pozostałe zadania w zakresie polityki społecznej
+73;853;85395;Pozostała działalność;24;73-853-85395;73-853;0.0 MLN;Pozostała działalność 0.0 MLN;ZAKŁAD UBEZPIECZEŃ SPOŁECZNYCH;Pozostałe zadania w zakresie polityki społecznej
+73;855;;Rodzina;48640159;73-855;73;48.6 MLD;Rodzina 48.6 MLD;ZAKŁAD UBEZPIECZEŃ SPOŁECZNYCH;Rodzina
+73;855;85501;Świadczenie wychowawcze;40193819;73-855-85501;73-855;40.2 MLD;Świadczenie wychowawcze 40.2 MLD;ZAKŁAD UBEZPIECZEŃ SPOŁECZNYCH;Rodzina
+73;855;85504;Wspieranie rodziny;1354700;73-855-85504;73-855;1.4 MLD;Wspieranie rodziny 1.4 MLD;ZAKŁAD UBEZPIECZEŃ SPOŁECZNYCH;Rodzina
+73;855;85511;Składki na ubezpieczenia społeczne, w tym za osoby przebywające na urlopach wychowawczych, za osoby pobierające zasiłek macierzyński oraz za osoby zatrudnione jako nianie;4362193;73-855-85511;73-855;4.4 MLD;Składki na ubezpieczenia społeczne, w tym za osoby przebywające na urlopach wychowawczych, za osoby pobierające zasiłek macierzyński oraz za osoby zatrudnione jako nianie 4.4 MLD;ZAKŁAD UBEZPIECZEŃ SPOŁECZNYCH;Rodzina
+73;855;85514;Składki na ubezpieczenie zdrowotne opłacane za osoby przebywające na urlopach wychowawczych, za osoby zatrudnione jako nianie oraz za osoby sprawujące osobistą opiekę nad dzieckiem;80447;73-855-85514;73-855;80.4 MLN;Składki na ubezpieczenie zdrowotne opłacane za osoby przebywające na urlopach wychowawczych, za osoby zatrudnione jako nianie oraz za osoby sprawujące osobistą opiekę nad dzieckiem 80.4 MLN;ZAKŁAD UBEZPIECZEŃ SPOŁECZNYCH;Rodzina
+73;855;85516;System opieki nad dziećmi w wieku do lat 3;200000;73-855-85516;73-855;200.0 MLN;System opieki nad dziećmi w wieku do lat 3 200.0 MLN;ZAKŁAD UBEZPIECZEŃ SPOŁECZNYCH;Rodzina
+73;855;85517;Rodzinny kapitał opiekuńczy;2449000;73-855-85517;73-855;2.4 MLD;Rodzinny kapitał opiekuńczy 2.4 MLD;ZAKŁAD UBEZPIECZEŃ SPOŁECZNYCH;Rodzina
+74;;;PROKURATORIA GENERALNA RZECZYPOSPOLITEJ POLSKIEJ;66986;74;total;67.0 MLN;PROKURATORIA GENERALNA RZECZYPOSPOLITEJ POLSKIEJ 67.0 MLN;PROKURATORIA GENERALNA RZECZYPOSPOLITEJ POLSKIEJ;PROKURATORIA GENERALNA RZECZYPOSPOLITEJ POLSKIEJ
+74;750;;Administracja publiczna;66986;74-750;74;67.0 MLN;Administracja publiczna 67.0 MLN;PROKURATORIA GENERALNA RZECZYPOSPOLITEJ POLSKIEJ;Administracja publiczna
+74;750;75003;Prokuratoria Generalna Rzeczypospolitej Polskiej;66986;74-750-75003;74-750;67.0 MLN;Prokuratoria Generalna Rzeczypospolitej Polskiej 67.0 MLN;PROKURATORIA GENERALNA RZECZYPOSPOLITEJ POLSKIEJ;Administracja publiczna
+75;;;RZĄDOWE CENTRUM LEGISLACJI;40514;75;total;40.5 MLN;RZĄDOWE CENTRUM LEGISLACJI 40.5 MLN;RZĄDOWE CENTRUM LEGISLACJI;RZĄDOWE CENTRUM LEGISLACJI
+75;750;;Administracja publiczna;40507;75-750;75;40.5 MLN;Administracja publiczna 40.5 MLN;RZĄDOWE CENTRUM LEGISLACJI;Administracja publiczna
+75;750;75006;Rządowe Centrum Legislacji;40507;75-750-75006;75-750;40.5 MLN;Rządowe Centrum Legislacji 40.5 MLN;RZĄDOWE CENTRUM LEGISLACJI;Administracja publiczna
+75;752;;Obrona narodowa;7;75-752;75;0.0 MLN;Obrona narodowa 0.0 MLN;RZĄDOWE CENTRUM LEGISLACJI;Obrona narodowa
+75;752;75212;Pozostałe wydatki obronne;7;75-752-75212;75-752;0.0 MLN;Pozostałe wydatki obronne 0.0 MLN;RZĄDOWE CENTRUM LEGISLACJI;Obrona narodowa
+76;;;URZĄD KOMUNIKACJI ELEKTRONICZNEJ;142143;76;total;142.1 MLN;URZĄD KOMUNIKACJI ELEKTRONICZNEJ 142.1 MLN;URZĄD KOMUNIKACJI ELEKTRONICZNEJ;URZĄD KOMUNIKACJI ELEKTRONICZNEJ
+76;600;;Transport i łączność;142088;76-600;76;142.1 MLN;Transport i łączność 142.1 MLN;URZĄD KOMUNIKACJI ELEKTRONICZNEJ;Transport i łączność
+76;600;60047;Urząd Komunikacji Elektronicznej;142088;76-600-60047;76-600;142.1 MLN;Urząd Komunikacji Elektronicznej 142.1 MLN;URZĄD KOMUNIKACJI ELEKTRONICZNEJ;Transport i łączność
+76;752;;Obrona narodowa;55;76-752;76;0.1 MLN;Obrona narodowa 0.1 MLN;URZĄD KOMUNIKACJI ELEKTRONICZNEJ;Obrona narodowa
+76;752;75212;Pozostałe wydatki obronne;55;76-752-75212;76-752;0.1 MLN;Pozostałe wydatki obronne 0.1 MLN;URZĄD KOMUNIKACJI ELEKTRONICZNEJ;Obrona narodowa
+79;;;OBSŁUGA DŁUGU SKARBU PAŃSTWA;66000000;79;total;66.0 MLD;OBSŁUGA DŁUGU SKARBU PAŃSTWA 66.0 MLD;OBSŁUGA DŁUGU SKARBU PAŃSTWA;OBSŁUGA DŁUGU SKARBU PAŃSTWA
+79;757;;Obsługa długu publicznego;66000000;79-757;79;66.0 MLD;Obsługa długu publicznego 66.0 MLD;OBSŁUGA DŁUGU SKARBU PAŃSTWA;Obsługa długu publicznego
+79;757;75701;Obsługa zadłużenia, należności i innych operacji finansowych Skarbu Państwa na rynkach zagranicznych;5813184;79-757-75701;79-757;5.8 MLD;Obsługa zadłużenia, należności i innych operacji finansowych Skarbu Państwa na rynkach zagranicznych 5.8 MLD;OBSŁUGA DŁUGU SKARBU PAŃSTWA;Obsługa długu publicznego
+79;757;75703;Obsługa zadłużenia, należności i innych operacji finansowych Skarbu Państwa na rynku krajowym;60186816;79-757-75703;79-757;60.2 MLD;Obsługa zadłużenia, należności i innych operacji finansowych Skarbu Państwa na rynku krajowym 60.2 MLD;OBSŁUGA DŁUGU SKARBU PAŃSTWA;Obsługa długu publicznego
+80;;;REGIONALNE IZBY OBRACHUNKOWE;149900;80;total;149.9 MLN;REGIONALNE IZBY OBRACHUNKOWE 149.9 MLN;REGIONALNE IZBY OBRACHUNKOWE;REGIONALNE IZBY OBRACHUNKOWE
+80;750;;Administracja publiczna;149900;80-750;80;149.9 MLN;Administracja publiczna 149.9 MLN;REGIONALNE IZBY OBRACHUNKOWE;Administracja publiczna
+80;750;75015;Regionalne izby obrachunkowe;149900;80-750-75015;80-750;149.9 MLN;Regionalne izby obrachunkowe 149.9 MLN;REGIONALNE IZBY OBRACHUNKOWE;Administracja publiczna
+81;;;REZERWA OGÓLNA;985000;81;total;985.0 MLN;REZERWA OGÓLNA 985.0 MLN;REZERWA OGÓLNA;REZERWA OGÓLNA
+81;758;;Różne rozliczenia;985000;81-758;81;985.0 MLN;Różne rozliczenia 985.0 MLN;REZERWA OGÓLNA;Różne rozliczenia
+81;758;75817;Ogólna rezerwa budżetowa Rady Ministrów;985000;81-758-75817;81-758;985.0 MLN;Ogólna rezerwa budżetowa Rady Ministrów 985.0 MLN;REZERWA OGÓLNA;Różne rozliczenia
+82;;;SUBWENCJE OGÓLNE DLA JEDNOSTEK SAMORZĄDU TERYTORIALNEGO;85340202;82;total;85.3 MLD;SUBWENCJE OGÓLNE DLA JEDNOSTEK SAMORZĄDU TERYTORIALNEGO 85.3 MLD;SUBWENCJE OGÓLNE DLA JEDNOSTEK SAMORZĄDU TERYTORIALNEGO;SUBWENCJE OGÓLNE DLA JEDNOSTEK SAMORZĄDU TERYTORIALNEGO
+82;758;;Różne rozliczenia;85340202;82-758;82;85.3 MLD;Różne rozliczenia 85.3 MLD;SUBWENCJE OGÓLNE DLA JEDNOSTEK SAMORZĄDU TERYTORIALNEGO;Różne rozliczenia
+82;758;75801;Część oświatowa subwencji ogólnej dla jednostek samorządu terytorialnego;64432715;82-758-75801;82-758;64.4 MLD;Część oświatowa subwencji ogólnej dla jednostek samorządu terytorialnego 64.4 MLD;SUBWENCJE OGÓLNE DLA JEDNOSTEK SAMORZĄDU TERYTORIALNEGO;Różne rozliczenia
+82;758;75802;Uzupełnienie subwencji ogólnej dla jednostek samorządu terytorialnego;335999;82-758-75802;82-758;336.0 MLN;Uzupełnienie subwencji ogólnej dla jednostek samorządu terytorialnego 336.0 MLN;SUBWENCJE OGÓLNE DLA JEDNOSTEK SAMORZĄDU TERYTORIALNEGO;Różne rozliczenia
+82;758;75803;Część wyrównawcza subwencji ogólnej dla powiatów;2879367;82-758-75803;82-758;2.9 MLD;Część wyrównawcza subwencji ogólnej dla powiatów 2.9 MLD;SUBWENCJE OGÓLNE DLA JEDNOSTEK SAMORZĄDU TERYTORIALNEGO;Różne rozliczenia
+82;758;75804;Część wyrównawcza subwencji ogólnej dla województw;3171278;82-758-75804;82-758;3.2 MLD;Część wyrównawcza subwencji ogólnej dla województw 3.2 MLD;SUBWENCJE OGÓLNE DLA JEDNOSTEK SAMORZĄDU TERYTORIALNEGO;Różne rozliczenia
+82;758;75807;Część wyrównawcza subwencji ogólnej dla gmin;10529003;82-758-75807;82-758;10.5 MLD;Część wyrównawcza subwencji ogólnej dla gmin 10.5 MLD;SUBWENCJE OGÓLNE DLA JEDNOSTEK SAMORZĄDU TERYTORIALNEGO;Różne rozliczenia
+82;758;75819;Rezerwa subwencji ogólnej dla województw;320000;82-758-75819;82-758;320.0 MLN;Rezerwa subwencji ogólnej dla województw 320.0 MLN;SUBWENCJE OGÓLNE DLA JEDNOSTEK SAMORZĄDU TERYTORIALNEGO;Różne rozliczenia
+82;758;75831;Część równoważąca subwencji ogólnej dla gmin;994753;82-758-75831;82-758;994.8 MLN;Część równoważąca subwencji ogólnej dla gmin 994.8 MLN;SUBWENCJE OGÓLNE DLA JEDNOSTEK SAMORZĄDU TERYTORIALNEGO;Różne rozliczenia
+82;758;75832;Część równoważąca subwencji ogólnej dla powiatów;1508028;82-758-75832;82-758;1.5 MLD;Część równoważąca subwencji ogólnej dla powiatów 1.5 MLD;SUBWENCJE OGÓLNE DLA JEDNOSTEK SAMORZĄDU TERYTORIALNEGO;Różne rozliczenia
+82;758;75833;Część regionalna subwencji ogólnej dla województw;1169059;82-758-75833;82-758;1.2 MLD;Część regionalna subwencji ogólnej dla województw 1.2 MLD;SUBWENCJE OGÓLNE DLA JEDNOSTEK SAMORZĄDU TERYTORIALNEGO;Różne rozliczenia
