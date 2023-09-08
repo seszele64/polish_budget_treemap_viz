@@ -9,4 +9,5 @@
   - this data is included in `data` folder
 - transformed data needed for treemap visualisation can be found in `output_data` folder
 
-![treemap image](https://github.com/seszele64/polish_budget_treemap_viz/blob/main/Treemap.png?raw=true)
+- ![treemap image](https://github.com/seszele64/polish_budget_treemap_viz/blob/main/Treemap.png?raw=true)
+- ![treemap percapita image](Treemap%20-%20per%20capita.png)
