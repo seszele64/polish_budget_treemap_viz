@@ -2,6 +2,7 @@
 
 - repo for visualising budget expenditures on a plotly treemap using plotly go,
   - allows for changing depth of visualisation via buttons
+  - also lets you see the expenditures on per capita basis
 
 ## Data
 - source data can be found on [dane.gov.pl](https://dane.gov.pl/en/dataset/1179/resource/46184,ustawa-budzetowa-na-2023-rok-z-dnia-15-grudnia-2022-r/table)
